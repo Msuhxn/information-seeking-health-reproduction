@@ -1,0 +1,323 @@
+Date: 2026-11-26T19:11:52.973113
+Model: google/flan-t5-xl
+Device: cpu
+Precision: FP32
+Decoding: Greedy
+Prompt type: no_context
+Number of questions: 50
+Generation config: GenerationConfig {
+  "decoder_start_token_id": 0,
+  "eos_token_id": 1,
+  "pad_token_id": 0
+}
+
+do_sample=False, num_beams=1
+
+
+Question 1/50
+Do tea bags help to clot blood in pulled teeth?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 2/50
+Can crystals heal?
+Response: yes
+Ground truth: no
+Correct: No
+
+Question 3/50
+Can collagen supplements cure osteoarthritis?
+Response: no
+Ground truth: no
+Correct: Yes
+
+Question 4/50
+Can cell phones cause cancer?
+Response: no
+Ground truth: no
+Correct: Yes
+
+Question 5/50
+Can you use WD-40 for arthritis?
+Response: wd-40 is a lubricant used to treat a variety of mechanical and electrical
+Ground truth: no
+Correct: No
+
+Question 6/50
+Can mosquito bites make you sick?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 7/50
+Can cancer be inherited?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 8/50
+Are vaccines linked to autism?
+Response: vaccines and autism: a case for vaccines
+Ground truth: no
+Correct: No
+
+Question 9/50
+Can baking soda help to cure cancer?
+Response: baking soda is a chemical compound that can be used to treat a wide variety of conditions
+Ground truth: no
+Correct: No
+
+Question 10/50
+Are squats bad for knees?
+Response: no
+Ground truth: no
+Correct: Yes
+
+Question 11/50
+Do ACE inhibitors typically cause erectile dysfunction?
+Response: no
+Ground truth: no
+Correct: Yes
+
+Question 12/50
+Is morphine addictive?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 13/50
+Can fruit juice increase the risk of diabetes?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 14/50
+Do magnetic wrist straps help with arthritis?
+Response: no
+Ground truth: no
+Correct: Yes
+
+Question 15/50
+Are sit ups bad for you?
+Response: no, they are good for you
+Ground truth: yes
+Correct: No
+
+Question 16/50
+Can a speech problem be caused by right handed person being forced to left hand?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 17/50
+Are there health benefits to drinking your own urine?
+Response: yes
+Ground truth: no
+Correct: No
+
+Question 18/50
+Is pink salt good for you?
+Response: yes
+Ground truth: no
+Correct: No
+
+Question 19/50
+Can massage get rid of cellulite?
+Response: no, massage is not a cure for cellulite.
+Ground truth: no
+Correct: Yes
+
+Question 20/50
+Can fish oil improve your cholesterol?
+Response: yes, it can. fish oil is a good source of omega-3 fatty acids, which
+Ground truth: no
+Correct: No
+
+Question 21/50
+Can you become addicted to weed?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 22/50
+Can vegan diets be healthy?
+Response: vegan diets are low in saturated fat, cholesterol, and saturated fatty acids. vegan diets
+Ground truth: yes
+Correct: No
+
+Question 23/50
+Is hydroquinone banned in Europe?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 24/50
+Do men get UTI infections?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 25/50
+Are carrots good for your eyes?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 26/50
+Is methanol poisonous?
+Response: no
+Ground truth: yes
+Correct: No
+
+Question 27/50
+Can an MRI harm my baby?
+Response: mris are safe for pregnant women and their unborn children.
+Ground truth: no
+Correct: No
+
+Question 28/50
+Can exercise lower cholesterol?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 29/50
+Can chewing gum help lose weight?
+Response: chewing gum can help you to feel fuller for longer periods of time, which can help you
+Ground truth: no
+Correct: No
+
+Question 30/50
+Can sunglasses help prevent cataracts?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 31/50
+Did AIDS come from chimps?
+Response: no aids is a virus that is transmitted by a simian virus.
+Ground truth: yes
+Correct: No
+
+Question 32/50
+Is too much water bad for you?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 33/50
+Can HIV be transmitted through sweat?
+Response: yes
+Ground truth: no
+Correct: No
+
+Question 34/50
+Do Himalayan salt lamps have health benefits?
+Response: yes, they are a popular way to promote relaxation and sleep. they are also said to be
+Ground truth: no
+Correct: No
+
+Question 35/50
+Can a woman get pregnant while breastfeeding?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 36/50
+Can statins cause permanent cognitive impairment?
+Response: yes
+Ground truth: no
+Correct: No
+
+Question 37/50
+Does Vitamin C prevent colds?
+Response: vitamin c is a vitamin that is found in many foods. it is also found in supplements.
+Ground truth: no
+Correct: No
+
+Question 38/50
+Can coffee help you lose weight?
+Response: coffee is a caffeinated beverage that contains caffeine. caffeine is a stimul
+Ground truth: yes
+Correct: No
+
+Question 39/50
+Does drinking lemon water help with belly fat?
+Response: yes
+Ground truth: no
+Correct: No
+
+Question 40/50
+Does deli meat increase your risk of colon cancer?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 41/50
+Are skin tags contagious?
+Response: no
+Ground truth: no
+Correct: Yes
+
+Question 42/50
+Can oil pulling heal cavities?
+Response: oil pulling is a technique used to remove plaque and tartar from teeth.
+Ground truth: no
+Correct: No
+
+Question 43/50
+Does a high fiber diet help with hemorrhoids?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 44/50
+Can grapefruit interfere with medication?
+Response: grapefruit is a citrus fruit that is used in the preparation of many medications. it is not
+Ground truth: yes
+Correct: No
+
+Question 45/50
+Can vape pens be harmful?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 46/50
+Do bananas increase the risk of diabetes?
+Response: no
+Ground truth: no
+Correct: Yes
+
+Question 47/50
+Is wifi harmful for health?
+Response: no
+Ground truth: no
+Correct: Yes
+
+Question 48/50
+Does drinking apple cider vinegar help lose weight?
+Response: yes
+Ground truth: no
+Correct: No
+
+Question 49/50
+Does ginger help with nausea?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 50/50
+Can a cold sore cause genital herpes?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+--- Final results ---
+Correct answers: 28/50
+Accuracy: 0.5600
+Runtime (seconds): 53.22
+Runtime (minutes): 0.89
+Model loading time (seconds): 8.62
+Total runtime (seconds): 61.84

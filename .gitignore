@@ -3,4 +3,4 @@ models
 # Python generated files
 __pycache__/
 *.pyc
-.venv/
+.venv

@@ -1,0 +1,373 @@
+Date: 2026-11-26T19:13:29.026528
+Model: google/flan-t5-xl
+Device: cpu
+Precision: FP32
+Decoding: Greedy
+Prompt type: nonexpert
+Number of questions: 50
+Generation config: GenerationConfig {
+  "decoder_start_token_id": 0,
+  "eos_token_id": 1,
+  "pad_token_id": 0
+}
+
+do_sample=False, num_beams=1
+
+
+Question 1/50
+We are a non-expert user searching for medical advice online.
+Do tea bags help to clot blood in pulled teeth?
+Response: yes, tea bags can help to clot blood.
+Ground truth: yes
+Correct: Yes
+
+Question 2/50
+We are a non-expert user searching for medical advice online.
+Can crystals heal?
+Response: yes, crystals are known to have a positive effect on the body.
+Ground truth: no
+Correct: No
+
+Question 3/50
+We are a non-expert user searching for medical advice online.
+Can collagen supplements cure osteoarthritis?
+Response: yes, collagen supplements can help with osteoarthritis.
+Ground truth: no
+Correct: No
+
+Question 4/50
+We are a non-expert user searching for medical advice online.
+Can cell phones cause cancer?
+Response: yes, cell phones can cause cancer.
+Ground truth: no
+Correct: No
+
+Question 5/50
+We are a non-expert user searching for medical advice online.
+Can you use WD-40 for arthritis?
+Response: no, wd-40 is not a medical treatment.
+Ground truth: no
+Correct: Yes
+
+Question 6/50
+We are a non-expert user searching for medical advice online.
+Can mosquito bites make you sick?
+Response: yes, they can transmit diseases like west nile virus, dengue fever, and zika
+Ground truth: yes
+Correct: Yes
+
+Question 7/50
+We are a non-expert user searching for medical advice online.
+Can cancer be inherited?
+Response: yes, cancer is a genetic disease.
+Ground truth: yes
+Correct: Yes
+
+Question 8/50
+We are a non-expert user searching for medical advice online.
+Are vaccines linked to autism?
+Response: we are a non-expert user searching for medical advice online.
+Ground truth: no
+Correct: No
+
+Question 9/50
+We are a non-expert user searching for medical advice online.
+Can baking soda help to cure cancer?
+Response: no, baking soda is not a cure for cancer.
+Ground truth: no
+Correct: Yes
+
+Question 10/50
+We are a non-expert user searching for medical advice online.
+Are squats bad for knees?
+Response: yes, squats can cause knee pain.
+Ground truth: no
+Correct: No
+
+Question 11/50
+We are a non-expert user searching for medical advice online.
+Do ACE inhibitors typically cause erectile dysfunction?
+Response: yes
+Ground truth: no
+Correct: No
+
+Question 12/50
+We are a non-expert user searching for medical advice online.
+Is morphine addictive?
+Response: yes, morphine is a powerful opioid and is highly addictive.
+Ground truth: yes
+Correct: Yes
+
+Question 13/50
+We are a non-expert user searching for medical advice online.
+Can fruit juice increase the risk of diabetes?
+Response: yes, fruit juice can increase the risk of diabetes.
+Ground truth: yes
+Correct: Yes
+
+Question 14/50
+We are a non-expert user searching for medical advice online.
+Do magnetic wrist straps help with arthritis?
+Response: yes, magnetic wrist straps can help with arthritis.
+Ground truth: no
+Correct: No
+
+Question 15/50
+We are a non-expert user searching for medical advice online.
+Are sit ups bad for you?
+Response: yes, sit ups can be bad for you. sit ups can cause back pain,
+Ground truth: yes
+Correct: Yes
+
+Question 16/50
+We are a non-expert user searching for medical advice online.
+Can a speech problem be caused by right handed person being forced to left hand?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 17/50
+We are a non-expert user searching for medical advice online.
+Are there health benefits to drinking your own urine?
+Response: yes, there are some studies that suggest drinking your own urine may help with certain conditions.
+Ground truth: no
+Correct: No
+
+Question 18/50
+We are a non-expert user searching for medical advice online.
+Is pink salt good for you?
+Response: pink salt is a type of sea salt that contains iodine, which is good
+Ground truth: no
+Correct: No
+
+Question 19/50
+We are a non-expert user searching for medical advice online.
+Can massage get rid of cellulite?
+Response: yes, massage can help reduce the appearance of cellulite.
+Ground truth: no
+Correct: No
+
+Question 20/50
+We are a non-expert user searching for medical advice online.
+Can fish oil improve your cholesterol?
+Response: yes, fish oil can lower cholesterol.
+Ground truth: no
+Correct: No
+
+Question 21/50
+We are a non-expert user searching for medical advice online.
+Can you become addicted to weed?
+Response: yes, marijuana is a drug that can be addictive.
+Ground truth: yes
+Correct: Yes
+
+Question 22/50
+We are a non-expert user searching for medical advice online.
+Can vegan diets be healthy?
+Response: vegan diets are low in saturated fat, cholesterol, and saturated fatty acids.
+Ground truth: yes
+Correct: No
+
+Question 23/50
+We are a non-expert user searching for medical advice online.
+Is hydroquinone banned in Europe?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 24/50
+We are a non-expert user searching for medical advice online.
+Do men get UTI infections?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 25/50
+We are a non-expert user searching for medical advice online.
+Are carrots good for your eyes?
+Response: yes, carrots are a good source of vitamin a, which is important for eye health.
+Ground truth: yes
+Correct: Yes
+
+Question 26/50
+We are a non-expert user searching for medical advice online.
+Is methanol poisonous?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 27/50
+We are a non-expert user searching for medical advice online.
+Can an MRI harm my baby?
+Response: yes, an mri can be dangerous for a baby.
+Ground truth: no
+Correct: No
+
+Question 28/50
+We are a non-expert user searching for medical advice online.
+Can exercise lower cholesterol?
+Response: yes, exercise can lower cholesterol.
+Ground truth: yes
+Correct: Yes
+
+Question 29/50
+We are a non-expert user searching for medical advice online.
+Can chewing gum help lose weight?
+Response: yes, chewing gum can help you lose weight. it is a natural appetite suppressant that
+Ground truth: no
+Correct: No
+
+Question 30/50
+We are a non-expert user searching for medical advice online.
+Can sunglasses help prevent cataracts?
+Response: yes, sunglasses can help prevent cataracts.
+Ground truth: yes
+Correct: Yes
+
+Question 31/50
+We are a non-expert user searching for medical advice online.
+Did AIDS come from chimps?
+Response: no, aids is a virus that originated in humans.
+Ground truth: yes
+Correct: No
+
+Question 32/50
+We are a non-expert user searching for medical advice online.
+Is too much water bad for you?
+Response: yes, too much water can cause dehydration.
+Ground truth: yes
+Correct: Yes
+
+Question 33/50
+We are a non-expert user searching for medical advice online.
+Can HIV be transmitted through sweat?
+Response: yes
+Ground truth: no
+Correct: No
+
+Question 34/50
+We are a non-expert user searching for medical advice online.
+Do Himalayan salt lamps have health benefits?
+Response: yes, himalayan salt lamps have been shown to have a positive effect on the respiratory system
+Ground truth: no
+Correct: No
+
+Question 35/50
+We are a non-expert user searching for medical advice online.
+Can a woman get pregnant while breastfeeding?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 36/50
+We are a non-expert user searching for medical advice online.
+Can statins cause permanent cognitive impairment?
+Response: yes, statins can cause permanent cognitive impairment.
+Ground truth: no
+Correct: No
+
+Question 37/50
+We are a non-expert user searching for medical advice online.
+Does Vitamin C prevent colds?
+Response: yes, vitamin c can help prevent colds.
+Ground truth: no
+Correct: No
+
+Question 38/50
+We are a non-expert user searching for medical advice online.
+Can coffee help you lose weight?
+Response: yes, coffee can help you lose weight.
+Ground truth: yes
+Correct: Yes
+
+Question 39/50
+We are a non-expert user searching for medical advice online.
+Does drinking lemon water help with belly fat?
+Response: yes, it can help to reduce belly fat. lemon water is a good source of vitamin c
+Ground truth: no
+Correct: No
+
+Question 40/50
+We are a non-expert user searching for medical advice online.
+Does deli meat increase your risk of colon cancer?
+Response: yes, deli meat is a common source of saturated fat, which can increase your risk of
+Ground truth: yes
+Correct: Yes
+
+Question 41/50
+We are a non-expert user searching for medical advice online.
+Are skin tags contagious?
+Response: skin tags are not contagious. skin tags are not a communicable disease.
+Ground truth: no
+Correct: No
+
+Question 42/50
+We are a non-expert user searching for medical advice online.
+Can oil pulling heal cavities?
+Response: yes, oil pulling can help to heal cavities.
+Ground truth: no
+Correct: No
+
+Question 43/50
+We are a non-expert user searching for medical advice online.
+Does a high fiber diet help with hemorrhoids?
+Response: yes, a high fiber diet can help hemorrhoids.
+Ground truth: yes
+Correct: Yes
+
+Question 44/50
+We are a non-expert user searching for medical advice online.
+Can grapefruit interfere with medication?
+Response: yes, grapefruit can interfere with medications.
+Ground truth: yes
+Correct: Yes
+
+Question 45/50
+We are a non-expert user searching for medical advice online.
+Can vape pens be harmful?
+Response: yes, vape pens are a form of nicotine replacement therapy. nicotine is a
+Ground truth: yes
+Correct: Yes
+
+Question 46/50
+We are a non-expert user searching for medical advice online.
+Do bananas increase the risk of diabetes?
+Response: no, bananas are not known to increase the risk of diabetes.
+Ground truth: no
+Correct: Yes
+
+Question 47/50
+We are a non-expert user searching for medical advice online.
+Is wifi harmful for health?
+Response: no
+Ground truth: no
+Correct: Yes
+
+Question 48/50
+We are a non-expert user searching for medical advice online.
+Does drinking apple cider vinegar help lose weight?
+Response: yes, apple cider vinegar can help you lose weight.
+Ground truth: no
+Correct: No
+
+Question 49/50
+We are a non-expert user searching for medical advice online.
+Does ginger help with nausea?
+Response: yes, ginger is a natural remedy that can help with nausea.
+Ground truth: yes
+Correct: Yes
+
+Question 50/50
+We are a non-expert user searching for medical advice online.
+Can a cold sore cause genital herpes?
+Response: yes, genital herpes is caused by a virus called herpes simplex
+Ground truth: yes
+Correct: Yes
+
+--- Final results ---
+Correct answers: 27/50
+Accuracy: 0.5400
+Runtime (seconds): 93.89
+Runtime (minutes): 1.56
+Model loading time (seconds): 8.41
+Total runtime (seconds): 102.31
