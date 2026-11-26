@@ -183,8 +183,8 @@ def ask(
   outdir = outdir.resolve()
 
   outdir.relative_to(
-    (REPO_DIR / "reproduction" / "outputs" / "llama3").resolve()
-  )
+    (REPO_DIR / "reproduction" / "outputs").resolve()
+  )  # allow any model folder under reproduction/outputs (llama3, medllama3, ...)
 
   output_path = (outdir / outputfile).resolve()
 
