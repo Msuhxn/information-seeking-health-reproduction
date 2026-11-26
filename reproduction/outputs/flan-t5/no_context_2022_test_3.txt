@@ -1,0 +1,41 @@
+Date: 2026-11-26T19:06:20.590053
+Model: google/flan-t5-xl
+Device: cpu
+Precision: FP32
+Decoding: Greedy
+Prompt type: no_context
+Number of questions: 3
+Generation config: GenerationConfig {
+  "decoder_start_token_id": 0,
+  "eos_token_id": 1,
+  "pad_token_id": 0
+}
+
+do_sample=False, num_beams=1
+
+
+Question 1/3
+Do tea bags help to clot blood in pulled teeth?
+Response: yes
+Ground truth: yes
+Correct: Yes
+
+Question 2/3
+Can crystals heal?
+Response: yes
+Ground truth: no
+Correct: No
+
+Question 3/3
+Can collagen supplements cure osteoarthritis?
+Response: no
+Ground truth: no
+Correct: Yes
+
+--- Final results ---
+Correct answers: 2/3
+Accuracy: 0.6667
+Runtime (seconds): 1.43
+Runtime (minutes): 0.02
+Model loading time (seconds): 1565.82
+Total runtime (seconds): 1567.26
