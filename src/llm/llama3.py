@@ -21,13 +21,22 @@ Args:
 Return:
     - returns the context
 '''
-def load_context(
-  context:str
-)-> str:
-  if context:
-    with open(BASE_DIR / "contexts" / (context + ".txt")) as f:
-      context = f.read()
-  return context
+def load_context(context: str) -> str:
+  if context == "":
+    return ""
+
+  allowed_contexts = {
+    "nonexpert": "nonexpert.txt",
+    "expert": "expert.txt"
+  }
+
+  if context not in allowed_contexts:
+    raise ValueError("Unsupported context type")
+
+  context_path = BASE_DIR / "contexts" / allowed_contexts[context]
+
+  with open(context_path) as f:
+    return f.read()
 
 
 '''
@@ -74,12 +83,21 @@ def load_answers(
   year:int
 )-> dict:
   answers = {}
-  root = ET.parse(
-    BASE_DIR / "evaluation" /
-    f"misinfo-resources-{year}" /
-    "topics" /
-    f"misinfo-{year}-topics.xml"
-  ).getroot()
+
+  allowed_datasets = {
+    "2020": "misinfo-resources-2020/topics/misinfo-2020-topics.xml",
+    "2021": "misinfo-resources-2021/topics/misinfo-2021-topics.xml",
+    "2022": "misinfo-resources-2022/topics/misinfo-2022-topics.xml"
+  }
+
+  year = str(year)
+
+  if year not in allowed_datasets:
+    raise ValueError("Unsupported dataset year")
+
+  dataset_path = BASE_DIR / "evaluation" / allowed_datasets[year]
+
+  root = ET.parse(dataset_path).getroot()
   for topic in root.findall('topic'):
     if str(year)=="2022":
       query = topic.find("question").text 
@@ -137,11 +155,26 @@ def ask(
 )-> float:
   number_questions = len(eval)
   
-  if syst:
-    outputfile = expert + str(year) + '_s.txt'
-  else:
-    outputfile = expert + str(year) + '.txt'
+  allowed_files = {
+    ("", "2020"): "2020",
+    ("", "2021"): "2021",
+    ("", "2022"): "2022",
+    ("nonexpert", "2020"): "nonexpert2020",
+    ("nonexpert", "2021"): "nonexpert2021",
+    ("nonexpert", "2022"): "nonexpert2022",
+    ("expert", "2020"): "expert2020",
+    ("expert", "2021"): "expert2021",
+    ("expert", "2022"): "expert2022",
+  }
 
+  key = (expert, str(year))
+
+  if key not in allowed_files:
+    raise ValueError("Unsupported context or dataset year")
+
+  outputfile = allowed_files[key] + (
+    "_s.txt" if syst else ".txt"
+  )
   import os
   outdir = Path(os.environ.get(
     "OUTDIR",
@@ -153,9 +186,14 @@ def ask(
     (REPO_DIR / "reproduction" / "outputs" / "llama3").resolve()
   )
 
+  output_path = (outdir / outputfile).resolve()
+
+  if output_path.parent != outdir:
+    raise ValueError("Invalid output file path")
+
   outdir.mkdir(parents=True, exist_ok=True)
 
-  with open(outdir / outputfile, 'x') as f:
+  with open(output_path, 'x') as f:
     hits = 0
     for k, v in eval.items():
         prompt = get_prompt(context, syst, k)
@@ -187,8 +225,20 @@ def ask(
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("model", nargs='?', default="thewindmom/llama3-med42-8b") #  llama3.1:8b-instruct-q8_0
-    parser.add_argument("context", nargs='?', default="") 
-    parser.add_argument("year", nargs='?', default=2020)
+    parser.add_argument(
+        "context",
+        nargs="?",
+        default="",
+        choices=["", "nonexpert", "expert"]
+    )
+
+    parser.add_argument(
+        "year",
+        nargs="?",
+        type=int,
+        default=2020,
+        choices=[2020, 2021, 2022]
+    )
     args = parser.parse_args()
     context = load_context(args.context)
     eval = load_answers(args.year)

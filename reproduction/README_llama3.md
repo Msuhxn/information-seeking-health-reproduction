@@ -364,3 +364,54 @@ numerical reproducibility was not achieved.
 Further repeated experiments would be necessary
 to assess run-to-run stability and investigate
 the causes of the observed differences.
+
+## 16. Post-experiment Security Improvements
+
+Following submission of the pull request, SonarCloud
+Code Analysis reported a potential path traversal
+vulnerability in the output file handling of llama3.py.
+
+The following security improvements were implemented:
+
+- Explicit allowlist of permitted context filenames.
+- Explicit allowlist of permitted dataset paths.
+- Explicit allowlist of permitted output filenames.
+- Validation of the complete resolved output path.
+- Command-line argument validation using argparse.
+- Retention of exclusive file creation to prevent
+  accidental overwriting of experimental results.
+
+### Security Validation
+
+The following local tests passed:
+
+- Loading all supported context configurations.
+- Loading all supported dataset years.
+- Rejection of unsupported context names.
+- Rejection of context path traversal inputs.
+- Rejection of unsupported dataset years.
+- Rejection of dataset path traversal inputs.
+- Rejection of invalid output filenames.
+- Rejection of external output directories.
+- Prevention of overwriting existing files.
+- Preservation of existing file contents.
+- Python syntax validation.
+
+No LLM inference was performed during these tests.
+
+### Impact on Reproducibility
+
+These modifications were made after the original
+reproduction experiments.
+
+They restrict file access and validate inputs without
+intentionally changing the prompt wording, model
+configuration, inference parameters or evaluation logic.
+
+The original experimental outputs and metadata have
+been preserved.
+
+The full experiments were not repeated following
+these security improvements.
+
+SonarCloud reassessment is pending.
