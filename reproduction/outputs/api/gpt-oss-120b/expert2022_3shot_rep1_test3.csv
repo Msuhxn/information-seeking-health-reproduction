@@ -1,0 +1,4 @@
+n,question,ground_truth,prediction,correct,seconds,response
+1,Do tea bags help to clot blood in pulled teeth?,yes,yes,1,2.01,A: Yes.
+2,Can crystals heal?,no,no,1,0.81,No.
+3,Can collagen supplements cure osteoarthritis?,no,no,1,0.82,A: No.

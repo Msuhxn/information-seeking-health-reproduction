@@ -1,0 +1,403 @@
+n,question,ground_truth,prediction,correct,seconds,response
+1,Do tea bags help to clot blood in pulled teeth?,yes,yes,1,3.09,"A: Yes. Placing a warm, damp tea bag on the extraction site can help promote clot formation due to its astringent (tannic) properties, but always follow your dentist’s specific post‑extraction instructions."
+2,Can crystals heal?,no,no,1,1.36,"**A: No.**  
+
+There is no scientific evidence that crystals have any specific healing properties for medical conditions. While many people enjoy using crystals as a form of personal or spiritual practice, any perceived benefit is generally attributed to a placebo effect rather than a measurable physiological effect. If you have a health concern, it’s best to rely on treatments that are supported by clinical research and to discuss any complementary practices with a qualified healthcare professional."
+3,Can collagen supplements cure osteoarthritis?,no,no,1,1.5,"No. Collagen supplements have not been shown to cure osteoarthritis; they may provide modest symptom relief for some people, but they do not reverse the underlying joint damage."
+4,Can cell phones cause cancer?,no,no,1,2.46,"**A: No.**  
+
+Current scientific evidence does not show a clear link between typical cell‑phone use and cancer. Large epidemiologic studies have not found a consistent increase in cancer risk, and health agencies (e.g., the U.S. FDA, WHO) consider the weight of the data to be reassuring. The International Agency for Research on Cancer (IARC) classifies radiofrequency electromagnetic fields as *“possibly carcinogenic”* (Group 2B), which means there is limited evidence and more research is needed, but it is not a proven cause of cancer.
+
+If you’re still concerned, simple steps—such as using speakerphone or a wired headset, keeping the phone away from your body when not in use, and limiting call length—can reduce exposure, though such measures are not required for health safety based on present knowledge."
+5,Can you use WD-40 for arthritis?,no,no,1,1.32,"No. WD‑40 is a petroleum‑based lubricant and cleaning product, not a medication. It contains chemicals that are not safe for skin contact or internal use and can cause irritation, allergic reactions, or toxicity. For arthritis, proven treatments include physical therapy, anti‑inflammatory medications, topical NSAIDs, and lifestyle modifications. Always talk to a healthcare professional before trying any new remedy."
+6,Can mosquito bites make you sick?,yes,yes,1,5.42,"**Yes, mosquito bites can make you sick.**  
+
+Most mosquito bites are just itchy, red welts that go away on their own, but some mosquitoes are vectors for infectious diseases. Depending on where you are and the type of mosquito, a bite can transmit:
+
+| Disease | Common mosquito species | Typical symptoms | How it’s spread |
+|---------|--------------------------|------------------|-----------------|
+| **West Nile virus** | *Culex* spp. | Fever, headache, body aches, sometimes neurologic problems | Virus in the mosquito’s saliva |
+| **Dengue fever** | *Aedes aegypti*, *Aedes albopictus* | High fever, severe joint/muscle pain, rash, bleeding | Virus in the mosquito’s saliva |
+| **Zika virus** | *Aedes* spp. | Mild fever, rash, joint pain; can cause birth defects if infection occurs during pregnancy | Virus in the mosquito’s saliva |
+| **Chikungunya** | *Aedes* spp. | Sudden high fever, severe joint pain that can last months | Virus in the mosquito’s saliva |
+| **Malaria** (in certain regions) | *Anopheles* spp. | Cyclical fever, chills, flu‑like symptoms | Parasite (Plasmodium) in the mosquito’s saliva |
+| **Yellow fever** | *Aedes* & *Haemagogus* spp. | Fever, jaundice, bleeding | Virus in the mosquito’s saliva |
+| **Filariasis** | *Culex*, *Anopheles*, *Aedes* spp. | Swelling of limbs (elephantiasis) over years | Worm larvae (microfilariae) in the mosquito’s bite |
+| **Japanese encephalitis** | *Culex* spp. | Fever, headache, seizures, possible brain inflammation | Virus in the mosquito’s saliva |
+
+### Why some bites are less dangerous
+- **Species matters**: Not all mosquito species carry pathogens.
+- **Geography matters**: Certain diseases are endemic only in specific regions (e.g., malaria in parts of Africa, Asia, and South America; dengue in tropical/subtropical zones).
+- **Individual response**: Some people develop only mild local irritation, while others may have severe allergic reactions or develop an infection.
+
+### When to seek medical care
+Call a healthcare professional (or go to an urgent care/ER) if you experience any of the following after a bite:
+
+- **Fever, chills, or flu‑like symptoms** that develop within a few days to weeks.
+- **Severe headache, stiff neck, confusion, or seizures** (possible meningitis/encephalitis).
+- **Unexplained joint swelling or intense pain** lasting more than a few days.
+- **Rash that spreads quickly, especially with fever**.
+- **Signs of an allergic reaction**: swelling of the face/lips, difficulty breathing, hives, or a rapid heartbeat (this can be anaphylaxis and requires immediate emergency care).
+
+### Prevention tips
+1. **Avoid bites**: Use EPA‑registered insect repellents (e.g., DEET, picaridin, IR3535, oil of lemon eucalyptus), wear long sleeves/pants, and stay in screened or air‑conditioned areas.
+2. **Eliminate standing water** around your home (bird baths, flower pot saucers, old tires) where mosquitoes breed.
+3. **Use physical barriers**: Bed nets, window/door screens, and mosquito coils/buzzers when outdoors at dawn/dusk.
+4. **Vaccines** where available (e.g., Yellow Fever vaccine for travel to endemic areas).
+5. **Travel precautions**: If traveling to regions with known mosquito‑borne diseases, follow local health authority recommendations (prophylactic meds for malaria, etc.).
+
+### Bottom line
+Most mosquito bites are a minor nuisance, but they **can** transmit serious illnesses. Recognizing the signs of infection and taking preventive measures can dramatically reduce your risk. If you’re ever unsure, especially after developing systemic symptoms, it’s safest to contact a medical professional."
+7,Can cancer be inherited?,yes,yes,1,4.12,"**Can cancer be inherited?**  
+
+**Yes, a portion of cancers have a hereditary component.** Certain gene mutations that you inherit from your parents (germ‑line mutations) significantly increase the risk of developing specific cancers. Well‑known examples include:  
+
+| Inherited syndrome | Gene(s) involved | Associated cancers |
+|---------------------|-----------------|--------------------|
+| **BRCA1/BRCA2** | BRCA1, BRCA2 | Breast, ovarian, pancreatic, prostate |
+| **Lynch syndrome (HNPCC)** | MLH1, MSH2, MSH6, PMS2, EPCAM | Colorectal, endometrial, ovarian, stomach |
+| **Familial adenomatous polyposis (FAP)** | APC | Colon, duodenum, thyroid |
+| **Li‑Fraumeni syndrome** | TP53 | Breast, sarcoma, brain, adrenal |
+| **Hereditary melanoma** | CDKN2A, CDK4 | Melanoma, pancreatic |
+
+However, it’s important to keep a few key points in mind:
+
+1. **Most cancers are not purely inherited.** The majority arise from a mix of *somatic* (acquired) genetic changes, lifestyle, environmental exposures, and aging.  
+2. **Having a family history raises risk, but does not guarantee disease.** Even with a hereditary mutation, many people never develop cancer; conversely, people without known inherited mutations can still get cancer.  
+3. **Genetic counseling is valuable.** If you have multiple close relatives with the same type of cancer, early‑onset disease, or a known familial cancer syndrome, a genetics professional can assess your risk, discuss testing options, and advise on surveillance or risk‑reducing strategies.  
+4. **Screening and prevention matter.** For those with identified hereditary risks, targeted screening (e.g., colonoscopy, MRI, mammography) and, in some cases, prophylactic surgeries or chemoprevention can dramatically lower cancer incidence or catch disease early.
+
+**Bottom line:** Some cancers can indeed be inherited due to specific genetic mutations, but they represent a minority of all cancer cases. If you suspect a hereditary risk in your family, talk to a health‑care provider about referral to a genetic counselor for personalized evaluation."
+8,Are vaccines linked to autism?,no,no,1,0.84,"**Answer: No.**  
+Extensive research involving millions of children worldwide has found no credible evidence that vaccines cause or increase the risk of autism. Major health organizations—including the World Health Organization (WHO), the Centers for Disease Control and Prevention (CDC), and the American Academy of Pediatrics—all conclude that vaccines are safe and not linked to autism."
+9,Can baking soda help to cure cancer?,no,no,1,1.0,No.
+10,Are squats bad for knees?,no,no,1,1.63,"**Answer:** No, squats are not inherently bad for the knees.  
+
+When performed with proper technique—maintaining good alignment, avoiding excessive forward knee travel, and using appropriate weight—squats can actually strengthen the muscles around the knee and support joint health. However, poor form, excessively heavy loads, or existing knee pathology can cause discomfort or injury. If you have knee pain or a known knee condition, it's wise to consult a healthcare professional (e.g., physical therapist or physician) before adding squats to your routine and to get guidance on safe technique."
+11,Do ACE inhibitors typically cause erectile dysfunction?,no,no,1,2.67,"**A: No, ACE inhibitors are not typically associated with causing erectile dysfunction.**  
+
+ACE inhibitors (e.g., lisinopril, enalapril) are generally considered neutral or even slightly beneficial for sexual function compared with some other antihypertensive classes. While any medication can affect individuals differently, erectile dysfunction is not a common side effect of ACE inhibitors.
+
+**What to keep in mind**
+
+- If you notice new or worsening erectile problems after starting an ACE inhibitor, discuss it with your prescribing clinician.  
+- Several other factors (blood pressure, diabetes, stress, other medications, lifestyle) can also influence erectile function.  
+- Your doctor can evaluate the cause and, if needed, adjust your treatment plan.  
+
+*This information is for general knowledge and should not replace personalized medical advice. Always consult a healthcare professional for concerns about medication side effects.*"
+12,Is morphine addictive?,yes,yes,1,2.34,"**Yes**, morphine is an opioid with a high potential for addiction, especially when used repeatedly or in larger doses than prescribed. While it can be an effective pain reliever when used under a physician’s supervision, misuse or prolonged use can lead to physical dependence, tolerance, and addiction.
+
+**Key points to keep in mind**
+
+- **Medical supervision is essential.** Only take morphine exactly as prescribed by a qualified healthcare professional.  
+- **Risk factors** for developing an addiction include a personal or family history of substance use disorders, high doses, long‑term use, and taking the medication for non‑pain reasons (e.g., to “feel good”).  
+- **Signs of developing dependence/addiction** may include cravings, taking the drug more often or in higher amounts than prescribed, feeling unable to stop, and using it despite negative physical, social, or occupational consequences.  
+- **If you notice these signs** or have concerns about dependence, discuss them promptly with your prescriber; they can adjust the treatment plan, provide tapering instructions, or refer you to addiction specialists.  
+- **Safe disposal**: If you have leftover morphine, do not keep it at home. Follow local guidelines for disposing of unused opioids (often via take‑back programs or specific disposal bags).  
+
+**Bottom line:** Morphine is an effective analgesic when used correctly, but it carries a significant risk of addiction. Always follow medical guidance, and seek professional help if you have any concerns about dependence or misuse."
+13,Can fruit juice increase the risk of diabetes?,yes,yes,1,3.83,"**Answer: Yes.**  
+
+Regular consumption of fruit juice—especially in large quantities—can increase the risk of developing type 2 diabetes.  
+
+**Why this happens**
+
+| Factor | How it contributes |
+|--------|-------------------|
+| **High sugar content** | Fruit juices contain a lot of natural sugars (fructose, glucose, sucrose) that are absorbed quickly, leading to spikes in blood‑glucose and insulin levels. |
+| **Lack of fiber** | Whole fruit provides fiber that slows sugar absorption; juice removes most of that fiber, so you get a rapid glucose load without the moderating effect. |
+| **Caloric density** | It’s easy to consume many calories quickly (e.g., a 12‑oz bottle can have 150–200 kcal), which can contribute to weight gain—a major risk factor for diabetes. |
+| **Portion distortion** | People often treat a cup of juice as “just a serving of fruit,” but it can contain the sugar of several whole fruits. |
+
+**What the research shows**
+
+- Large prospective cohort studies have found that higher intake of sugar‑sweetened beverages and even 100 % fruit juice is linked with a modestly increased odds (about 15‑30 % higher) of developing type 2 diabetes over 5–10 years.
+- The effect is strongest when juice is consumed **daily** or in **large portions** (≥250 mL/8 oz). Occasional, small servings (e.g., ½ cup) have a much smaller impact.
+
+**Practical recommendations**
+
+1. **Limit portion size** – Aim for ≤ 4 oz (≈120 mL) per day, and treat it as a treat rather than a staple.
+2. **Choose whole fruit** – Whole apples, berries, oranges, etc., give you fiber, vitamins, and a lower glycemic impact.
+3. **Watch added sugars** – If the juice has any added sweeteners (e.g., “fruit cocktail,” “punch”), the diabetes risk is even higher.
+4. **Balance with overall diet** – A diet rich in vegetables, whole grains, lean proteins, and healthy fats can offset occasional juice consumption.
+5. **Consider alternatives** – Diluting juice with water or using a splash of juice in smoothies can reduce sugar load while still providing flavor.
+
+**Bottom line:** Enjoy fruit juice sparingly, and prioritize whole fruit and a balanced diet to keep your diabetes risk as low as possible. If you have existing pre‑diabetes, obesity, or other metabolic concerns, discuss your beverage choices with a healthcare professional for personalized guidance."
+14,Do magnetic wrist straps help with arthritis?,no,no,1,2.66,"**Answer: No.**  
+
+Current scientific evidence does not support magnetic wrist straps (or similar “magnet therapy” devices) as an effective treatment for arthritis pain or joint function. Most well‑controlled studies have found no clinically meaningful benefit beyond a placebo effect. If you have arthritis, proven approaches such as appropriate physical therapy, regular low‑impact exercise, weight management, anti‑inflammatory medications (as prescribed), and joint‑protective strategies are recommended.  
+
+*Disclaimer: This information is for general educational purposes and does not replace personalized medical advice. Always consult a qualified health professional before starting or changing any treatment.*"
+15,Are sit ups bad for you?,yes,no,0,3.4,"**Answer: No – sit‑ups aren’t inherently “bad,” but they can be harmful if done with poor form or when you have certain back or hip problems.**  
+
+**Why:**  
+- **Proper technique matters.** If you arch your lower back, pull on your neck, or use momentum instead of controlled muscle contraction, you place excess stress on the lumbar spine and hip flexors. Over time this can lead to lower‑back strain or aggravate existing issues.  
+- **Individual factors.** People with a history of low‑back pain, lumbar disc herniation, or hip flexor tightness may find that traditional sit‑ups exacerbate discomfort. In those cases, alternative core exercises (e.g., planks, dead‑bugs, bird‑dogs, or standing core work) are usually safer.  
+- **Balanced training.** Relying solely on sit‑ups can create muscle imbalances; the abdominal wall should be trained alongside the back extensors, glutes, and hip stabilizers for a healthy spine.
+
+**Recommendations:**  
+1. **Learn proper form** – keep the lower back pressed into the floor, engage the core before lifting, and avoid pulling on the head/neck.  
+2. **Start slowly** – begin with a few repetitions and progress gradually as strength improves.  
+3. **Listen to your body** – stop if you feel sharp or persistent low‑back pain.  
+4. **Consider alternatives** – planks, side‑planks, Pallof presses, and anti‑rotation movements often provide comparable core benefits with less spinal loading.  
+
+**Bottom line:** Sit‑ups are not “bad” per se, but they should be performed correctly and may not be the best choice for everyone. If you have existing back or hip issues, or if you’re unsure about technique, consult a qualified health‑care professional (e.g., physical therapist, physician, or certified trainer) before making them a regular part of your routine."
+16,Can a speech problem be caused by right handed person being forced to left hand?,yes,yes,1,3.73,"**Yes, it can be a contributing factor.**  
+
+When a right‑handed child (or adult) is forced to use the left hand, it can create an atypical pattern of brain lateralization. Since language functions are usually dominant in the left hemisphere (which also controls the right side of the body), altering the natural hand‑dominance relationship may increase the risk of speech‑related difficulties such as stuttering or articulation problems.  
+
+**Key points**
+
+| Aspect | Details |
+|--------|---------|
+| **Neurodevelopment** | Handedness and language are linked in the brain; forcing a switch can disrupt normal lateralization. |
+| **Evidence** | Some studies show higher rates of speech‑language disorders in individuals who were pressured to change dominant hand, especially when the change occurs early in childhood. |
+| **Severity** | The effect is usually mild to moderate; many people adapt without lasting speech issues. |
+| **Other factors** | Genetics, environment, and how the forced change was implemented (e.g., abrupt vs. gradual) also influence outcomes. |
+| **When to worry** | Persistent speech problems, worsening stutter, or difficulty being understood should prompt evaluation. |
+
+**What to do**
+
+1. **Consult a speech‑language pathologist** for a professional assessment.  
+2. **Discuss handedness history** with a neurologist or pediatrician if the issue began after a forced switch.  
+3. **Consider therapeutic strategies** (e.g., speech therapy, occupational therapy) to address both speech and any residual motor coordination concerns.  
+
+*Disclaimer: This information is for general educational purposes and is not a substitute for personalized medical advice. Always seek evaluation from qualified healthcare professionals for specific concerns.*"
+17,Are there health benefits to drinking your own urine?,no,no,1,0.82,No.
+18,Is pink salt good for you?,no,no,1,1.95,No.
+19,Can massage get rid of cellulite?,no,no,1,1.23,No.
+20,Can fish oil improve your cholesterol?,no,yes,0,0.71,Yes.
+21,Can you become addicted to weed?,yes,yes,1,5.22,"**Can you become addicted to weed? – Yes.**  
+
+Regular or heavy use of cannabis (marijuana) can lead to a condition known as **cannabis use disorder** (sometimes called “marijuana addiction”). While many people use cannabis without developing a problem, a substantial minority do experience difficulty stopping or reducing use despite negative consequences.
+
+### What cannabis use disorder looks like
+Typical signs and symptoms include:
+
+| Category | Common Indicators |
+|----------|-------------------|
+| **Behavioral** | • Using more cannabis than intended or for longer periods<br>• Unsuccessful attempts to cut down or quit<br>• Spending a lot of time obtaining, using, or recovering from cannabis<br>• Continuing use despite problems at work, school, or in relationships |
+| **Physical/Physiological** | • Cravings or strong urges to use<br>• Withdrawal symptoms when not using (e.g., irritability, anxiety, sleep disturbances, decreased appetite, restlessness) |
+| **Psychological** | • Using to cope with stress, anxiety, or depression<br>• Feeling that cannabis is needed to function normally |
+| **Social/Functional** | • Neglecting responsibilities (studies, job, household tasks)<br>• Giving up activities that were once enjoyable<br>• Legal or financial problems related to use |
+
+### How common is it?
+- About **10 %** of people who use cannabis will develop dependence at some point in their lives.
+- The risk rises with **more frequent use** (daily or multiple times per day) and **earlier age of first use** (starting in adolescence).  
+- Some studies suggest the risk can be **15–20 %** among daily users.
+
+### Factors that increase risk
+- **Early initiation** (especially before age 18)  
+- **High‑potency strains** (higher THC concentrations)  
+- **Genetic predisposition** to substance use disorders  
+- **Co‑occurring mental health conditions** (e.g., anxiety, depression)  
+- **Environmental stressors** (e.g., peer pressure, trauma)
+
+### When to seek help
+If you (or someone you know) notice any of the signs above, it may be time to talk to a health professional. Options include:
+
+1. **Primary‑care physician** – can screen, provide brief counseling, and refer to specialty care.
+2. **Mental‑health professional** (psychologist, psychiatrist, counselor) – can offer cognitive‑behavioral therapy (CBT) or motivational interviewing, which are effective for substance‑use concerns.
+3. **Substance‑use treatment programs** – outpatient or intensive programs, sometimes including support groups (e.g., Marijuana Anonymous).
+4. **Tele‑health/online resources** – many reputable clinics now offer virtual counseling for cannabis‑related concerns.
+
+### Tips for reducing risk or cutting back
+- **Set clear limits** (e.g., only on weekends, specific amount).  
+- **Track use** in a journal or app to become aware of patterns.  
+- **Find alternative coping strategies** (exercise, mindfulness, hobbies).  
+- **Avoid triggers** such as certain social circles or environments where cannabis is readily available.  
+- **Consider a “taper”** rather than quitting abruptly, especially if you’ve been using heavily; decreasing dose gradually can lessen withdrawal symptoms.
+
+### Bottom line
+Yes, it is possible to become addicted to cannabis. If use feels out of control, or you’re experiencing negative physical, emotional, or social effects, professional help can make a big difference. Reaching out early often leads to better outcomes. If you have concerns, consider scheduling an appointment with a health‑care provider to discuss your specific situation."
+22,Can vegan diets be healthy?,yes,yes,1,0.66,Yes.
+23,Is hydroquinone banned in Europe?,yes,no,0,2.56,"**Answer:**  
+
+In the European Union, hydroquinone is **prohibited in cosmetic products** (e.g., skin‑lightening creams that can be bought over the counter). The EU’s Cosmetic Regulation (Regulation (EC) No 1223/2009) classifies hydroquinone as a “substance prohibited in cosmetics,” so it cannot be marketed or sold for cosmetic use.
+
+However, hydroquinone is **not completely banned** in Europe. It is still allowed as a **prescription‑only medicinal ingredient** for certain dermatologic conditions (e.g., treatment of hyperpigmentation) and must be dispensed by a qualified health professional. The concentration and formulation are strictly controlled, and each member state may have its own additional requirements.
+
+**Bottom line:**  
+- **Cosmetic use:** banned across the EU.  
+- **Medical use:** permitted only under prescription and subject to strict regulation.
+
+*Please note that regulations can change, and local laws may vary. If you are considering a product containing hydroquinone, consult a dermatologist or pharmacist in your country to ensure it is legal and appropriate for your situation.*"
+24,Do men get UTI infections?,yes,yes,1,0.81,Yes.
+25,Are carrots good for your eyes?,yes,yes,1,1.71,"**Yes.** Carrots are rich in beta‑carotene, which the body converts to vitamin A—a nutrient essential for maintaining healthy eyes and good low‑light (night) vision. Including carrots as part of a balanced diet can support eye health, but they won’t correct refractive errors or treat eye diseases on their own. It’s still important to eat a variety of colorful fruits and vegetables and follow any specific eye‑care recommendations from a healthcare professional."
+26,Is methanol poisonous?,yes,yes,1,2.22,"**Yes, methanol is poisonous.**  
+
+Methanol (also called wood alcohol) is a toxic substance that can be absorbed through ingestion, inhalation, or skin contact. Even relatively small amounts can cause serious health effects, including:
+
+- **Nausea, vomiting, abdominal pain**  
+- **Metabolic acidosis** (a dangerous disturbance in the body’s acid‑base balance)  
+- **Vision problems** ranging from blurred vision to permanent blindness  
+- **Central nervous system depression**, which can lead to coma or death  
+
+Because the symptoms may be delayed for several hours after exposure, it’s critical to seek immediate medical attention if you suspect methanol ingestion or significant exposure. Treatment often involves administering an antidote (such as fomepizole or ethanol) and supportive care.
+
+**Safety tip:** Keep methanol and products containing it (e.g., some solvents, windshield‑washer fluid, certain fuels) out of reach of children, and use proper protective equipment (gloves, goggles, ventilation) when handling it. If you have any doubt about exposure, call emergency services or a poison control center right away."
+27,Can an MRI harm my baby?,no,NONE,0,2.93,"**Short answer:** For most situations, an MRI does **not** harm a baby.  
+
+**Why:**  
+- MRI uses magnetic fields and radio waves, not ionizing radiation (X‑rays), so it does not expose the fetus to the same risks that CT scans or X‑rays do.  
+- When a standard, non‑contrast MRI is performed, studies have not shown an increased risk of birth defects, miscarriage, or other adverse outcomes.  
+
+**When extra caution is needed:**  
+- **Contrast agents (gadolinium‑based):** These can cross the placenta and have been associated with rare fetal effects. They are only used in pregnancy if the potential benefit to the mother outweighs the potential risk to the fetus.  
+- **Late‑second‑trimester or third‑trimester scans:** Most clinicians feel comfortable ordering MRI at any stage, but some prefer to delay non‑essential scans until after the first trimester when organ development is largely complete.  
+
+**Practical tips:**  
+1. **Tell the imaging team you’re pregnant.** They will verify the gestational age and decide whether a non‑contrast MRI is appropriate.  
+2. **Ask about the need for contrast.** If the doctor recommends gadolinium, request a clear explanation of why it’s necessary and whether an alternative imaging test could be used instead.  
+3. **Stay still and follow breathing instructions** (if given) to obtain clear images while minimizing scan time.  
+4. **Follow any hospital-specific policies**—some institutions have protocols for pregnant patients that include positioning (e.g., left‑lateral tilt) to maintain comfortable blood flow.  
+
+**Bottom line:** A routine, non‑contrast MRI is considered safe for the developing baby, but you should always discuss the specific indication and any use of contrast with your obstetrician and the radiology team. If you have any lingering concerns, ask your doctor to explain the risks and benefits in the context of your particular health situation."
+28,Can exercise lower cholesterol?,yes,yes,1,1.43,Yes.
+29,Can chewing gum help lose weight?,no,yes,0,1.2,"**Answer: Yes.**  
+
+Chewing gum can marginally aid weight‑loss efforts. The act of chewing can help reduce cravings and modestly increase the number of calories you burn, but the effect is small. It should be viewed as a supplemental habit—combined with a balanced diet and regular physical activity—for any meaningful weight loss. If you have specific health concerns or conditions, consult a healthcare professional."
+30,Can sunglasses help prevent cataracts?,yes,yes,1,1.2,Yes. Wearing sunglasses that block UV rays can help reduce the risk of developing cataracts.
+31,Did AIDS come from chimps?,yes,yes,1,1.45,"A: Yes. Most scientific evidence indicates that HIV‑1, the virus that causes AIDS, originated from a simian immunodeficiency virus (SIV) that naturally infects chimpanzees (SIVcpz). The virus crossed species sometime in the early‑to‑mid‑20th century, likely through activities such as hunting, butchering, or handling of infected chimpanzee meat, and then adapted to humans, eventually leading to the global HIV/AIDS pandemic. (HIV‑2, a less common form of the disease, has a similar origin from SIV in sooty mangabey monkeys.)"
+32,Is too much water bad for you?,yes,yes,1,4.41,"**Yes – drinking more water than your body can handle can be harmful.**  
+
+When you consume water faster than your kidneys can excrete it (about 0.8–1 L per hour), the excess dilutes the sodium in your blood and can cause **hyponatremia** (low blood sodium). Hyponatremia can lead to symptoms ranging from mild (headache, nausea, muscle cramps) to severe (confusion, seizures, coma) and, in extreme cases, can be life‑threatening.
+
+### When excessive water intake is most likely to be a problem
+| Situation | Why it matters |
+|-----------|----------------|
+| **Endurance events** (marathons, ultra‑triathlons) | Sweat loss + large volumes of fluid can overload the body, especially if electrolytes aren’t replaced. |
+| **Heat‑exposure or heavy exercise** | You may feel compelled to drink a lot, but electrolyte balance is crucial. |
+| **Certain medical conditions** (e.g., heart failure, kidney disease, SIADH) | The body’s ability to excrete water is already compromised. |
+| **Psychogenic polydipsia** (compulsive over‑drinking) | Often linked to psychiatric conditions and can lead to chronic hyponatremia. |
+
+### How to recognize over‑hydration
+- Nausea, vomiting, or stomach upset
+- Persistent headache
+- Confusion or difficulty concentrating
+- Swelling (edema), especially in the hands/feet
+- Muscle cramps or weakness
+- In severe cases: seizures or loss of consciousness
+
+### General guidance for healthy adults
+| Recommendation | Typical range |
+|----------------|----------------|
+| **Daily water intake** (including all beverages and food) | ~2.5 L (≈ 8‑10 cups) for women, ~3.7 L (≈ 13‑15 cups) for men – **these are averages**; individual needs vary. |
+| **Maximum safe intake** | Roughly 0.8–1 L per hour, assuming normal kidney function and no extreme heat/exercise. |
+| **Listen to your body** | Thirst is a reliable indicator for most people; aim to drink enough to keep urine light yellow. |
+| **Replace electrolytes** | During prolonged exercise or heat exposure, consider drinks that contain sodium, potassium, and magnesium. |
+
+### Bottom line
+While staying well‑hydrated is essential for health, **excessive water intake can be detrimental**, especially in certain contexts. Aim for a balanced approach: drink when you’re thirsty, adjust for activity level, climate, and any medical conditions, and consider electrolyte replacement when you’re sweating heavily or exercising for long periods. If you have a condition that affects fluid balance (e.g., heart or kidney disease), talk with your healthcare provider about the appropriate fluid target for you."
+33,Can HIV be transmitted through sweat?,no,no,1,2.48,"**Q:** Can HIV be transmitted through sweat?  
+**A:** No. HIV is not spread through sweat. The virus is transmitted only through specific bodily fluids that contain a sufficient amount of the virus—namely blood, semen, vaginal fluids, rectal fluids, and breast milk—when they come into direct contact with the bloodstream of another person. Sweat does not contain HIV in quantities that can cause infection, and casual contact such as touching, hugging, or sharing objects does not pose a risk.  
+
+If you have specific concerns about HIV exposure or need personalized guidance, please consult a healthcare professional."
+34,Do Himalayan salt lamps have health benefits?,no,no,1,0.65,No.
+35,Can a woman get pregnant while breastfeeding?,yes,yes,1,1.12,"Yes. Breastfeeding can suppress ovulation for some women, but it does not guarantee infertility; pregnancy can still occur while nursing."
+36,Can statins cause permanent cognitive impairment?,no,no,1,1.96,"**A:** No – statins have not been proven to cause permanent cognitive impairment.
+
+Statins are occasionally associated with mild, reversible memory or concentration problems in a small number of people, but large studies have not shown lasting brain damage. If you notice any changes in thinking or memory while taking a statin, discuss them with your healthcare provider; they may adjust the dose, switch to a different medication, or investigate other causes.  
+
+*This information is for educational purposes and does not replace professional medical advice.*"
+37,Does Vitamin C prevent colds?,no,no,1,1.25,"**A:** No.  Current evidence shows that taking vitamin C does not prevent people from getting colds.  It may modestly shorten the duration or severity of a cold in some individuals, but it does not reduce the overall risk of catching one."
+38,Can coffee help you lose weight?,yes,NONE,0,4.78,"**Short answer:**  
+Coffee can give a **small, temporary boost** to metabolism and may modestly suppress appetite, so it might help with weight loss — but the effect is modest and should not be relied on as the primary method for losing weight.
+
+**What the evidence says**
+
+| What studies have found | Typical magnitude of effect |
+|--------------------------|-----------------------------|
+| Caffeine (the main active ingredient in coffee) can increase resting metabolic rate by about **3–5 %** for a few hours after consumption. | Roughly 30–50 extra calories burned per day for a typical dose (≈150 mg caffeine). |
+| Regular coffee drinkers often report slightly **lower body‑mass index (BMI)** than non‑drinkers in observational studies. | Differences are usually **½ kg to 1 kg** (≈1–2 lb) over many months or years, after accounting for other lifestyle factors. |
+| Randomized trials of caffeine or coffee added to a diet‑and‑exercise program show **small additional weight loss** (≈0.5 kg or ~1 lb) compared with diet‑and‑exercise alone. | The benefit disappears when caffeine is stopped. |
+
+**What this means for you**
+
+- **Coffee alone won’t make you lose a lot of weight.** Any calorie‑burning effect is modest and short‑lived.
+- The **best way to lose weight** remains a combination of a balanced, calorie‑controlled diet, regular physical activity, adequate sleep, and behavior‑change strategies.
+- **Potential downsides** of drinking a lot of coffee include jitteriness, insomnia, increased heart rate, higher blood pressure, digestive upset, and dependence on caffeine.
+- Adding **plain coffee (or tea) without a lot of sugar, cream, or flavored syrups** is the least caloric way to enjoy it. Adding high‑calorie toppings can actually **add more calories than you burn**.
+- If you’re sensitive to caffeine or have certain medical conditions (e.g., arrhythmias, acid reflux, pregnancy), you should limit intake.
+
+**Practical tips if you want to use coffee as a mild aid**
+
+1. **Moderate the amount** – 1–3 cups (≈100‑300 mg caffeine) per day is generally considered safe for most adults.  
+2. **Avoid extra calories** – skip sugary syrups, heavy cream, or sweetened milk.  
+3. **Time it wisely** – drinking coffee before a workout may slightly improve performance and calorie burn, but avoid it late in the day if it interferes with sleep.  
+4. **Stay hydrated** – coffee has a mild diuretic effect, so drink water throughout the day.  
+
+**Bottom line:**  
+Coffee can provide a **tiny edge** in weight management, but it is **not a substitute** for a healthy diet and regular exercise. Use it sparingly, keep it low‑calorie, and focus on overall lifestyle habits for meaningful, sustainable weight loss.
+
+**Important disclaimer:** This information is for general educational purposes and is **not a substitute for personalized medical advice**. If you have specific health concerns, underlying conditions, or are considering major changes to your diet or caffeine intake, please consult a qualified healthcare professional."
+39,Does drinking lemon water help with belly fat?,no,no,1,1.59,"**No.**  
+
+Drinking lemon‑water may keep you hydrated and can be a low‑calorie beverage choice, but there’s no scientific evidence that it directly reduces belly fat. Fat loss generally results from a sustained calorie deficit achieved through a balanced diet and regular physical activity. If you’re looking to target abdominal fat, focusing on overall nutrition, portion control, regular exercise (including cardio and strength training), and consistent healthy habits will be more effective.  
+
+*As always, for personalized guidance it’s best to consult a healthcare professional or a registered dietitian.*"
+40,Does deli meat increase your risk of colon cancer?,yes,yes,1,2.0,"**Yes.**  
+
+Numerous studies have linked consumption of processed meats—including deli meats such as ham, salami, bologna, and turkey lunch meat—to a modestly increased risk of colorectal (colon) cancer. The risk is thought to be related to:
+
+- **Preservatives** like nitrates and nitrites, which can form carcinogenic compounds.
+- **Cooking methods** (smoking, curing) that produce harmful chemicals.
+- **High sodium and saturated fat** content, which may promote inflammation.
+
+**What this means for you**
+
+- **Moderation is key:** Eating deli meat occasionally is unlikely to cause a large increase in risk, but regular, high‑frequency consumption can add up over time.
+- **Choose healthier options:** Look for nitrate‑free, low‑sodium varieties, or opt for fresh, unprocessed poultry, fish, or plant‑based protein sources.
+- **Balance your diet:** Pair proteins with plenty of fiber‑rich fruits, vegetables, whole grains, and legumes, which can help protect against colon cancer.
+- **Stay current with screening:** Regular colonoscopies (as recommended by your doctor) are the most effective way to catch early changes.
+
+**Bottom line:** Limiting processed deli meats and focusing on a varied, plant‑rich diet can reduce your colon‑cancer risk. If you have specific concerns—especially a family history of colorectal cancer—talk with a healthcare professional for personalized advice."
+41,Are skin tags contagious?,no,no,1,0.89,"**No, skin tags are not contagious.**  
+
+Skin tags are benign growths that develop from excess skin folding and are generally harmless. They cannot be spread from person to person through contact, sharing objects, or any other means. If you have concerns about a skin tag (e.g., it changes in size, bleeds, or becomes painful), it’s best to consult a healthcare professional for evaluation and possible removal."
+42,Can oil pulling heal cavities?,no,no,1,1.79,"**No.**  
+
+Oil pulling (swishing oil in the mouth) has not been demonstrated in rigorous scientific studies to heal or reverse dental cavities. Cavitation is caused by demineralization of tooth enamel from bacterial acids, and once a cavity has formed, it requires professional dental treatment—typically a filling or other restorative procedure. While oil pulling may help reduce oral bacteria and improve overall oral hygiene for some people, it cannot replace standard care for cavities. If you suspect you have a cavity, see a dentist for evaluation and appropriate treatment."
+43,Does a high fiber diet help with hemorrhoids?,yes,yes,1,2.59,"**Answer:** Yes.  
+
+**Why:** A diet high in fiber helps keep stools soft and bulkier, which reduces the need to strain during bowel movements. Less straining can prevent existing hemorrhoids from worsening and may help promote healing of mild cases. Fiber works best when you also stay well‑hydrated (aim for at least 8 cups of water a day) and combine it with regular physical activity.
+
+**Practical tips**
+- Aim for 25–30 grams of fiber daily from sources such as whole grains, fruits (e.g., apples, berries, pears with skin), vegetables, legumes, nuts, and seeds.
+- Increase fiber gradually to avoid gas and bloating.
+- Drink plenty of fluids throughout the day.
+- Consider a gentle stool softener or fiber supplement (e.g., psyllium) if you have difficulty reaching your fiber goals through food alone.
+- Avoid prolonged sitting and use gentle over‑the‑counter topical treatments or warm sitz baths for symptom relief.
+
+**Disclaimer:** This information is for general educational purposes and does not replace personalized medical advice. If you have severe pain, bleeding, or other concerning symptoms, or if hemorrhoids persist despite dietary changes, consult a healthcare professional."
+44,Can grapefruit interfere with medication?,yes,yes,1,1.15,"**Yes.** Grapefruit (and sometimes grapefruit juice) can interfere with many prescription and over‑the‑counter medications by affecting how the drugs are metabolized in the body. This interaction can increase drug levels to potentially unsafe amounts or decrease them, making the medication less effective. Always check with your pharmacist or doctor about whether any of your medicines might be affected by grapefruit."
+45,Can vape pens be harmful?,yes,yes,1,0.96,Yes.
+46,Do bananas increase the risk of diabetes?,no,no,1,0.99,No.
+47,Is wifi harmful for health?,no,no,1,0.68,No.
+48,Does drinking apple cider vinegar help lose weight?,no,no,1,2.44,"**No.**  Current scientific evidence does not support the claim that drinking apple cider vinegar leads to meaningful weight loss. Any small effect that some people notice is usually due to reduced calorie intake (e.g., feeling slightly fuller) or a placebo response, not a direct metabolic benefit of the vinegar itself. Moreover, regular consumption of undiluted apple cider vinegar can cause throat irritation, enamel erosion, and upset stomach, and it may interact with certain medications (e.g., diuretics, insulin).
+
+If you’re looking to lose weight, evidence‑based strategies such as a balanced, calorie‑appropriate diet, regular physical activity, behavior‑change counseling, and—when appropriate—medical or professional guidance are far more effective and safer. Always consider discussing any supplement or dietary change with a healthcare professional, especially if you have underlying health conditions or take medications."
+49,Does ginger help with nausea?,yes,yes,1,0.77,Yes.
+50,Can a cold sore cause genital herpes?,yes,yes,1,3.43,"**Answer: Yes, a cold‑sore infection (typically caused by herpes simplex virus 1, HSV‑1) can lead to genital herpes if the virus is transferred to the genital area—for example, through oral‑genital contact.**  
+
+### Why this can happen
+- **Cold sores** are lesions on the lips or around the mouth caused by HSV‑1.  
+- **Genital herpes** is most often caused by HSV‑2, but HSV‑1 can also infect the genitals.  
+- When someone with an active cold‑sore (or even when viral shedding is occurring without visible sores) performs oral sex, the virus can be transmitted to the partner’s genital skin or mucous membranes, leading to a genital HSV‑1 infection.
+
+### Important points for you
+| Factor | Explanation |
+|--------|--------------|
+| **Transmission risk** | Highest when the cold sore is visible, but HSV‑1 can be shed and transmitted even without an outbreak. |
+| **Symptoms** | Genital HSV‑1 may cause painful sores, itching, or burning; some people have mild or no symptoms. |
+| **Diagnosis** | A healthcare provider can confirm genital HSV infection with a swab of a lesion or a blood test for HSV antibodies. |
+| **Treatment** | Antiviral medications (e.g., acyclovir, valacyclovir) can reduce severity and frequency of outbreaks and lower transmission risk. |
+| **Prevention** | – Avoid oral‑genital contact during a cold‑sore outbreak.<br>– Use condoms or dental dams, though they don’t cover all affected skin.<br>– Consider antiviral suppressive therapy if you have frequent outbreaks. |
+
+### When to see a professional
+- If you develop new genital sores or experience burning, itching, or pain in the genital area.
+- If you have recurrent outbreaks that are severe, frequent, or impact your daily life.
+- If you’re pregnant, because genital HSV infection can affect the baby during delivery.
+
+### Bottom line
+While a cold sore itself is a mouth infection, the virus behind it (HSV‑1) can be passed to the genitals and cause genital herpes. Practicing safe sexual behaviors and seeking medical advice if you suspect infection are the best ways to manage risk."

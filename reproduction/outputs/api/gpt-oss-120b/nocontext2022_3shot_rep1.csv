@@ -1,0 +1,58 @@
+n,question,ground_truth,prediction,correct,seconds,response
+1,Do tea bags help to clot blood in pulled teeth?,yes,yes,1,1.11,Yes.
+2,Can crystals heal?,no,no,1,0.55,No.
+3,Can collagen supplements cure osteoarthritis?,no,no,1,0.66,No.
+4,Can cell phones cause cancer?,no,no,1,0.93,No.
+5,Can you use WD-40 for arthritis?,no,no,1,0.47,No.
+6,Can mosquito bites make you sick?,yes,yes,1,0.7,A: Yes.
+7,Can cancer be inherited?,yes,yes,1,1.09,"Yes. Certain cancers—such as breast, ovarian, colorectal, and some others—can be inherited due to inherited genetic mutations (e.g., BRCA1/2, Lynch syndrome). While most cancers arise from a combination of genetic, environmental, and lifestyle factors, a hereditary component can significantly increase a person’s risk."
+8,Are vaccines linked to autism?,no,no,1,0.58,No.
+9,Can baking soda help to cure cancer?,no,no,1,0.58,No.
+10,Are squats bad for knees?,no,no,1,1.13,No.
+11,Do ACE inhibitors typically cause erectile dysfunction?,no,no,1,0.6,No.
+12,Is morphine addictive?,yes,yes,1,0.81,Yes.
+13,Can fruit juice increase the risk of diabetes?,yes,yes,1,0.86,Yes.
+14,Do magnetic wrist straps help with arthritis?,no,no,1,1.03,No.
+15,Are sit ups bad for you?,yes,no,0,1.1,No.
+16,Can a speech problem be caused by right handed person being forced to left hand?,yes,no,0,0.76,No.
+17,Are there health benefits to drinking your own urine?,no,no,1,1.66,"**No.**  
+There are no scientifically supported health benefits to drinking your own urine. Urine contains waste products, excess salts, and metabolites that the body is trying to eliminate. Consuming it can:
+
+- Lead to dehydration (the high salt content can increase fluid loss).  
+- Increase the risk of urinary‑tract infections or gastrointestinal upset.  
+- Provide little or no nutritional value.
+
+If you ever find yourself without safe drinking water, it's best to seek a reliable source of clean water rather than resort to urine. In emergency situations, other methods (e.g., water purification) are far safer and more effective."
+18,Is pink salt good for you?,no,no,1,1.37,No.
+19,Can massage get rid of cellulite?,no,no,1,0.63,A: No.
+20,Can fish oil improve your cholesterol?,no,yes,0,0.83,Yes.
+21,Can you become addicted to weed?,yes,yes,1,0.81,Yes.
+22,Can vegan diets be healthy?,yes,yes,1,0.45,Yes.
+23,Is hydroquinone banned in Europe?,yes,yes,1,2.05,"**Yes.** Hydroquinone is prohibited for use in cosmetic products throughout the European Union (and the broader European Economic Area). It may still be used in prescription‑only medical preparations, but it is not allowed in over‑the‑counter skin‑lightening or other cosmetic products."
+24,Do men get UTI infections?,yes,yes,1,1.03,Yes.
+25,Are carrots good for your eyes?,yes,yes,1,0.46,Yes.
+26,Is methanol poisonous?,yes,yes,1,0.65,Yes.
+27,Can an MRI harm my baby?,no,no,1,1.6,No.
+28,Can exercise lower cholesterol?,yes,yes,1,0.54,Yes.
+29,Can chewing gum help lose weight?,no,yes,0,0.92,Yes.
+30,Can sunglasses help prevent cataracts?,yes,yes,1,1.3,Yes.
+31,Did AIDS come from chimps?,yes,yes,1,0.84,A: Yes.
+32,Is too much water bad for you?,yes,yes,1,0.72,Yes.
+33,Can HIV be transmitted through sweat?,no,no,1,1.13,No.
+34,Do Himalayan salt lamps have health benefits?,no,no,1,1.26,No.
+35,Can a woman get pregnant while breastfeeding?,yes,yes,1,0.52,Yes.
+36,Can statins cause permanent cognitive impairment?,no,no,1,1.01,No.
+37,Does Vitamin C prevent colds?,no,no,1,0.56,No.
+38,Can coffee help you lose weight?,yes,yes,1,1.29,Yes.
+39,Does drinking lemon water help with belly fat?,no,no,1,0.53,No.
+40,Does deli meat increase your risk of colon cancer?,yes,yes,1,0.78,Yes.
+41,Are skin tags contagious?,no,no,1,0.57,No.
+42,Can oil pulling heal cavities?,no,no,1,0.77,No.
+43,Does a high fiber diet help with hemorrhoids?,yes,yes,1,0.79,Yes.
+44,Can grapefruit interfere with medication?,yes,yes,1,0.44,Yes.
+45,Can vape pens be harmful?,yes,yes,1,0.81,Yes.
+46,Do bananas increase the risk of diabetes?,no,no,1,0.81,No.
+47,Is wifi harmful for health?,no,no,1,0.79,No.
+48,Does drinking apple cider vinegar help lose weight?,no,no,1,0.64,No.
+49,Does ginger help with nausea?,yes,yes,1,0.5,Yes.
+50,Can a cold sore cause genital herpes?,yes,yes,1,0.91,Yes.

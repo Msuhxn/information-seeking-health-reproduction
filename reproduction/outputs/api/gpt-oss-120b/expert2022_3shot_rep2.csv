@@ -1,0 +1,127 @@
+n,question,ground_truth,prediction,correct,seconds,response
+1,Do tea bags help to clot blood in pulled teeth?,yes,no,0,2.13,"**A: No.**  
+Current dental and medical guidelines do not recommend using tea bags to promote clotting after a tooth extraction. Standard post‑extraction care includes applying pressure with sterile gauze, using a cold compress, following prescribed analgesics, and rinsing gently with a warm salt‑water solution after the first 24 hours. While some anecdotal reports suggest that the tannins in black tea might have a mild astringent effect, there is no robust clinical evidence supporting tea bags as an effective or reliable hemostatic measure for dental extractions."
+2,Can crystals heal?,no,no,1,1.08,No.
+3,Can collagen supplements cure osteoarthritis?,no,no,1,0.72,No.
+4,Can cell phones cause cancer?,no,no,1,3.58,"**A: No.**  
+
+Current high‑quality epidemiological studies and meta‑analyses (e.g., the Interphone study, large cohort data from the U.S., Denmark, and Japan) have not demonstrated a consistent association between typical cell‑phone use and an increased risk of cancer, including brain tumors. The International Agency for Research on Cancer (IARC) classifies radiofrequency electromagnetic fields from cell phones as *“possibly carcinogenic”* (Group 2B), reflecting limited evidence and the inability to rule out a small effect, but the weight of modern data supports the conclusion that routine cell‑phone use does not cause cancer."
+5,Can you use WD-40 for arthritis?,no,no,1,1.61,"**No.**  
+
+WD‑40 is a petroleum‑based lubricant intended for mechanical use, not a medical product. It has no therapeutic effect on arthritis and can cause skin irritation or other harm if applied to the body. For arthritis management, evidence‑based treatments such as physical therapy, anti‑inflammatory medications, and joint‑protective exercises are recommended."
+6,Can mosquito bites make you sick?,yes,yes,1,1.27,A: Yes.
+7,Can cancer be inherited?,yes,yes,1,3.57,"**A: Yes.**  
+
+A proportion of cancers arise from inherited (germ‑line) genetic mutations that are passed from parent to child. Well‑characterized hereditary cancer syndromes include:
+
+| Cancer type | Common hereditary syndrome(s) | Typical gene(s) involved |
+|------------|------------------------------|--------------------------|
+| Breast and ovarian | Hereditary Breast‑Ovarian Cancer (HBOC) | **BRCA1, BRCA2** |
+| Colorectal | Lynch syndrome (Hereditary Non‑polyposis Colorectal Cancer) | **MLH1, MSH2, MSH6, PMS2, EPCAM** |
+| Familial adenomatous polyposis (FAP) | Colon, duodenal, thyroid, etc. | **APC** |
+| Retinoblastoma | Retinoblastoma (RB) syndrome | **RB1** |
+| Pancreatic | Multiple hereditary pancreatic cancer families | **BRCA2, PALB2, CDKN2A, STK11** |
+| Prostate | Hereditary prostate cancer | **BRCA2, HOXB13** |
+| Others | Li‑Fraumeni (TP53), Cowden (PTEN), etc. | **TP53, PTEN** |
+
+Key points:
+
+* **Inheritance pattern:** Most hereditary cancer syndromes follow an autosomal‑dominant pattern, meaning a single mutated allele can significantly raise risk.
+* **Penetrance varies:** Not every carrier will develop cancer; penetrance can be incomplete and influenced by lifestyle and environmental factors.
+* **Population impact:** Germ‑line mutations account for roughly 5‑10 % of all cancers overall, though the percentage is higher for specific tumor types (e.g., up to 20 % of breast cancers are linked to BRCA mutations).
+* **Clinical relevance:** Recognizing a hereditary predisposition guides screening (earlier and more frequent imaging, colonoscopy, MRI, etc.), prophylactic interventions (e.g., mastectomy, colectomy), and informs family members who may benefit from genetic testing.
+
+Thus, while the majority of cancers are sporadic, a significant and well‑documented subset can indeed be inherited."
+8,Are vaccines linked to autism?,no,no,1,1.63,"**Answer: No.**  
+
+Extensive, high‑quality research has found no causal relationship between vaccines and autism spectrum disorder (ASD). Large epidemiological studies—including meta‑analyses of data from millions of children—consistently show that the incidence of autism is the same in vaccinated and unvaccinated populations. The original study that sparked the vaccine‑autism controversy (the 1998 Wakefield paper) has been fully retracted due to serious methodological flaws and undisclosed conflicts of interest, and its conclusions have been disproven by subsequent research. The consensus of major health organizations (e.g., CDC, WHO, AAP, FDA, and the European Medicines Agency) is that vaccines are safe and do not cause autism."
+9,Can baking soda help to cure cancer?,no,no,1,0.88,No.
+10,Are squats bad for knees?,no,no,1,1.07,"A: No.  When performed with proper technique and appropriate load, squats generally strengthen the muscles and joints around the knee and are not considered harmful; only improper form or excessive weight can increase knee strain."
+11,Do ACE inhibitors typically cause erectile dysfunction?,no,no,1,1.71,A: No.
+12,Is morphine addictive?,yes,yes,1,1.34,Yes.
+13,Can fruit juice increase the risk of diabetes?,yes,yes,1,0.89,Yes.
+14,Do magnetic wrist straps help with arthritis?,no,no,1,1.03,A: No.
+15,Are sit ups bad for you?,yes,no,0,1.59,No.
+16,Can a speech problem be caused by right handed person being forced to left hand?,yes,no,0,3.38,"**Answer: No.**
+
+**Explanation**
+
+The scientific literature does not support the idea that simply forcing a right‑handed individual to use the left hand will cause a speech disorder. Handedness and language functions are both linked to brain lateralization, but experimental and epidemiologic studies have shown that:
+
+* Most people who are made to write or perform fine‑motor tasks with their non‑dominant hand do not develop speech or language impairments.  
+* When speech problems do arise, they are far more commonly associated with neurological injury, developmental language disorders, hearing loss, or other specific medical conditions rather than a change in hand‑use preference.  
+* A few small studies have explored “forced handedness” in children and reported subtle differences in motor learning or writing quality, but any impact on spoken language has been minimal and not reproducible in larger cohorts.
+
+Therefore, while uncomfortable or stressful experiences (including being forced to use the non‑dominant hand) can affect a person’s confidence or anxiety levels, they are not considered a direct cause of speech pathology.
+
+**What to do if there is a speech problem**
+
+If you or someone you know is experiencing speech difficulties, the appropriate steps are:
+
+1. **Consult a qualified professional** such as a speech‑language pathologist, neurologist, or otolaryngologist for a thorough evaluation.  
+2. **Document the onset and context** of the speech changes (e.g., sudden vs. gradual, associated symptoms, recent injuries, or illnesses).  
+3. **Follow evidence‑based interventions** that the evaluating clinician recommends, which may include speech therapy, auditory testing, or neuroimaging if indicated.
+
+**Bottom line:** Forcing a right‑handed person to use the left hand does not cause speech problems according to current high‑quality medical research. If speech issues are present, seek professional assessment rather than attributing them to handedness alone."
+17,Are there health benefits to drinking your own urine?,no,no,1,1.24,No.
+18,Is pink salt good for you?,no,no,1,1.01,No.
+19,Can massage get rid of cellulite?,no,no,1,3.08,"No. Massage may temporarily improve the skin’s appearance through increased circulation or lymphatic drainage, but there is no reliable evidence that it can permanently eliminate or “get rid of” cellulite."
+20,Can fish oil improve your cholesterol?,no,yes,0,1.33,A: Yes.
+21,Can you become addicted to weed?,yes,yes,1,1.53,Yes.
+22,Can vegan diets be healthy?,yes,yes,1,0.82,A: Yes.
+23,Is hydroquinone banned in Europe?,yes,yes,1,1.4,"**A: Yes.**  
+
+In the European Union, hydroquinone is prohibited for use in cosmetic products (e.g., skin‑lightening creams) because of safety concerns, including a potential risk of irritation and sensitization. It may still be available in prescription‑only medicinal products for specific indications (e.g., certain dermatologic treatments), but it is not permitted in over‑the‑counter cosmetics."
+24,Do men get UTI infections?,yes,yes,1,1.04,Yes.
+25,Are carrots good for your eyes?,yes,yes,1,0.63,A: Yes.
+26,Is methanol poisonous?,yes,yes,1,0.92,Yes.
+27,Can an MRI harm my baby?,no,no,1,1.33,A: No.
+28,Can exercise lower cholesterol?,yes,yes,1,1.13,"**A:** Yes.  
+
+Regular aerobic exercise (e.g., brisk walking, jogging, cycling, swimming) has been consistently shown in high‑quality studies to improve lipid profiles—raising high‑density lipoprotein (HDL) cholesterol and modestly lowering low‑density lipoprotein (LDL) and total cholesterol. The effect magnitude depends on intensity, duration, and frequency of the activity, as well as baseline lipid levels and other lifestyle factors."
+29,Can chewing gum help lose weight?,no,yes,0,1.02,Yes.
+30,Can sunglasses help prevent cataracts?,yes,yes,1,0.77,Yes.
+31,Did AIDS come from chimps?,yes,yes,1,1.52,Yes.
+32,Is too much water bad for you?,yes,yes,1,2.62,"A: Yes.  
+
+Drinking excessive amounts of water can lead to overhydration, diluting blood sodium levels (hyponatremia) and potentially causing serious symptoms such as headache, nausea, seizures, and in extreme cases, death. While adequate hydration is essential for health, moderation is important, especially during intense exercise, high‑altitude exposure, or illnesses that affect fluid balance."
+33,Can HIV be transmitted through sweat?,no,no,1,1.02,No.
+34,Do Himalayan salt lamps have health benefits?,no,no,1,1.36,"**A: No.**  Current peer‑reviewed research does not support any measurable physiological or therapeutic benefit from Himalayan salt lamps; claims such as air ionization, improved respiratory function, or enhanced mood lack robust scientific evidence."
+35,Can a woman get pregnant while breastfeeding?,yes,yes,1,1.71,"**Answer: Yes.**  
+
+A woman can become pregnant while she is breastfeeding. Although exclusive (around‑the‑clock) breastfeeding often suppresses ovulation and can delay the return of fertility, the protective effect is not absolute. Many factors—including the frequency of feedings, the age of the infant, supplementing with formula or solid foods, and individual hormonal responses—affect when ovulation resumes. Consequently, it is possible for a breastfeeding woman to conceive, and reliable contraception should be considered if pregnancy is not desired."
+36,Can statins cause permanent cognitive impairment?,no,no,1,1.23,No.
+37,Does Vitamin C prevent colds?,no,no,1,1.49,A: No.
+38,Can coffee help you lose weight?,yes,yes,1,1.63,"A: Yes.  Caffeine in coffee modestly increases metabolic rate and can boost short‑term calorie expenditure and fat oxidation, which may contribute to modest weight loss when combined with a balanced diet and regular activity. The effect is relatively small and varies among individuals."
+39,Does drinking lemon water help with belly fat?,no,no,1,0.8,A: No.
+40,Does deli meat increase your risk of colon cancer?,yes,yes,1,2.67,"A: Yes.  
+
+Current epidemiologic evidence, including large prospective cohort studies and meta‑analyses, links consumption of processed meats—such as deli meats, salami, ham, and smoked or cured products—to a modestly increased risk of colorectal (colon) cancer. The International Agency for Research on Cancer (IARC) classifies processed meat as a Group 1 carcinogen, meaning there is convincing evidence that it can cause cancer in humans, with the strongest data for colorectal malignancies. The risk appears dose‑dependent, with higher intake associated with greater risk. Reducing or limiting processed‑meat consumption is therefore recommended as part of colorectal‑cancer‑prevention dietary guidelines."
+41,Are skin tags contagious?,no,no,1,0.34,No.
+42,Can oil pulling heal cavities?,no,no,1,1.65,"**Answer: No.**  
+
+Current scientific evidence does not support oil pulling as a treatment that can heal existing dental caries (cavities). While some small studies have suggested that oil pulling may reduce oral bacterial load or improve gingival health, there is no rigorous clinical data demonstrating that it can reverse or repair demineralized tooth structure. Standard dental management of cavities—removal of decayed tissue, restoration with filling material, and use of fluoride or sealants—remains the evidence‑based approach. Relying on oil pulling alone may delay appropriate care and allow progression of decay."
+43,Does a high fiber diet help with hemorrhoids?,yes,yes,1,4.94,"**A: Yes.**  
+
+A diet high in dietary fiber (generally ≥ 25 g/day for women and ≥ 30 g/day for men) is widely recommended for the prevention and symptomatic treatment of hemorrhoids. High‑fiber intake softens stool, reduces straining, and promotes regular bowel movements, all of which lessen venous engorgement of the anal cushions.  
+
+Key evidence includes:
+
+| Study / Review | Design | Main Findings |
+|----------------|--------|---------------|
+| Riss et al., *Diseases of the Colon & Rectum* 2021 (systematic review, 12 RCTs) | RCTs (n≈1,200) | Fiber supplementation (psyllium, wheat bran, or mixed) reduced hemorrhoid pain scores by ~30 % and decreased bleeding episodes compared with placebo. |
+| American Society of Colon and Rectal Surgeons (ASCRS) Clinical Practice Guidelines, 2022 | Consensus guideline | Recommends ≥25 g/day fiber as first‑line therapy for uncomplicated internal hemorrhoids and for postoperative care. |
+| Gupta et al., *J. Gastroenterol. Hepatol.* 2020 | Prospective cohort (n≈500) | Individuals meeting fiber recommendations had a 40 % lower incidence of new‐onset symptomatic hemorrhoids over 2 years. |
+
+Overall, high‑fiber diets are considered safe, inexpensive, and effective for both prevention and alleviation of hemorrhoidal symptoms."
+44,Can grapefruit interfere with medication?,yes,yes,1,1.94,"**A: Yes.**  
+
+Grapefruit (and grapefruit juice) can inhibit the cytochrome P450 3A4 enzyme in the gut, which is responsible for metabolizing many prescription drugs. This inhibition can lead to higher blood concentrations of certain medications, increasing the risk of side effects or toxicity. Consequently, clinicians often advise patients to avoid grapefruit when taking drugs known to interact with it."
+45,Can vape pens be harmful?,yes,yes,1,1.23,Q: Can vape pens be harmful? A: Yes.
+46,Do bananas increase the risk of diabetes?,no,no,1,1.26,No.
+47,Is wifi harmful for health?,no,no,1,1.54,No.
+48,Does drinking apple cider vinegar help lose weight?,no,no,1,0.72,No.
+49,Does ginger help with nausea?,yes,yes,1,0.82,Yes.
+50,Can a cold sore cause genital herpes?,yes,yes,1,3.03,"**Answer: Yes.**
+
+A cold sore is caused by herpes simplex virus 1 (HSV‑1). While HSV‑1 most commonly produces oral lesions (cold sores), the same virus can also infect the genital area when it is transferred through oral‑genital contact (e.g., oral sex). When this occurs, it results in genital herpes caused by HSV‑1 rather than the more typical HSV‑2. Thus, a cold sore (or the HSV‑1 virus that produces it) can lead to genital herpes if the virus is transmitted to the genital region."

@@ -1,0 +1,51 @@
+n,question,ground_truth,prediction,correct,seconds,response
+1,Do tea bags help to clot blood in pulled teeth?,yes,yes,1,1.33,Yes.
+2,Can crystals heal?,no,no,1,0.51,No.
+3,Can collagen supplements cure osteoarthritis?,no,no,1,0.75,No.
+4,Can cell phones cause cancer?,no,no,1,1.24,No.
+5,Can you use WD-40 for arthritis?,no,no,1,1.1,No.
+6,Can mosquito bites make you sick?,yes,yes,1,1.0,A: Yes.
+7,Can cancer be inherited?,yes,yes,1,1.24,Yes.
+8,Are vaccines linked to autism?,no,no,1,0.7,No.
+9,Can baking soda help to cure cancer?,no,no,1,0.66,No.
+10,Are squats bad for knees?,no,no,1,0.99,No.
+11,Do ACE inhibitors typically cause erectile dysfunction?,no,no,1,0.68,No.
+12,Is morphine addictive?,yes,yes,1,0.58,Yes.
+13,Can fruit juice increase the risk of diabetes?,yes,yes,1,0.68,Yes.
+14,Do magnetic wrist straps help with arthritis?,no,no,1,0.51,No.
+15,Are sit ups bad for you?,yes,no,0,2.19,"No—not inherently, but doing them with poor form or excessive volume can strain the lower back, so proper technique and moderation are key."
+16,Can a speech problem be caused by right handed person being forced to left hand?,yes,yes,1,2.01,Yes.
+17,Are there health benefits to drinking your own urine?,no,no,1,1.33,"No—there are no scientifically proven health benefits to drinking your own urine. Urine is a waste product that contains salts, urea, and other substances the body is trying to eliminate. Drinking it can lead to dehydration, electrolyte imbalances, and exposure to bacteria or toxins, especially if you have a urinary‑tract infection. If you’re looking for ways to stay hydrated or support your health, stick with safe, evidence‑based options (water, balanced nutrition, regular medical care) and talk to a healthcare professional before trying any unconventional practices."
+18,Is pink salt good for you?,no,no,1,0.75,No.
+19,Can massage get rid of cellulite?,no,no,1,0.75,No.
+20,Can fish oil improve your cholesterol?,no,yes,0,1.05,Yes.
+21,Can you become addicted to weed?,yes,yes,1,0.87,Q: Can you become addicted to weed? A: Yes.
+22,Can vegan diets be healthy?,yes,yes,1,1.05,Yes.
+23,Is hydroquinone banned in Europe?,yes,yes,1,1.79,"**Yes.** In the European Union, hydroquinone is prohibited for use in cosmetic (leave‑on) products such as skin‑lightening creams. It may still be used in certain regulated medicinal or professional products (e.g., prescription drugs or some hair‑dye formulations), but it is effectively banned from over‑the‑counter cosmetic use across Europe."
+24,Do men get UTI infections?,yes,yes,1,0.84,Yes.
+25,Are carrots good for your eyes?,yes,yes,1,1.26,Yes.
+26,Is methanol poisonous?,yes,yes,1,0.5,Yes.
+27,Can an MRI harm my baby?,no,no,1,1.68,No.
+28,Can exercise lower cholesterol?,yes,yes,1,0.63,Yes.
+29,Can chewing gum help lose weight?,no,yes,0,1.39,"Yes. Chewing gum can modestly suppress appetite and increase minor calorie expenditure, which may help with weight loss when combined with a balanced diet and regular exercise."
+30,Can sunglasses help prevent cataracts?,yes,yes,1,0.74,Yes.
+31,Did AIDS come from chimps?,yes,yes,1,1.06,Yes.
+32,Is too much water bad for you?,yes,yes,1,1.1,Yes.
+33,Can HIV be transmitted through sweat?,no,no,1,0.71,No.
+34,Do Himalayan salt lamps have health benefits?,no,no,1,0.63,No.
+35,Can a woman get pregnant while breastfeeding?,yes,yes,1,0.75,Yes.
+36,Can statins cause permanent cognitive impairment?,no,no,1,1.03,"A: No. Statins have been linked to occasional, reversible cognitive side effects, but there is no credible evidence that they cause permanent cognitive impairment."
+37,Does Vitamin C prevent colds?,no,no,1,1.02,No.
+38,Can coffee help you lose weight?,yes,yes,1,1.57,Yes.
+39,Does drinking lemon water help with belly fat?,no,no,1,0.75,No.
+40,Does deli meat increase your risk of colon cancer?,yes,yes,1,1.11,Yes.
+41,Are skin tags contagious?,no,no,1,1.44,No. Skin tags are benign growths that develop from friction and other factors; they are not caused by an infectious agent and cannot be spread from person to person.
+42,Can oil pulling heal cavities?,no,no,1,0.83,No.
+43,Does a high fiber diet help with hemorrhoids?,yes,yes,1,0.77,Yes.
+44,Can grapefruit interfere with medication?,yes,yes,1,0.91,"Yes. Grapefruit can interfere with many medications by affecting how they’re metabolized, potentially leading to higher drug levels and increased side‑effects. Always check with your healthcare provider before consuming grapefruit or its juice while taking medication."
+45,Can vape pens be harmful?,yes,yes,1,0.84,Yes.
+46,Do bananas increase the risk of diabetes?,no,no,1,0.96,No.
+47,Is wifi harmful for health?,no,no,1,1.14,A: No.
+48,Does drinking apple cider vinegar help lose weight?,no,no,1,1.08,No.
+49,Does ginger help with nausea?,yes,yes,1,1.1,Yes.
+50,Can a cold sore cause genital herpes?,yes,yes,1,2.01,A: Yes.

@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-28T12:15:16.637156+00:00",
+  "model_requested": "openai-gpt-oss-120b",
+  "model_served": "openai/gpt-oss-120b",
+  "label": "gpt-oss-120b",
+  "base_url": "https://chat.kiconnect.nrw/api/v1",
+  "prompt": "nonexpert",
+  "shots": 0,
+  "year": 2022,
+  "repeat": 2,
+  "questions": 50,
+  "correct": 43,
+  "no_yes_no_answer": 3,
+  "accuracy": 0.86,
+  "runtime_seconds": 47.2,
+  "max_tokens": 4096,
+  "system_message": "You are a chatbot",
+  "strict_instruction": true,
+  "deviations": [
+    "no logit_bias",
+    "no max_tokens=1",
+    "no temperature control (unsupported)",
+    "openai SDK >= 1.0"
+  ],
+  "python": "3.15.2"
+}

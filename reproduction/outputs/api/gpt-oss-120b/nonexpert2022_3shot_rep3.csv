@@ -1,0 +1,352 @@
+n,question,ground_truth,prediction,correct,seconds,response
+1,Do tea bags help to clot blood in pulled teeth?,yes,yes,1,1.18,Yes.
+2,Can crystals heal?,no,no,1,2.15,"**No – there’s no scientific evidence that crystals have healing properties.**  
+
+While many people find comfort or a sense of well‑being from using crystals, any relief they experience is generally attributed to the **placebo effect** (the brain’s response to the belief that something will help). Clinical studies have not demonstrated that crystals can treat or cure medical conditions, and they should not replace evidence‑based treatments.
+
+If you’re dealing with a health issue, it’s best to follow proven medical advice and talk with a qualified health‑care professional. Crystals can be a nice decorative or mindfulness tool, but they aren’t a substitute for proper medical care."
+3,Can collagen supplements cure osteoarthritis?,no,no,1,1.4,"**No.**  
+
+Current research shows that collagen supplements may provide modest relief of joint pain for some people, but they do not cure osteoarthritis or reverse the underlying joint damage. Standard management includes exercise, weight control, physical therapy, pain‑relieving medications, and, in advanced cases, medical procedures. Always discuss supplement use with your healthcare provider to ensure it’s safe and appropriate for your situation."
+4,Can cell phones cause cancer?,no,no,1,4.61,"**Can cell phones cause cancer?**  
+
+**Answer: There is no convincing scientific evidence that normal cellphone use causes cancer.**  
+
+**What the research says**
+
+| Finding | Details |
+|---------|---------|
+| **Epidemiologic studies** (large population studies) | Most large‑scale studies have not found a consistent link between typical cellphone use and cancers such as brain tumors (glioma, meningioma) or other types of cancer. |
+| **Laboratory (cell/animal) studies** | Some laboratory experiments have shown that high‑intensity radiofrequency (RF) energy can produce biological effects, but the levels used are far greater than what a person receives from a normal cellphone. |
+| **International classifications** | The International Agency for Research on Cancer (IARC, a part of the WHO) classifies RF electromagnetic fields as **“Group 2B – possibly carcinogenic”**. This category also includes things like coffee and pickled vegetables. “Possibly” means that there is *limited* evidence of a potential risk, not that a risk has been proven. |
+| **Current consensus** | Public‑health organizations (e.g., the U.S. FDA, CDC, European Medicines Agency) conclude that, based on the best available data, everyday cellphone use does **not** increase cancer risk in a measurable way. |
+
+**Why the classification isn’t a definitive “yes”**
+
+- “Possibly carcinogenic” means the evidence is **inconclusive**, not that a proven danger exists.
+- Most studies examine people who have used cellphones for many years; technology and usage patterns (e.g., more texting, Bluetooth headsets) are constantly changing.
+- If a real increase in risk existed, it would likely have appeared as a detectable rise in brain‑tumor rates over the past two‑decades, which has not been observed.
+
+**Practical tips if you’re still concerned**
+
+- **Use speakerphone or a wired headset** to keep the phone away from your head.
+- **Text rather than hold the phone to your ear** when possible.
+- **Limit call length** for long conversations, especially for children, who have thinner skulls.
+- **Keep the phone on a table or in a bag** rather than in a pocket close to your body for prolonged periods.
+
+**Bottom line**
+
+For the vast majority of users, everyday cellphone use does **not** appear to increase the risk of cancer. Ongoing research continues to monitor long‑term exposure, but as of now the data are reassuring.
+
+> **Disclaimer:** This information is provided for general educational purposes and should not replace personalized medical advice. If you have specific health concerns or a family history of cancer, discuss them with a qualified healthcare professional."
+5,Can you use WD-40 for arthritis?,no,no,1,2.69,"**No.** WD‑40 is a petroleum‑based lubricating spray intended for metal and mechanical use; it is not safe for application to the skin or for internal use. It can cause irritation, allergic reactions, and may be toxic if absorbed.
+
+If you have arthritis, consider evidence‑based approaches such as:
+
+- Over‑the‑counter pain relievers (e.g., ibuprofen or acetaminophen) if appropriate for you.  
+- Topical NSAID gels designed for joint pain.  
+- Physical therapy or low‑impact exercise (e.g., swimming, walking, gentle stretching).  
+- Weight management and joint‑friendly activities.  
+- Consulting a healthcare professional for personalized treatment options, which may include prescription medications, injections, or other therapies.
+
+Always follow the guidance of a qualified medical provider before starting any new treatment."
+6,Can mosquito bites make you sick?,yes,yes,1,5.6,"**A: Yes.**  
+
+Most mosquito bites cause only mild itching, swelling, and redness, but the insects can also transmit a variety of illnesses. Depending on the species and where you live, mosquito‑borne diseases include:
+
+| Disease | Typical symptoms | Regions where it’s common |
+|---------|------------------|----------------------------|
+| **Malaria** | Fever, chills, headache, muscle aches | Sub‑Saharan Africa, parts of Asia and South America |
+| **Dengue fever** | Sudden high fever, severe joint/muscle pain, rash | Tropical & subtropical regions worldwide |
+| **Zika virus** | Mild fever, rash, joint pain; concerning for pregnant women (risk of birth defects) | Americas, Pacific Islands, parts of Asia |
+| **West Nile virus** | Often no symptoms; can cause fever, headache, body aches, or severe neurological disease | Most of North America, parts of Europe, Africa, Asia |
+| **Chikungunya** | Sudden high fever, severe joint pain, rash | Africa, Asia, Europe, the Indian Ocean islands, recently the Americas |
+| **Yellow fever** | Fever, chills, muscle pain, sometimes liver failure | Parts of Africa and South America (vaccine‑preventable) |
+| **Filariasis** (elephantiasis) | Swelling of limbs, genitalia, breasts | Tropical regions of Asia, Africa, the Pacific |
+
+Even if a bite doesn’t transmit a disease, the bite itself can become infected if scratched heavily, leading to bacterial skin infections.
+
+### How to reduce the risk
+
+1. **Avoid bites**  
+   * Use EPA‑registered insect repellents containing DEET, picaridin, IR3535, or oil‑of‑lemon‑eucalyptus.  
+   * Wear long sleeves and pants, especially at dawn and dusk when many disease‑carrying mosquitoes are most active.  
+   * Keep windows and doors screened; use bed nets when sleeping in areas with high mosquito exposure.
+
+2. **Eliminate breeding sites**  
+   * Remove standing water (buckets, plant saucers, old tires, bird baths) where mosquitoes lay eggs.
+
+3. **Seek prompt care**  
+   * If you develop fever, rash, severe joint pain, or neurological symptoms after a mosquito bite—especially after travel to a region where mosquito‑borne diseases are common—see a healthcare professional promptly. Early diagnosis can be crucial for illnesses like malaria or dengue.
+
+### When to see a doctor
+
+- Fever ≥ 100.4 °F (38 °C) lasting more than a couple of days after a bite.  
+- Severe headache, stiff neck, confusion, or seizures.  
+- Persistent swelling, redness, or pus at the bite site (possible bacterial infection).  
+- If you are pregnant, have a weakened immune system, or have chronic health conditions and experience any unusual symptoms after a bite.
+
+**Bottom line:** While most mosquito bites are harmless aside from itching, they can indeed make you sick by transmitting serious diseases. Taking preventive measures and seeking medical attention when concerning symptoms arise is the best way to protect yourself."
+7,Can cancer be inherited?,yes,yes,1,2.29,"**A:** Yes, certain cancers can be inherited.
+
+**Explanation:**  
+- **Hereditary cancer syndromes**: Mutations in specific genes (e.g., BRCA1/BRCA2 for breast and ovarian cancer, APC for familial adenomatous polyposis, MLH1/MSH2 for Lynch syndrome) can markedly increase the risk of developing particular cancers.  
+- **Family history matters**: Having multiple close relatives with the same or related cancers, especially at a young age, raises suspicion of a hereditary component.  
+- **Most cancers are not purely inherited**: The majority arise from a mix of genetic predisposition, lifestyle factors (smoking, diet, UV exposure, etc.), and environmental exposures.
+
+**What to do:**  
+- If you have a strong family history of cancer, consider discussing genetic counseling and possibly genetic testing with a healthcare professional.  
+- Even with an inherited risk, regular screening and preventive measures (e.g., lifestyle modifications, prophylactic surgeries) can significantly reduce the likelihood of developing cancer.
+
+**Disclaimer:** This information is general and not a substitute for professional medical advice. Consult a qualified healthcare provider for personalized guidance."
+8,Are vaccines linked to autism?,no,no,1,0.87,No.
+9,Can baking soda help to cure cancer?,no,no,1,1.03,"**A:** No. There is no scientific evidence that baking soda can cure cancer, and using it as a treatment can be unsafe. Effective cancer treatment requires care from qualified healthcare professionals and evidence‑based therapies. If you have concerns about cancer, please consult a medical professional."
+10,Are squats bad for knees?,no,no,1,2.15,"No. When performed with proper technique, squats strengthen the muscles around the knee and can actually support joint health. Poor form, excessive weight, or pre‑existing knee issues can cause discomfort, so it’s important to use correct posture and, if needed, get guidance from a qualified trainer or health professional."
+11,Do ACE inhibitors typically cause erectile dysfunction?,no,no,1,1.88,"**A:** No.  
+
+ACE inhibitors are not commonly linked to erectile dysfunction. While a small number of men on ACE inhibitors may report sexual side‑effects, the occurrence is relatively rare and not considered a typical effect of this drug class. If you’re experiencing erectile difficulties while taking an ACE inhibitor, it’s a good idea to discuss it with your healthcare provider—they can help determine whether the medication might be contributing and consider alternative treatments if needed.  
+
+*This information is for general educational purposes and is not a substitute for professional medical advice.*"
+12,Is morphine addictive?,yes,yes,1,0.89,Yes.
+13,Can fruit juice increase the risk of diabetes?,yes,yes,1,3.02,"**A:** Yes. Drinking large amounts of fruit juice—especially those with added sugars or that are highly processed—can raise your overall sugar intake and may increase the risk of developing type 2 diabetes over time. Whole fruits are generally better because they contain fiber that slows sugar absorption. If you enjoy juice, limit it to small portions (e.g., an 8‑oz glass) and consider diluting it with water or choosing 100 % pure juices with no added sugar. As always, talk with a healthcare professional for personalized advice."
+14,Do magnetic wrist straps help with arthritis?,no,no,1,2.31,"**No.**  
+There is no reliable scientific evidence that magnetic wrist straps reduce pain, inflammation, or improve function in arthritis. Any perceived benefit is likely due to a placebo effect. For effective arthritis management, consider evidence‑based options such as physical therapy, exercise, weight control, anti‑inflammatory medications, and discuss other treatments with a healthcare professional."
+15,Are sit ups bad for you?,yes,NONE,0,7.59,"Sit‑ups aren’t inherently “bad,” but whether they’re a good choice for you depends on how you do them and on any existing health issues you may have.
+
+**What the research says**
+
+| Aspect | Take‑away |
+|--------|-----------|
+| **Effectiveness for core strength** | When performed with proper form, sit‑ups activate the rectus abdominis, hip flexors, and stabilizing muscles, helping improve core endurance. |
+| **Risk of lower‑back strain** | Because sit‑ups involve both the abdominal muscles **and** the hip flexors (especially the iliopsoas), they can place a flexion torque on the lumbar spine. If you have weak core muscles, poor posture, or a history of low‑back pain, repetitive sit‑ups may aggravate the area. |
+| **Spinal compression** | Unlike a plank, a sit‑up bends the spine, increasing intra‑disc pressure. For people with disc degeneration, herniated discs, or severe scoliosis, this motion can be uncomfortable or harmful. |
+| **Alternatives** | Many trainers and physical‑therapy guidelines now favor **plank‑type** or **anti‑extension** core exercises (e.g., front planks, dead bugs, bird‑dogs) because they strengthen the deep stabilizers without excessive lumbar flexion. |
+| **Population‑specific notes** | • **Athletes** who need functional core strength for sports may still use sit‑ups as part of a varied program. <br>• **Older adults** or beginners are usually better off starting with low‑impact core work (e.g., seated marching, seated leg lifts) before progressing. |
+
+**Practical tips if you decide to do sit‑ups**
+
+1. **Master the technique** – Keep the lower back pressed into the floor (or a mat) and avoid pulling on your neck. Engage the core first, then lift the shoulders a few centimeters off the ground.
+2. **Limit range of motion** – You don’t need to sit all the way up. A “partial” sit‑up (e.g., 30–45°) reduces spinal loading while still training the core.
+3. **Control the movement** – Perform the ascent and descent slowly (2–3 seconds each) to minimise momentum and protect the spine.
+4. **Balance your routine** – Pair sit‑ups with movements that strengthen the posterior chain (glutes, hamstrings) and the deep core stabilizers (planks, side‑planks) to avoid muscular imbalances.
+5. **Listen to your body** – Stop if you feel sharp low‑back pain, excessive hip flexor tightness, or a “popping” sensation in the spine.
+
+**When to be cautious or avoid them**
+
+- You have a current **lower‑back injury**, chronic lumbar pain, or a diagnosed disc problem.
+- You experience **hip flexor tightness** that limits comfortable hip extension.
+- You have **post‑surgical** concerns (e.g., after abdominal or spinal surgery) without clearance from your surgeon or physical therapist.
+
+**Bottom line**
+
+Sit‑ups are **not universally “bad,”** but they can become problematic if done with poor form, excessive volume, or when underlying back or hip issues exist. For many people, especially beginners or those with a history of low‑back pain, swapping sit‑ups for **core‑stabilizing alternatives** (planks, dead bugs, bird‑dogs) is a safer way to build a strong, resilient core.
+
+**Next steps**
+
+- Try a few **plank variations** first and see how your back feels.
+- If you still want to include sit‑ups, start with **2–3 sets of 8–10 slow, controlled reps** and focus on form.
+- Consider a brief assessment with a **physical therapist, personal trainer, or healthcare provider** to make sure your core program matches your individual health status and goals.
+
+*Remember: this information is educational and not a substitute for personalized medical advice.* If you have any ongoing pain, injury, or specific health concerns, please consult a qualified healthcare professional."
+16,Can a speech problem be caused by right handed person being forced to left hand?,yes,no,0,3.41,"**A:** No. Forcing a right‑handed person to use the left hand is not known to directly cause speech problems. Speech difficulties more commonly arise from neurological, developmental, structural, or psychological factors (e.g., brain injury, developmental language disorder, hearing loss, stroke, anxiety, etc.). While the stress of being forced to switch hand dominance could indirectly affect communication, it is not a typical or primary cause of a speech disorder.  
+
+If you (or someone you know) are experiencing new or worsening speech issues, it’s important to consult a qualified health professional such as a speech‑language pathologist or physician for a thorough evaluation and appropriate treatment."
+17,Are there health benefits to drinking your own urine?,no,no,1,0.84,A: No. Drinking your own urine does not provide health benefits and can introduce harmful bacteria and waste products back into your body.
+18,Is pink salt good for you?,no,no,1,1.81,"No. Pink (Himalayan) salt is essentially the same sodium chloride as regular table salt, just with trace minerals that don’t provide meaningful health benefits. In the same amounts, it still contributes the same amount of sodium, and excess sodium can raise blood pressure and increase heart‑disease risk. Use any salt sparingly and aim for the recommended daily sodium limit (about 2,300 mg for most adults)."
+19,Can massage get rid of cellulite?,no,no,1,1.56,No.
+20,Can fish oil improve your cholesterol?,no,yes,0,2.21,"**Yes.** Omega‑3 fatty acids found in fish oil can help improve lipid profiles by modestly lowering triglycerides and, in some cases, raising “good” HDL cholesterol. The effect on LDL (“bad”) cholesterol is generally small and may vary between individuals. As with any supplement, it’s best to discuss use with your healthcare provider, especially if you’re taking other medications or have existing health conditions."
+21,Can you become addicted to weed?,yes,yes,1,2.82,"**Yes, it’s possible to become addicted to weed (cannabis).**  
+
+When someone uses cannabis regularly, they can develop a pattern called **cannabis use disorder**. This means they may experience:
+
+- Cravings or a strong desire to use it again
+- Trouble cutting down or stopping even when they want to
+- Using it more often or in larger amounts than intended
+- Continued use despite physical, mental, or social problems that it’s causing
+- Withdrawal symptoms (e.g., irritability, anxiety, sleep troubles, decreased appetite) when they stop
+
+The risk of developing an addiction is higher if you:
+
+- Start using at a young age (the brain is still developing)
+- Use it frequently (daily or almost daily)
+- Have a personal or family history of substance‑use disorders
+- Use it to cope with stress, anxiety, or other emotional issues
+
+If you or someone you know is concerned about a possible cannabis addiction, consider:
+
+- Talking to a healthcare professional (doctor, therapist, or counselor) who can assess the situation
+- Looking into counseling or support groups (e.g., cognitive‑behavioral therapy, SMART Recovery, or local addiction services)
+- Reducing or quitting use gradually, possibly with medical guidance to manage withdrawal symptoms
+
+**Bottom line:** While many people use cannabis without developing an addiction, regular or heavy use can lead to dependence for some individuals. If you notice the signs above, it’s a good idea to seek help."
+22,Can vegan diets be healthy?,yes,yes,1,2.04,A: Yes. (A well‑planned vegan diet can provide all necessary nutrients and support good health.)
+23,Is hydroquinone banned in Europe?,yes,yes,1,2.98,"**Answer:** Yes – in the European Union hydroquinone is **not allowed in cosmetic (over‑the‑counter) products**. The EU Cosmetics Regulation (Regulation (EC) No 1223/2009) lists hydroquinone as a prohibited substance for any cosmetic preparation marketed to consumers.  
+
+However, the ban applies only to cosmetics. Hydroquinone may still be prescribed as a **pharmaceutical drug** (e.g., for treating melasma or other hyper‑pigmentation disorders) and can be dispensed by a doctor or pharmacist under a medical prescription. In that context it is regulated as a medicine rather than as a cosmetic ingredient.
+
+**Bottom line:**  
+- **Cosmetic use:** prohibited throughout the EU.  
+- **Medical use:** permitted only with a prescription and under strict regulatory controls.  
+
+If you are considering a product containing hydroquinone, check whether it is being sold as a prescription medication and consult a qualified healthcare professional before use."
+24,Do men get UTI infections?,yes,yes,1,3.65,"**Answer: Yes, men can get urinary‑tract infections (UTIs).**  
+
+- **Why it happens:** Although UTIs are more common in women because of anatomical differences, men can develop them too. In men they often occur when there’s an underlying issue such as an enlarged prostate, urinary‑tract blockage, recent catheter use, kidney stones, or a sexually transmitted infection.  
+
+- **Typical symptoms:**  
+  - Burning or pain during urination  
+  - Frequent urge to urinate, often with only a small amount passed  
+  - Cloudy, dark, or foul‑smelling urine  
+  - Pain or pressure in the lower abdomen or back (possible kidney involvement)  
+  - Fever or chills (especially if the infection has spread to the kidneys)  
+
+- **When to seek medical care:**  
+  - Any new or worsening urinary symptoms  
+  - Fever, flank pain, or vomiting (possible kidney infection)  
+  - Blood in the urine or a severe change in urine color/odor  
+  - If you have a known prostate problem, urinary catheter, or recent urinary instrumentation  
+
+- **Typical evaluation & treatment:** A clinician will usually ask about symptoms, perform a physical exam, and collect a urine sample for culture. Most uncomplicated UTIs are treated with a short course of antibiotics; the exact drug and duration depend on the bacteria identified and any underlying health issues.
+
+- **Prevention tips:**  
+  - Stay well‑hydrated; aim for enough fluid to produce clear or pale yellow urine each day.  
+  - Empty your bladder completely when urinating; consider double‑voiding (urinate, wait a few minutes, then try again) if you have prostate enlargement.  
+  - Practice good genital hygiene—wash the genital area gently with water and mild soap.  
+  - If you’re sexually active, use protection and discuss any urinary symptoms with your partner and healthcare provider.  
+  - Manage chronic conditions (e.g., diabetes) that can increase infection risk.  
+
+> **Important:** This information is for general educational purposes and does **not** replace a personalized evaluation by a qualified healthcare professional. If you suspect you have a UTI or are experiencing any of the symptoms above, please contact your primary care physician, urologist, or seek urgent care. Early diagnosis and appropriate treatment help prevent complications."
+25,Are carrots good for your eyes?,yes,yes,1,3.14,"**Yes—carrots are good for your eyes.**  
+
+- **What’s in carrots?** They’re rich in β‑carotene, which the body converts to vitamin A. Vitamin A is essential for the formation of rhodopsin, a pigment in the retina that helps you see in low‑light conditions.  
+- **What does that mean for vision?** Eating adequate vitamin A can help maintain normal night vision and overall eye health. A deficiency in vitamin A can lead to night‑blindness and, in severe cases, more serious eye problems.  
+- **Limits of the benefit:**  
+  - Carrots won’t correct refractive errors such as nearsightedness, farsightedness, or astigmatism.  
+  - They aren’t a cure for eye diseases like glaucoma, macular degeneration, or cataracts, though a diet rich in vitamin A and other antioxidants may support overall eye health.  
+- **How much is enough?** For most adults, the recommended daily intake of vitamin A is about 900 µg RAE (retinol activity equivalents) for men and 700 µg RAE for women. One medium carrot provides roughly ½ the daily requirement, so incorporating a few servings of orange vegetables (carrots, sweet potatoes, pumpkin) into a balanced diet can help you meet your needs.  
+
+**Bottom line:** Including carrots as part of a varied, nutrient‑rich diet is beneficial for maintaining healthy eyes, especially for night vision. For any specific vision concerns or eye conditions, it’s best to see an eye‑care professional."
+26,Is methanol poisonous?,yes,yes,1,0.79,Yes.
+27,Can an MRI harm my baby?,no,no,1,1.35,"No. An MRI does not use ionizing radiation and is generally considered safe during pregnancy, though contrast agents are usually avoided unless specifically needed. Always discuss any imaging with your obstetrician."
+28,Can exercise lower cholesterol?,yes,yes,1,2.62,"**Yes.**  
+
+Regular physical activity—particularly aerobic exercise such as brisk walking, jogging, cycling, swimming, or dancing—has been shown to modestly lower “bad” LDL cholesterol and raise “good” HDL cholesterol. Consistent exercise (e.g., 150 minutes of moderate‑intensity activity per week) can improve lipid profiles over time, especially when combined with a heart‑healthy diet.
+
+*️⃣ **Note:** This information is for general education only and does not replace personalized medical advice. If you have high cholesterol, heart disease, or other health conditions, talk with a healthcare professional before starting a new exercise program."
+29,Can chewing gum help lose weight?,no,no,1,1.79,"**A: No.**  
+
+Chewing gum may modestly increase calorie burn and can help some people curb cravings, but its effect on weight loss is minimal and not a reliable strategy on its own. Sustainable weight management typically requires a balanced diet, regular physical activity, and other lifestyle changes. As always, consult a healthcare professional before starting any weight‑loss plan."
+30,Can sunglasses help prevent cataracts?,yes,yes,1,0.87,Yes. Wearing UV‑blocking sunglasses can help reduce the risk of developing cataracts.
+31,Did AIDS come from chimps?,yes,yes,1,1.98,"**A: Yes.**  
+
+Scientific evidence shows that the virus that causes AIDS (HIV‑1, the most common type) most likely originated when the simian immunodeficiency virus (SIV) crossed from chimpanzees to humans. (HIV‑2, a less common form, came from sooty mangabey monkeys.) This cross‑species transmission is believed to have occurred in the early‑20th century, probably through contact with infected primate blood or meat."
+32,Is too much water bad for you?,yes,yes,1,1.33,Yes.
+33,Can HIV be transmitted through sweat?,no,no,1,1.78,"**No.** HIV is not spread through sweat. Transmission occurs through specific body fluids such as blood, semen, vaginal fluids, rectal fluids, and breast milk, typically via unprotected sexual contact, sharing needles, or from mother to child during childbirth or breastfeeding. Always consult a healthcare professional for personalized advice."
+34,Do Himalayan salt lamps have health benefits?,no,no,1,1.93,"**No.**  Current scientific evidence does not support any specific health benefits from Himalayan salt lamps—such as improved air quality, reduced allergy symptoms, or enhanced mood. Any perceived effects are likely due to placebo or the gentle ambient lighting rather than any therapeutic action of the lamp."
+35,Can a woman get pregnant while breastfeeding?,yes,yes,1,1.48,Yes.
+36,Can statins cause permanent cognitive impairment?,no,no,1,3.01,"Q: Can statins cause permanent cognitive impairment?  
+A: No. While some people on statins report temporary memory or concentration problems, large studies have not found evidence that statins cause lasting or permanent cognitive deficits. Any cognitive side effects are generally reversible after stopping the medication."
+37,Does Vitamin C prevent colds?,no,no,1,1.54,"A: No.  Current scientific evidence shows that taking vitamin C does not prevent people from catching the common cold.  It may slightly lessen the duration or severity of symptoms in some individuals, but it is not an effective preventive measure.  Excessive vitamin C can cause gastrointestinal upset and kidney stones, so it’s best to get it from a balanced diet rather than high‑dose supplements for cold prevention."
+38,Can coffee help you lose weight?,yes,yes,1,1.7,Yes.
+39,Does drinking lemon water help with belly fat?,no,no,1,2.03,A: No.
+40,Does deli meat increase your risk of colon cancer?,yes,yes,1,1.11,Yes.
+41,Are skin tags contagious?,no,no,1,1.81,"**Answer: No, skin tags are not contagious.**  
+
+Skin tags (also called acrochordons) are harmless, small bits of excess skin that commonly appear in areas where skin rubs together, such as the neck, underarms, or groin. They develop because of friction, genetics, hormonal changes, or other factors, but they are not caused by an infectious agent and therefore cannot be spread from person to person.
+
+If you have skin tags and they become irritated, change in appearance, or you simply want them removed for cosmetic reasons, you can discuss safe removal options (e.g., snipping, freezing, or cauterizing) with a dermatologist or other qualified healthcare professional. 
+
+*This information is for educational purposes and does not replace a professional medical evaluation. If you have concerns about a specific skin lesion, please consult a healthcare provider.*"
+42,Can oil pulling heal cavities?,no,no,1,0.8,No.
+43,Does a high fiber diet help with hemorrhoids?,yes,yes,1,1.92,"**Answer:** Yes.
+
+**Why it helps:** A high‑fiber diet adds bulk to stool and softens it, which makes bowel movements easier and reduces the need to strain. Less straining means less pressure on the veins in the rectal area, helping existing hemorrhoids heal and preventing new ones from forming.
+
+**Practical tips:**
+
+- Aim for 25–30 grams of fiber per day from foods such as whole grains, fruits (especially berries, apples with skin), vegetables, legumes, nuts, and seeds.  
+- Increase fiber gradually (over a week or two) to avoid gas and bloating.  
+- Drink plenty of water – about 8 glasses (≈2 L) a day – so the fiber can work properly.  
+- Consider a fiber supplement (e.g., psyllium) if you have difficulty reaching the target from food alone, but continue to hydrate.
+
+**When to seek medical care:** If you notice persistent bleeding, severe pain, a hard lump, or any sudden change in symptoms, see a healthcare professional for evaluation. They can rule out other conditions (e.g., anal fissure, colorectal issues) and discuss additional treatments if needed."
+44,Can grapefruit interfere with medication?,yes,yes,1,3.62,"**Yes.** Grapefruit and grapefruit juice can interact with a wide variety of prescription and over‑the‑counter medicines. The fruit contains compounds that block an enzyme in the intestine called **CYP3A4**, which many drugs need to be broken down by. When CYP3A4 is inhibited, the medication can reach higher levels in the bloodstream than intended, which may increase the risk of side‑effects or toxicity.  
+
+**Common drug classes that may be affected**
+
+| Drug class | Examples |
+|------------|----------|
+| Statins (cholesterol‑lowering) | Simvastatin, atorvastatin, lovastatin |
+| Calcium‑channel blockers (blood pressure) | Amlodipine, felodipine |
+| Certain anti‑anxiety/antidepressants | Buspirone, sertraline |
+| Immunosuppressants | Cyclosporine, tacrolimus |
+| Some antihistamines | Fexofenadine |
+| Certain cancer therapies | Erlotinib, dasatinib |
+| Others | Some erectile dysfunction meds (e.g., sildenafil), some anti‑arrhythmics (e.g., amiodarone) |
+
+**What this means for you**
+
+- **Check your prescriptions:** Look at the patient information leaflet or ask your pharmacist/doctor whether grapefruit is listed as a possible interaction for any of your medicines.
+- **Avoid large amounts:** Even a single glass of grapefruit juice can affect drug levels. If an interaction is possible, it’s safest to avoid grapefruit altogether while you’re taking the medication.
+- **Ask for alternatives:** If you love grapefruit, discuss with your prescriber whether a different drug (one that doesn’t interact) is available.
+
+**Bottom line:** Grapefruit can indeed interfere with many medicines, so it’s best to be cautious and confirm with a healthcare professional whether you need to avoid it while on your specific medications."
+45,Can vape pens be harmful?,yes,yes,1,1.0,Yes.
+46,Do bananas increase the risk of diabetes?,no,no,1,6.0,"**A: No.**  
+
+Bananas are a nutritious fruit that contain natural sugars, fiber, vitamins, and minerals. Eating them in normal portion sizes does **not** increase the risk of developing diabetes.  
+
+**What matters more for diabetes risk:**
+
+| Factor | Why it matters |
+|--------|----------------|
+| Overall diet quality | A diet high in added sugars, refined carbs, and processed foods can raise risk. |
+| Total carbohydrate intake | Managing the amount and type of carbs you eat helps keep blood sugar stable. |
+| Body weight & activity | Excess weight and a sedentary lifestyle are strong risk factors. |
+| Genetics & family history | These influence susceptibility, regardless of any one food. |
+
+So, enjoying a banana as part of a balanced diet is fine. If you have concerns about blood‑sugar control (e.g., pre‑diabetes or diabetes), focus on overall eating patterns (lots of vegetables, whole grains, lean proteins) and stay active, rather than worrying about any single fruit."
+47,Is wifi harmful for health?,no,no,1,2.6,"**No.**  Based on the current scientific evidence, the low‑level radiofrequency energy emitted by typical Wi‑Fi routers is far below the thresholds that cause tissue heating or other known biological effects. Large‑scale epidemiologic studies have not found a consistent link between everyday Wi‑Fi exposure and adverse health outcomes.  
+
+* However, if you have specific health concerns (e.g., electromagnetic‑sensitivity symptoms), discuss them with a healthcare professional.*"
+48,Does drinking apple cider vinegar help lose weight?,no,no,1,1.79,No.
+49,Does ginger help with nausea?,yes,yes,1,3.48,"**Answer: Yes – ginger is commonly used and has evidence supporting its ability to reduce nausea.**  
+
+**Why it can help**
+
+- **Mechanism:** Ginger contains compounds (e.g., gingerols and shogaols) that influence gastrointestinal motility and have anti‑emetic effects on the brain’s vomiting center and the stomach lining.
+- **Research:** Clinical studies have shown ginger to be effective for nausea associated with pregnancy, postoperative recovery, motion sickness, and chemotherapy. The benefit is modest but statistically significant compared with placebo.
+
+**Typical forms and doses**
+
+| Form | Common dose for nausea* |
+|------|--------------------------|
+| Fresh ginger root (grated) | 1 – 2 grams (≈½–1 tsp) per day, divided into 2–3 doses |
+| Dried ginger powder | 250 – 500 mg up to 3 times daily |
+| Ginger capsules/tablets | 250 – 500 mg 2–3 times daily (up to 1–1.5 g total) |
+| Ginger tea (steeped) | 1–2 tsp dried ginger in hot water, 1–3 cups per day |
+| Ginger chews or candies | Follow product label (usually 250 mg per piece) |
+
+\*These are general recommendations for adults without contraindications. Exact dosing may vary; start with the lowest effective amount.
+
+**Safety and cautions**
+
+- **Generally safe:** Most people tolerate ginger well. Side effects (mild heartburn, stomach upset, diarrhea) are uncommon and dose‑related.
+- **Bleeding risk:** Ginger has mild antiplatelet activity. Use caution (or avoid) if you are on blood‑thinning medications (warfarin, clopidogrel, aspirin) or have a bleeding disorder; discuss with a clinician.
+- **Pregnancy:** Small studies suggest ginger is safe for typical nausea in pregnancy, but high doses (>1 g/day) are not recommended without medical guidance.
+- **Interactions:** May potentiate the effect of anticoagulants, diabetes meds (possible lower blood glucose), and antihypertensives. Talk to your provider if you take any prescription drugs.
+
+**When to seek professional care**
+
+- Nausea that is severe, persistent, or accompanied by vomiting, abdominal pain, fever, dehydration, or blood in vomitus.
+- If you have underlying conditions (e.g., gallstones, pancreatitis, severe GERD) where ginger could exacerbate symptoms.
+- If you are pregnant, breastfeeding, or planning pregnancy and want to use higher doses.
+
+**Bottom line**
+
+Ginger is a well‑studied, generally safe natural option that can help reduce mild‑to‑moderate nausea for many people. Starting with a low dose (e.g., a cup of ginger tea or a 250 mg capsule) and monitoring your response is a reasonable first step, but always consult your healthcare provider if you have medical conditions, take other medications, or if nausea does not improve."
+50,Can a cold sore cause genital herpes?,yes,yes,1,1.52,"**Answer: Yes—if the virus that causes a cold sore (usually HSV‑1) is transferred to the genital area (for example, through oral‑genital contact), it can cause genital herpes.**  
+
+*Cold sores themselves don’t “turn into” genital herpes, but the same virus can infect a new site if it’s spread.*  
+
+**Note:** If you think you may have been exposed, see a healthcare provider for testing and appropriate management."

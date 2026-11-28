@@ -1,0 +1,112 @@
+n,question,ground_truth,prediction,correct,seconds,response
+1,Do tea bags help to clot blood in pulled teeth?,yes,no,0,1.09,A: No.
+2,Can crystals heal?,no,no,1,1.53,A: No.
+3,Can collagen supplements cure osteoarthritis?,no,no,1,0.74,No.
+4,Can cell phones cause cancer?,no,no,1,0.68,A: No.
+5,Can you use WD-40 for arthritis?,no,no,1,3.91,"**No – there is no scientific evidence that WD‑40 (or any petroleum‑based lubricant) is safe or effective for treating arthritis, and using it on the skin can cause irritation, allergic reactions, or other adverse effects.**  
+
+**Why it isn’t recommended**
+
+| Reason | Explanation |
+|--------|--------------|
+| **Lack of clinical data** | Peer‑reviewed studies on arthritis focus on medications (e.g., NSAIDs, disease‑modifying agents), physical therapy, exercise, and lifestyle changes. No reputable research has shown any benefit from applying WD‑40 to joints. |
+| **Potential skin irritation** | WD‑40 contains petroleum distillates, mineral oils, and solvents that can irritate or damage skin, especially on sensitive areas like the knees, hands, or feet. |
+| **Risk of systemic absorption** | Although the amounts are small, some components can be absorbed through the skin, potentially leading to systemic toxicity if used repeatedly. |
+| **Better‑proven alternatives** | Evidence‑based options for arthritis symptom relief include: <br>• Topical NSAIDs (e.g., diclofenac gel) <br>• Oral analgesics/anti‑inflammatories <br>• Physical therapy and targeted exercises <br>• Weight management and joint‑protective strategies <br>• Intra‑articular injections in selected cases <br>• Disease‑modifying drugs for inflammatory arthritis (e.g., methotrexate, biologics) |
+| **Regulatory status** | WD‑40 is marketed as a mechanical lubricant, not a medical device or pharmaceutical product. Using it for a medical condition would be off‑label and not approved by regulatory agencies (FDA, EMA, etc.). |
+
+**What to do instead**
+
+1. **Consult a healthcare professional** (rheumatologist, primary‑care physician, or physical therapist) for an accurate diagnosis and personalized treatment plan.  
+2. **Use evidence‑based topical agents** if you need localized relief (e.g., diclofenac gel, capsaicin cream).  
+3. **Engage in regular, low‑impact exercise** (e.g., swimming, cycling, tai chi) to maintain joint flexibility and muscle strength.  
+4. **Apply heat or cold therapy** as appropriate for symptom control.  
+5. **Consider weight management** if excess body weight is stressing the joints.  
+
+In short, WD‑40 should **not** be used for arthritis. Stick to treatments that are supported by scientific research and approved for medical use. If you have persistent joint pain or swelling, seek professional medical evaluation."
+6,Can mosquito bites make you sick?,yes,yes,1,1.59,"**A: Yes.**  
+
+Mosquito bites are not merely a nuisance; many mosquito species are vectors for a variety of pathogens that can cause human illness. Through their bite, mosquitoes can transmit viruses (e.g., dengue, Zika, chikungunya, West Nile), parasites (e.g., *Plasmodium* spp. causing malaria, filarial worms), and even certain bacteria. While a bite can also produce a localized skin reaction, the primary health concern is the potential for vector‑borne infections."
+7,Can cancer be inherited?,yes,yes,1,1.13,A: Yes.
+8,Are vaccines linked to autism?,no,no,1,1.03,"**Answer: No.**  
+
+Extensive, high‑quality research—including large epidemiologic studies, randomized trials, and systematic reviews—has found **no credible evidence** that vaccines cause autism. The original 1998 study that suggested a link has been retracted due to serious methodological flaws and scientific misconduct, and subsequent investigations have repeatedly disproven any association. Current public‑health guidance from the World Health Organization, the U.S. Centers for Disease Control and Prevention, the American Academy of Pediatrics, and many other reputable bodies affirms that vaccines are safe and are **not** a risk factor for autism."
+9,Can baking soda help to cure cancer?,no,no,1,1.24,"A: No. Current scientific evidence does not support baking soda (sodium bicarbonate) as an effective cure for cancer. Studies have shown no clinically meaningful benefit, and it is not a recognized treatment in oncology guidelines."
+10,Are squats bad for knees?,no,no,1,1.83,"**No.**  
+
+When performed with proper technique and appropriate progression, squats are not harmful to the knees and can actually strengthen the muscles that support the joint. Poor form, excessive loading, or pre‑existing knee pathology can increase risk of injury, so appropriate coaching and individualized programming are important."
+11,Do ACE inhibitors typically cause erectile dysfunction?,no,no,1,1.03,No.
+12,Is morphine addictive?,yes,yes,1,0.72,Yes.
+13,Can fruit juice increase the risk of diabetes?,yes,yes,1,0.94,Yes.
+14,Do magnetic wrist straps help with arthritis?,no,no,1,1.04,No. Current high‑quality evidence does not support magnetic wrist straps as an effective treatment for arthritis; any perceived benefit is likely due to placebo rather than a physiologic effect.
+15,Are sit ups bad for you?,yes,no,0,2.37,No.
+16,Can a speech problem be caused by right handed person being forced to left hand?,yes,no,0,2.3,A: No.
+17,Are there health benefits to drinking your own urine?,no,no,1,2.31,"**A: No.**  
+
+Current medical literature and clinical guidelines do **not** support drinking one’s own urine as a health‑benefiting practice. In fact, it can pose risks:
+
+| Reason | Explanation |
+|--------|-------------|
+| **Potential contaminants** | Urine contains waste products (urea, creatinine, ammonia, uric acid, salts, and trace toxins) that the kidneys have already filtered out of the bloodstream. Re‑ingesting these can place an unnecessary load on the liver and kidneys. |
+| **Risk of infection** | The urinary tract can harbor bacteria, especially if there is an underlying infection; re‑introducing these into the gastrointestinal tract can cause nausea, vomiting, diarrhea, or more serious systemic infection. |
+| **Dehydration risk** | In situations of limited water supply, urine is hyper‑osmolar compared with body fluids. Drinking it can actually increase dehydration rather than alleviate it. |
+| **Lack of evidence for claimed benefits** | Claims that urine provides “detoxification,” “immune boosting,” or “nutrient” benefits are not substantiated by peer‑reviewed studies. Systematic reviews and reputable medical sources (e.g., WHO, CDC, and mainstream medical textbooks) find no credible data supporting therapeutic effects. |
+| **Potential harm in specific populations** | People with kidney disease, hypertension, or electrolyte imbalances are especially vulnerable to the added solutes and salts in urine. |
+
+**Conclusion:** There are no scientifically validated health benefits to drinking one’s own urine, and doing so may be harmful. The safest approach to hydration and nutrition is to consume clean water, balanced foods, and, when appropriate, medically recommended supplements."
+18,Is pink salt good for you?,no,no,1,1.94,No.
+19,Can massage get rid of cellulite?,no,no,1,1.31,A: No.
+20,Can fish oil improve your cholesterol?,no,yes,0,1.8,A: Yes.
+21,Can you become addicted to weed?,yes,yes,1,1.29,Yes.
+22,Can vegan diets be healthy?,yes,yes,1,3.15,"**Answer: Yes.**  
+
+A well‑planned vegan diet can provide all the nutrients needed for good health across the lifespan and has been associated with a number of health benefits (e.g., lower risk of hypertension, type 2 diabetes, coronary heart disease, and certain cancers). Key points supported by high‑quality research and guidelines include:
+
+| Aspect | Evidence / Guidelines |
+|--------|------------------------|
+| **Nutrient adequacy** | The Academy of Nutrition and Dietetics (2016) states that appropriately planned vegan diets are nutritionally adequate for adults, children, athletes, and pregnant/lactating women. |
+| **Cardiovascular health** | Meta‑analyses of randomized controlled trials show modest reductions in LDL‑cholesterol and blood pressure in vegans vs. omnivores. |
+| **Metabolic health** | Cohort studies (e.g., Adventist Health Study‑2) demonstrate lower incidence of type 2 diabetes among vegans, even after adjusting for BMI and lifestyle factors. |
+| **Weight management** | Vegans tend to have lower body‑mass index (BMI) and healthier body composition, likely due to higher fiber and lower energy density of plant‑based foods. |
+| **Potential concerns** | Certain nutrients (vitamin B12, vitamin D, omega‑3 fatty acids, iodine, iron, calcium, zinc) may require careful food selection or supplementation to avoid deficiencies. Regular monitoring (e.g., serum B12) is recommended, especially for pregnant/lactating individuals and children. |
+| **Long‑term safety** | Large prospective cohort studies (e.g., EPIC‑Oxford, Nurses’ Health Study) report no increased risk of mortality; in fact, overall mortality may be slightly lower in vegetarians/vegans. |
+
+**Bottom line:** When the diet includes a variety of whole plant foods (legumes, nuts, seeds, whole grains, fruits, vegetables) and addresses nutrients that are less abundant or less bioavailable in plant sources (most importantly vitamin B12, often via fortified foods or supplements), a vegan diet can be health‑promoting and nutritionally complete. As with any dietary pattern, individual needs and medical conditions should be considered, and consultation with a registered dietitian can help ensure adequacy."
+23,Is hydroquinone banned in Europe?,yes,yes,1,1.34,**Answer: Yes.**
+24,Do men get UTI infections?,yes,yes,1,0.8,"**Answer:** Yes. Men can develop urinary tract infections, though they occur less frequently than in women."
+25,Are carrots good for your eyes?,yes,yes,1,1.44,A: Yes.
+26,Is methanol poisonous?,yes,yes,1,0.84,A: Yes.
+27,Can an MRI harm my baby?,no,no,1,1.31,A: No.
+28,Can exercise lower cholesterol?,yes,yes,1,0.74,Yes.
+29,Can chewing gum help lose weight?,no,yes,0,1.2,A: Yes.
+30,Can sunglasses help prevent cataracts?,yes,yes,1,0.95,Yes.
+31,Did AIDS come from chimps?,yes,yes,1,1.54,Yes.
+32,Is too much water bad for you?,yes,yes,1,0.87,Yes.
+33,Can HIV be transmitted through sweat?,no,no,1,1.26,No.
+34,Do Himalayan salt lamps have health benefits?,no,no,1,0.7,No.
+35,Can a woman get pregnant while breastfeeding?,yes,yes,1,0.65,A: Yes.
+36,Can statins cause permanent cognitive impairment?,no,no,1,1.33,"A: No. Current evidence indicates that statins may cause rare, usually reversible cognitive side effects (such as memory loss or confusion), but there is no credible data supporting permanent cognitive impairment from statin use."
+37,Does Vitamin C prevent colds?,no,no,1,1.11,"**Answer: No.**  
+
+Current high‑quality evidence (including large meta‑analyses of randomized controlled trials) shows that routine vitamin C supplementation does **not** reduce the incidence of common colds in the general population. It may modestly shorten the duration or lessen the severity of a cold in some individuals, and it can have a preventive effect only in specific groups under extreme physical stress (e.g., marathon runners, soldiers in sub‑arctic conditions), but for the average person it does not prevent colds."
+38,Can coffee help you lose weight?,yes,yes,1,1.45,"**A: Yes.**  
+
+Current evidence indicates that caffeine—the main active ingredient in coffee—can modestly increase metabolic rate and promote greater fat oxidation, leading to a small but measurable contribution to weight loss when combined with a balanced diet and regular physical activity. However, the effect is modest, varies between individuals, and should not be relied upon as the sole strategy for weight management."
+39,Does drinking lemon water help with belly fat?,no,no,1,1.43,A: No.
+40,Does deli meat increase your risk of colon cancer?,yes,yes,1,1.94,Yes.
+41,Are skin tags contagious?,no,no,1,1.59,"No. Skin tags (acrochordons) are benign growths that arise from excess skin folding and are not caused by an infectious agent, so they cannot be transmitted from person to person."
+42,Can oil pulling heal cavities?,no,no,1,1.38,"No. Current scientific evidence does not support oil pulling as an effective treatment for healing dental cavities; cavity management requires professional dental care such as remineralization therapies, fillings, or other evidence‑based interventions."
+43,Does a high fiber diet help with hemorrhoids?,yes,yes,1,1.23,Yes.
+44,Can grapefruit interfere with medication?,yes,yes,1,1.11,"A: Yes. Grapefruit can inhibit cytochrome P450 3A4 enzymes in the gut, leading to increased systemic exposure to many medications and potentially causing adverse effects."
+45,Can vape pens be harmful?,yes,yes,1,1.66,"**A: Yes.**  
+
+Current biomedical literature (including PubMed‑indexed studies on electronic nicotine delivery systems) reports that vape pens can expose users to nicotine, ultrafine particles, volatile organic compounds, flavoring chemicals (e.g., diacetyl), and, in some cases, contaminants such as heavy metals. These exposures have been linked to respiratory irritation, decreased lung function, increased risk of nicotine dependence, cardiovascular effects, and, in rare instances, severe lung injury (e.g., EVALI). Thus, the consensus in the peer‑reviewed medical literature is that vape pens are not harmless and can be detrimental to health."
+46,Do bananas increase the risk of diabetes?,no,no,1,1.32,"**A: No.**  
+
+Current epidemiologic studies and meta‑analyses of dietary patterns show that regular consumption of whole fruit—including bananas—is not associated with an increased risk of type 2 diabetes. In fact, many large cohort studies have found either a neutral effect or a modest protective association, likely because whole fruit provides fiber, vitamins, and phytochemicals that help modulate blood glucose and improve insulin sensitivity. The glycemic load of a typical serving of banana is modest, and when eaten as part of a balanced diet it does not raise diabetes risk."
+47,Is wifi harmful for health?,no,no,1,1.72,"**A: No.**  
+
+Current peer‑reviewed research—including large epidemiologic studies and systematic reviews—has found no credible evidence that exposure to Wi‑Fi radiofrequency electromagnetic fields at typical residential or occupational levels causes adverse health effects in humans. Major health agencies such as the World Health Organization, the U.S. National Cancer Institute, and the International Commission on Non‑Ionizing Radiation Protection (ICNIRP) conclude that Wi‑Fi exposure is well below established safety limits and is not associated with increased risks of cancer, neurological disorders, or other health problems."
+48,Does drinking apple cider vinegar help lose weight?,no,no,1,0.87,No.
+49,Does ginger help with nausea?,yes,yes,1,0.9,Yes.
+50,Can a cold sore cause genital herpes?,yes,yes,1,2.13,Yes.

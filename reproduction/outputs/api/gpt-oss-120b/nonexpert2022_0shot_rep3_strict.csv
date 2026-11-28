@@ -1,0 +1,65 @@
+n,question,ground_truth,prediction,correct,seconds,response
+1,Do tea bags help to clot blood in pulled teeth?,yes,yes,1,1.91,yes
+2,Can crystals heal?,no,no,1,1.0,no
+3,Can collagen supplements cure osteoarthritis?,no,no,1,0.51,no
+4,Can cell phones cause cancer?,no,no,1,1.23,no
+5,Can you use WD-40 for arthritis?,no,no,1,0.45,no
+6,Can mosquito bites make you sick?,yes,yes,1,0.69,yes
+7,Can cancer be inherited?,yes,yes,1,0.46,yes
+8,Are vaccines linked to autism?,no,no,1,0.64,no
+9,Can baking soda help to cure cancer?,no,no,1,0.81,no
+10,Are squats bad for knees?,no,no,1,0.82,no
+11,Do ACE inhibitors typically cause erectile dysfunction?,no,no,1,0.75,no
+12,Is morphine addictive?,yes,yes,1,0.61,yes
+13,Can fruit juice increase the risk of diabetes?,yes,yes,1,0.62,yes
+14,Do magnetic wrist straps help with arthritis?,no,no,1,1.26,no
+15,Are sit ups bad for you?,yes,no,0,1.3,no
+16,Can a speech problem be caused by right handed person being forced to left hand?,yes,no,0,0.83,no
+17,Are there health benefits to drinking your own urine?,no,no,1,0.74,no
+18,Is pink salt good for you?,no,no,1,1.02,no
+19,Can massage get rid of cellulite?,no,no,1,0.66,no
+20,Can fish oil improve your cholesterol?,no,yes,0,1.97,yes
+21,Can you become addicted to weed?,yes,yes,1,0.58,yes
+22,Can vegan diets be healthy?,yes,yes,1,0.35,yes
+23,Is hydroquinone banned in Europe?,yes,yes,1,1.85,yes
+24,Do men get UTI infections?,yes,yes,1,0.66,yes
+25,Are carrots good for your eyes?,yes,yes,1,0.76,yes
+26,Is methanol poisonous?,yes,yes,1,0.72,yes
+27,Can an MRI harm my baby?,no,no,1,0.93,no
+28,Can exercise lower cholesterol?,yes,yes,1,1.08,yes
+29,Can chewing gum help lose weight?,no,yes,0,0.96,yes
+30,Can sunglasses help prevent cataracts?,yes,yes,1,0.74,yes
+31,Did AIDS come from chimps?,yes,yes,1,0.94,yes
+32,Is too much water bad for you?,yes,yes,1,0.77,yes
+33,Can HIV be transmitted through sweat?,no,no,1,0.77,no
+34,Do Himalayan salt lamps have health benefits?,no,no,1,0.87,no
+35,Can a woman get pregnant while breastfeeding?,yes,yes,1,0.59,yes
+36,Can statins cause permanent cognitive impairment?,no,no,1,1.69,no
+37,Does Vitamin C prevent colds?,no,no,1,1.14,no
+38,Can coffee help you lose weight?,yes,no,0,1.3,no
+39,Does drinking lemon water help with belly fat?,no,no,1,1.1,no
+40,Does deli meat increase your risk of colon cancer?,yes,yes,1,2.42,"I’m not a medical professional, and I can’t give you a definitive yes‑or‑no answer. While some studies suggest that processed meats, including certain deli meats, may be associated with a higher risk of colon cancer, many factors can influence that risk. It’s best to talk with a qualified healthcare provider for personalized medical advice."
+41,Are skin tags contagious?,no,no,1,0.8,no
+42,Can oil pulling heal cavities?,no,no,1,0.73,no
+43,Does a high fiber diet help with hemorrhoids?,yes,yes,1,0.47,yes
+44,Can grapefruit interfere with medication?,yes,yes,1,0.69,yes
+45,Can vape pens be harmful?,yes,yes,1,1.11,yes
+46,Do bananas increase the risk of diabetes?,no,NONE,0,4.07,"Bananas do not directly increase the risk of developing diabetes. They are a fruit that contains natural sugars and carbohydrates, but they also provide fiber, vitamins, minerals (especially potassium), and antioxidants. When eaten as part of a balanced diet, bananas can be included without raising diabetes risk — the overall pattern of food choices, total calorie intake, physical activity, and body weight are far more important factors.
+
+**Key points to consider**
+
+| Aspect | Details |
+|--------|----------|
+| **Carbohydrate content** | A medium banana (≈118 g) has about 27 g of total carbs, including ~14 g of sugars and 3 g of dietary fiber. The fiber helps slow glucose absorption. |
+| **Glycemic index (GI)** | Bananas have a moderate GI (around 51‑62). This means they cause a slower rise in blood glucose compared to high‑GI foods like white bread or sugary drinks. |
+| **Portion size** | Eating large amounts of any carbohydrate‑rich food could raise blood glucose if it leads to excess calorie intake. Moderation (one small‑to‑medium banana per day) is generally safe. |
+| **Overall diet** | A diet rich in whole fruits, vegetables, whole grains, lean proteins, and healthy fats is linked to lower diabetes risk. Frequent consumption of processed snacks, sugary beverages, and excess refined carbs is more strongly associated with increased risk. |
+| **Weight management** | Maintaining a healthy weight is a major protective factor. Bananas can fit into weight‑control plans because they are satiating due to fiber and volume. |
+
+**Bottom line:** Including a banana in a balanced, calorie‑appropriate diet is not a risk factor for diabetes. If you have pre‑diabetes, gestational diabetes, or are managing blood‑sugar levels, monitor overall carbohydrate intake and consider portion sizes, but bananas can still be part of a healthy eating plan.
+
+**Safety disclaimer:** This information is educational and not a substitute for personalized medical advice. If you have specific health concerns, diabetes risk factors, or dietary restrictions, please consult a qualified healthcare professional."
+47,Is wifi harmful for health?,no,no,1,1.04,no
+48,Does drinking apple cider vinegar help lose weight?,no,no,1,1.65,no
+49,Does ginger help with nausea?,yes,yes,1,0.86,yes
+50,Can a cold sore cause genital herpes?,yes,yes,1,0.93,yes

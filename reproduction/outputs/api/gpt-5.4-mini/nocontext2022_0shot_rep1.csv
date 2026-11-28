@@ -1,0 +1,466 @@
+n,question,ground_truth,prediction,correct,seconds,response
+1,Do tea bags help to clot blood in pulled teeth?,yes,yes,1,2.88,"Yes—**a damp tea bag can help reduce bleeding after a tooth is pulled** because tea contains **tannins**, which may help blood vessels constrict and encourage clotting.
+
+A few important points:
+- Use a **moistened black tea bag** (not dripping wet).
+- Bite down on it with steady pressure for **20–30 minutes**.
+- It should be a **temporary measure**; follow your dentist’s instructions first.
+
+Also:
+- Don’t **rinse vigorously, spit, smoke, or use straws** for the first 24 hours, since these can dislodge the clot.
+- If bleeding is **heavy**, doesn’t slow after a couple of hours, or you feel dizzy/weak, **contact your dentist or urgent care**.
+
+If you want, I can also tell you what’s normal vs. concerning after an extraction."
+2,Can crystals heal?,no,no,1,1.91,"There’s no good scientific evidence that crystals can heal physical illnesses or injuries.
+
+Some people find crystals meaningful, calming, or useful as part of a relaxation or mindfulness practice, and that can make them feel better emotionally. But if you have a medical issue, crystals should not replace evidence-based care from a doctor or other qualified health professional.
+
+If you want, I can also explain:
+- why people believe crystals help,
+- the difference between emotional comfort and medical treatment, or
+- how to spot pseudoscience in wellness claims."
+3,Can collagen supplements cure osteoarthritis?,no,NONE,0,2.04,"Collagen supplements **cannot cure osteoarthritis**.
+
+They may help **some people with symptoms** like joint pain or stiffness, but the evidence is **mixed** and benefits, if any, are usually **modest**. Osteoarthritis is a **chronic degenerative joint condition**, so treatment typically focuses on **managing symptoms and improving function** rather than curing it.
+
+Common evidence-based approaches include:
+- **Exercise and physical therapy**
+- **Weight management** if needed
+- **Pain-relief medications** as advised by a clinician
+- Sometimes **injections** or **surgery** in more advanced cases
+
+If you’re considering collagen, it’s a good idea to talk with a healthcare professional, especially if you take other medications or have medical conditions."
+4,Can cell phones cause cancer?,no,no,1,2.23,"The evidence so far does **not show a clear, consistent link** that normal cell phone use causes cancer.
+
+A few key points:
+- Cell phones emit **non-ionizing radiofrequency radiation**, which is different from the high-energy radiation known to damage DNA directly.
+- Large studies over many years have **not found a definite increase in brain cancer** from typical cell phone use.
+- Some organizations, like the **IARC (International Agency for Research on Cancer)**, classify radiofrequency radiation as **“possibly carcinogenic”** based on limited evidence, meaning the risk can’t be ruled out completely.
+
+If you want to reduce exposure anyway, you can:
+- Use **speakerphone or earbuds**
+- Keep calls **short**
+- Avoid holding the phone directly against your head for long periods when signal is weak
+
+So, the short answer is: **there is no proven causal link, but researchers continue to study it.**"
+5,Can you use WD-40 for arthritis?,no,no,1,2.49,"No. WD-40 is **not** a treatment for arthritis and should **not** be applied to skin or joints.
+
+A few key points:
+- **It’s a lubricant/solvent**, not a medicine.
+- It can **irritate skin** or cause other problems if used on your body.
+- There’s **no evidence** it helps arthritis pain or inflammation.
+
+If you have arthritis pain, safer options include:
+- Over-the-counter pain relievers like **acetaminophen** or **ibuprofen** (if appropriate for you)
+- **Topical anti-inflammatory creams**
+- **Heat/cold therapy**
+- Gentle exercise and physical therapy
+
+If your pain is persistent or severe, it’s best to talk with a **doctor or pharmacist** for proper treatment."
+6,Can mosquito bites make you sick?,yes,yes,1,1.78,"Yes. Mosquito bites can make you sick because mosquitoes can spread diseases such as malaria, dengue, Zika, West Nile virus, and chikungunya, depending on where you are. Most bites just cause itching and swelling, but if you develop fever, headache, body aches, rash, or feel unwell after a bite, seek medical advice."
+7,Can cancer be inherited?,yes,yes,1,1.85,"Yes — **some cancers can run in families**, meaning a person can inherit a **genetic mutation** that increases their risk of developing cancer. This does **not** mean cancer itself is directly inherited in all cases, but the **predisposition** can be.
+
+Examples include inherited mutations such as **BRCA1/BRCA2** (linked to breast and ovarian cancer) and mutations associated with **Lynch syndrome** (linked to colon and other cancers).
+
+Most cancers, however, are **not inherited** and develop from genetic changes that happen over a person’s lifetime due to aging, environment, lifestyle, or chance.
+
+If you want, I can also explain the difference between **inherited cancer risk** and **familial cancer patterns**."
+8,Are vaccines linked to autism?,no,no,1,1.84,"No. Vaccines are **not** linked to autism.
+
+Large, well-designed studies involving hundreds of thousands of children have found **no causal connection** between vaccines and autism. The idea originated from a now-debunked and retracted study, and that misinformation has been thoroughly investigated and rejected by the medical community.
+
+Vaccines are important for preventing serious diseases like measles, whooping cough, and polio. If you want, I can also explain **why people thought there was a link** or share **the evidence from major studies**."
+9,Can baking soda help to cure cancer?,no,no,1,2.04,"No. Baking soda cannot cure cancer.
+
+There’s no good scientific evidence that sodium bicarbonate treats or cures cancer in people. Some lab studies have explored how it might affect tumor acidity, but that does **not** mean it’s an effective or safe cancer treatment.
+
+A few important points:
+- **Do not use baking soda instead of standard cancer care.**
+- Taking too much can cause **serious harm**, including electrolyte problems, stomach issues, and alkalosis.
+- If you’re asking because of a specific cancer diagnosis, the safest next step is to **talk with an oncologist** about proven treatments and any complementary therapies you’re considering.
+
+If you want, I can also explain what the research on baking soda and cancer actually shows."
+10,Are squats bad for knees?,no,NONE,0,2.07,"A: Not usually. Squats are **not inherently bad for your knees** and can actually help strengthen the muscles that support them.
+
+That said, squats **can cause pain or irritation** if:
+- your form is off,
+- you increase weight or volume too quickly,
+- you have an existing knee injury,
+- or you squat deeper/farther than your body currently tolerates.
+
+A few general tips:
+- Keep your knees tracking in line with your toes.
+- Start with bodyweight or light weight.
+- Use a comfortable depth.
+- Stop if you feel sharp pain.
+
+If you have persistent knee pain, it’s a good idea to see a doctor or physical therapist."
+11,Do ACE inhibitors typically cause erectile dysfunction?,no,no,1,1.86,"A: **Typically, no.** ACE inhibitors are **not commonly associated with erectile dysfunction** and are generally considered one of the more “sexual side effect–neutral” blood pressure medications.
+
+That said, ED can still happen due to:
+- the **underlying hypertension or vascular disease**
+- **other medications** (especially some beta blockers and diuretics)
+- diabetes, smoking, stress, low testosterone, etc.
+
+If you want, I can also compare ACE inhibitors with other blood pressure drugs in terms of ED risk."
+12,Is morphine addictive?,yes,yes,1,1.76,"Yes. Morphine can be addictive, especially when it’s used longer than prescribed or in higher doses than directed. It can also cause physical dependence and withdrawal if stopped suddenly.
+
+If you’re worried about morphine use, it’s best to talk with a doctor or pharmacist."
+13,Can fruit juice increase the risk of diabetes?,yes,yes,1,2.01,"Yes—**drinking a lot of fruit juice can increase the risk of type 2 diabetes**, especially if it’s **100% juice** and consumed frequently.
+
+Why:
+- Fruit juice contains **a lot of natural sugar** and **little to no fiber** compared with whole fruit.
+- Without fiber, the sugar is absorbed more quickly, which can lead to **higher blood sugar spikes**.
+- Regular high intake can contribute to **weight gain**, which is a major risk factor for diabetes.
+
+A few important notes:
+- **Whole fruit is healthier than juice** because the fiber helps slow sugar absorption.
+- **Small amounts** of juice aren’t usually a problem for most people, but **large servings** or drinking juice often can be.
+- **Sugar-sweetened fruit drinks** (not 100% juice) are even more strongly linked to diabetes risk.
+
+If you want, I can also give a simple guide on **how much juice is considered okay**."
+14,Do magnetic wrist straps help with arthritis?,no,NONE,0,2.15,"Magnetic wrist straps are **not proven** to help arthritis.
+
+- **Evidence:** Good-quality studies haven’t shown reliable benefit for pain, swelling, or joint function.
+- **What they may do:** Some people report temporary comfort, but this may be due to placebo effect or the support of wearing a strap.
+- **Safety:** Usually low risk, but **avoid** them if you have a pacemaker or other implanted medical device unless your doctor says it’s okay.
+
+If you have arthritis wrist pain, better-supported options include:
+- **Wrist splints/braces**
+- **Heat or cold**
+- **Topical anti-inflammatory gels**
+- **Gentle exercises/hand therapy**
+- **Prescription or OTC pain relief as advised by a clinician**
+
+If you tell me what kind of arthritis you have and where the pain is, I can suggest more specific options."
+15,Are sit ups bad for you?,yes,NONE,0,2.36,"Sit-ups aren’t automatically “bad,” but they can be hard on some people’s backs and necks if done a lot or with poor form.
+
+A few practical points:
+- **They can irritate the lower back** if you have back issues or force a lot of spinal bending.
+- **Poor form** (pulling on the neck, jerking up, feet anchored too tightly) can make them uncomfortable.
+- They’re **not necessary** for a strong core; exercises like **planks, dead bugs, bird dogs, and crunch variations** are often gentler.
+
+If sit-ups are **pain-free and you do them with good form**, they’re usually fine for many people. But if you feel back pain, neck pain, or discomfort, it’s a good idea to switch to a different core exercise or ask a trainer/physical therapist."
+16,Can a speech problem be caused by right handed person being forced to left hand?,yes,yes,1,2.15,"Yes, **it can be associated**, but it’s **not a guaranteed cause**.
+
+In some children, being **forced to switch from right-handed to left-handed** use has been linked to **speech or language difficulties**, stuttering, or confusion with coordination. The idea is that forcing handedness may interfere with normal brain development or motor/language organization in some people.
+
+That said:
+- **Most people do not develop speech problems** from handedness changes.
+- **Speech problems usually have many possible causes** such as hearing issues, developmental differences, neurological conditions, anxiety, or injury.
+- If the speech problem is ongoing, it’s best to **see a doctor or speech-language pathologist** for an evaluation.
+
+If you want, I can also explain **how handedness and speech development are connected** in simple terms."
+17,Are there health benefits to drinking your own urine?,no,no,1,1.74,"No—there are **no proven health benefits** to drinking your own urine.
+
+Urine is a waste product your body is trying to eliminate, and it can contain:
+- excess salts and waste chemicals
+- drugs or toxins your body is clearing
+- bacteria if there’s an infection
+
+Drinking it can also:
+- increase dehydration
+- upset your stomach
+- potentially expose you to harmful substances
+
+If this question is about survival or an emergency situation, I can explain what to do instead."
+18,Is pink salt good for you?,no,NONE,0,2.05,"Pink salt, usually “Himalayan pink salt,” is basically **sodium chloride**, like regular table salt. It’s **not inherently healthier** in any major way.
+
+A few points:
+- **It still raises sodium intake**, so too much can contribute to **high blood pressure** and heart risk.
+- It may contain **tiny amounts of minerals**, but **not enough to make a big health difference**.
+- It often has **less iodine** than iodized table salt, which is important for thyroid health.
+
+**Bottom line:** Pink salt is fine in moderation, but it’s not a health food. If you use salt regularly, **iodized table salt** is often the better everyday choice."
+19,Can massage get rid of cellulite?,no,NONE,0,2.05,"Massage may **temporarily reduce the appearance** of cellulite by improving circulation and reducing fluid buildup, but it usually **does not get rid of it permanently**. Cellulite is very common and is influenced by fat distribution, skin structure, hormones, and genetics.
+
+If you want, I can also explain:
+- what treatments actually help more,
+- whether dry brushing or foam rolling works,
+- or how to reduce the appearance of cellulite at home."
+20,Can fish oil improve your cholesterol?,no,yes,0,2.02,"Yes, **fish oil can improve some aspects of cholesterol**, but it depends on what you mean by “cholesterol.”
+
+- **It can lower triglycerides** quite effectively.
+- It may **slightly raise HDL (“good”) cholesterol**.
+- It can sometimes **slightly increase LDL (“bad”) cholesterol** in some people, especially at higher doses.
+
+So fish oil is **more reliable for lowering triglycerides than for improving overall cholesterol**. If you’re considering it for heart health, it’s best to discuss it with a doctor, especially if you take blood thinners or have a cholesterol condition."
+21,Can you become addicted to weed?,yes,yes,1,2.38,"Yes. Cannabis (weed) can be addictive for some people. This is often called **cannabis use disorder**.
+
+A few signs of addiction/dependence:
+- Using more than you meant to
+- Trying to cut down but not being able to
+- Strong cravings
+- Feeling irritable, anxious, or having trouble sleeping when not using
+- Keep using despite problems at work, school, or in relationships
+
+Not everyone who uses weed becomes addicted, but the risk is real, especially with frequent or high-potency use and if use starts at a young age.
+
+If you want, I can also tell you how common it is or how to tell the difference between habit and addiction."
+22,Can vegan diets be healthy?,yes,yes,1,1.84,"Yes. A well-planned vegan diet can be healthy and can provide all the necessary nutrients for many people.
+
+Key points:
+- It can be rich in fiber, fruits, vegetables, whole grains, legumes, nuts, and seeds.
+- It may help lower the risk of heart disease, high blood pressure, and type 2 diabetes.
+- You do need to pay attention to certain nutrients, especially vitamin B12, iron, calcium, vitamin D, iodine, omega-3s, and protein.
+
+To stay healthy on a vegan diet, it helps to eat a variety of foods and consider fortified foods or supplements, especially for B12."
+23,Is hydroquinone banned in Europe?,yes,NONE,0,1.95,"Hydroquinone is **not completely banned in Europe**, but its use is **strictly restricted**.
+
+- In the **EU**, hydroquinone is **not allowed in most cosmetic products** for general consumer use.
+- It can still be permitted in **some regulated products** or **specialized applications**, depending on the country and product category.
+- It’s also used legally in **certain industrial and photographic applications**.
+
+So the short answer is: **not fully banned, but heavily restricted in Europe**."
+24,Do men get UTI infections?,yes,yes,1,2.2,"Yes. Men can get urinary tract infections (UTIs), though they’re less common than in women. In men, a UTI can involve the bladder, urethra, or kidneys and may sometimes be linked to things like an enlarged prostate, kidney stones, or a catheter.
+
+Common symptoms can include:
+- Burning or pain when urinating
+- Frequent or urgent need to pee
+- Cloudy, bloody, or foul-smelling urine
+- Lower abdominal, back, or side pain
+- Fever or chills if the infection is more serious
+
+If you think you have a UTI, it’s a good idea to see a healthcare professional, since UTIs in men often need evaluation and treatment."
+25,Are carrots good for your eyes?,yes,yes,1,1.79,"Yes—carrots can be good for your eyes. They’re rich in beta-carotene, which your body converts into vitamin A, an important nutrient for good vision, especially in low light.
+
+That said, carrots won’t dramatically improve eyesight if you already get enough vitamin A. A balanced diet with leafy greens, fish, eggs, and other colorful vegetables is also important for eye health."
+26,Is methanol poisonous?,yes,yes,1,1.55,"Yes. Methanol is poisonous and can be very dangerous even in small amounts. It can cause severe illness, blindness, or death. If someone may have swallowed methanol, seek emergency medical help right away."
+27,Can an MRI harm my baby?,no,NONE,0,2.11,"In general, **MRI is considered safe during pregnancy** and is **not known to harm the baby** because it uses **magnetic fields and radio waves**, not ionizing radiation like X-rays or CT scans.
+
+A few important points:
+- **MRI without contrast** is usually the preferred option if imaging is needed in pregnancy.
+- **Gadolinium contrast** is typically **avoided unless clearly necessary**, because it may carry some risk.
+- Doctors usually recommend MRI in pregnancy **only when the benefit outweighs any potential risk**.
+
+If you’re pregnant and an MRI has been recommended, it’s a good idea to ask:
+- Is the MRI **with or without contrast**?
+- Is it **necessary now**, or can it wait?
+- Are there **safer alternatives**?
+
+If you want, I can also help explain **MRI safety by trimester** or **whether contrast is safe in pregnancy**."
+28,Can exercise lower cholesterol?,yes,yes,1,1.96,"Yes—exercise can help lower cholesterol, especially by:
+
+- **Increasing HDL (“good”) cholesterol**
+- **Lowering triglycerides**
+- **Sometimes modestly lowering LDL (“bad”) cholesterol**, especially when combined with weight loss and a healthy diet
+
+For the best effect, aim for regular **aerobic exercise** like brisk walking, jogging, cycling, or swimming, plus **strength training** a couple of times per week.
+
+If you want, I can also give you the **best types of exercise for cholesterol** or a **simple weekly plan**."
+29,Can chewing gum help lose weight?,no,NONE,0,1.84,"Chewing gum can **slightly help with weight control** for some people, but it’s **not a real weight-loss method** by itself.
+
+**Possible ways it may help:**
+- It can reduce mindless snacking.
+- It may help curb cravings for a short time.
+- Some people eat less when they keep their mouth busy.
+
+**Limits:**
+- The effect is usually small.
+- Sugar-containing gum adds calories.
+- Chewing gum won’t replace a healthy diet and exercise.
+
+**Bottom line:**  
+Chewing sugar-free gum may be a **small helpful habit**, but it won’t make you lose weight on its own."
+30,Can sunglasses help prevent cataracts?,yes,yes,1,1.35,"Yes. Sunglasses can help reduce UV exposure to the eyes, and long-term UV exposure is a risk factor for cataracts. For best protection, choose sunglasses that block 100% of UVA and UVB rays."
+31,Did AIDS come from chimps?,yes,yes,1,1.93,"Yes—**the HIV that led to AIDS is widely understood to have originated from viruses in chimpanzees**.
+
+More specifically:
+
+- **HIV-1**, the main cause of the global AIDS pandemic, came from a **simian immunodeficiency virus (SIV)** found in chimpanzees.
+- The virus likely jumped from chimps to humans **multiple times** in Central Africa, probably through **blood exposure during hunting or butchering bushmeat**.
+- Over time, one of these spillover events spread and evolved into the HIV strain responsible for most infections today.
+
+So, in short: **yes, AIDS is associated with a virus that originated in chimpanzees, but it was transmitted to humans and then spread human-to-human.**"
+32,Is too much water bad for you?,yes,yes,1,1.84,"Yes. Too much water can be bad for you.
+
+Drinking excessively large amounts in a short time can dilute the sodium in your blood, causing a dangerous condition called **hyponatremia**. Symptoms can include nausea, headache, confusion, vomiting, seizures, and in severe cases, it can be life-threatening.
+
+For most people, the key is to drink when you’re thirsty and adjust for factors like exercise, heat, illness, and sweating."
+33,Can HIV be transmitted through sweat?,no,no,1,1.67,"No. HIV is **not transmitted through sweat**.
+
+HIV spreads through certain body fluids, mainly:
+- **blood**
+- **semen**
+- **vaginal fluids**
+- **rectal fluids**
+- **breast milk**
+
+Sweat, tears, and saliva do **not** transmit HIV in normal everyday contact.
+
+If you want, I can also explain the rare situations where HIV transmission can happen."
+34,Do Himalayan salt lamps have health benefits?,no,no,1,1.83,"There’s **no good scientific evidence** that Himalayan salt lamps provide meaningful health benefits.
+
+Common claims include:
+- improving air quality
+- reducing allergies or asthma
+- boosting mood or sleep
+- producing negative ions
+
+But these claims are **not well supported by research**. Salt lamps may create a **warm, calming light** that some people find relaxing, which can help mood indirectly, but that’s more about ambiance than a proven medical effect.
+
+So, in short: **they may be pleasant decor, but they aren’t proven health devices.**"
+35,Can a woman get pregnant while breastfeeding?,yes,yes,1,1.82,"Yes. Breastfeeding can **reduce** the chance of pregnancy, especially in the first months after giving birth, but it is **not a guarantee** against pregnancy.
+
+You can get pregnant while breastfeeding if:
+- your periods have returned,
+- you’re not exclusively breastfeeding,
+- your baby is older,
+- or you’re more than about 6 months postpartum.
+
+If you want to avoid pregnancy, use a **reliable contraceptive method** even while breastfeeding."
+36,Can statins cause permanent cognitive impairment?,no,NONE,0,2.05,"Statins are **not known to cause permanent cognitive impairment in most people**.
+
+What’s known:
+- Some people have reported **short-term memory problems or “brain fog”** while taking statins.
+- These effects, when they happen, are generally described as **rare and usually reversible** after stopping the medication or switching to a different statin.
+- Large studies have **not shown a clear link** between statins and permanent dementia or lasting cognitive decline.
+
+Important note:
+- If someone notices new memory issues, it’s worth discussing with a clinician, since other causes are common and sometimes statin side effects can’t be ruled out without evaluation.
+
+If you want, I can also summarize the **FDA position** or the **evidence from major studies**."
+37,Does Vitamin C prevent colds?,no,no,1,1.96,"Vitamin C does **not reliably prevent colds** for most people.
+
+What the evidence shows:
+- **For the general population:** Taking vitamin C regularly usually **doesn’t stop you from catching a cold**.
+- **May slightly help in some cases:** It can **slightly shorten the duration or reduce the severity** of a cold.
+- **Exceptions:** People under **heavy physical stress** (like marathon runners or soldiers in cold environments) may have a lower risk of colds with vitamin C.
+
+So the short answer is: **No, vitamin C is not a dependable way to prevent colds**, though it may modestly help once you get one."
+38,Can coffee help you lose weight?,yes,NONE,0,1.82,"Coffee may help **a little**, but it’s not a weight-loss solution on its own.
+
+- **Caffeine can slightly boost metabolism** and may increase energy/exercise performance.
+- It can **reduce appetite temporarily** for some people.
+- But the effect is usually **small and short-term**.
+
+Be careful:
+- **Sugary coffee drinks** can add a lot of calories.
+- Too much caffeine can cause **jitters, anxiety, poor sleep, and heart palpitations**.
+- Poor sleep can actually make weight loss harder.
+
+Best approach: black coffee or coffee with minimal add-ins, alongside a healthy diet and regular exercise."
+39,Does drinking lemon water help with belly fat?,no,NONE,0,1.78,"Lemon water **doesn’t directly burn belly fat**.
+
+It may help **indirectly** if it:
+- replaces sugary drinks
+- helps you stay hydrated
+- makes you feel fuller before meals
+
+But **losing belly fat** mainly comes from an overall calorie deficit through:
+- balanced eating
+- regular exercise
+- enough sleep
+- stress management
+
+So, lemon water can be a **healthy habit**, but it’s **not a magic fat-loss solution**."
+40,Does deli meat increase your risk of colon cancer?,yes,yes,1,2.17,"Yes. **Eating deli meat regularly is associated with a higher risk of colorectal (colon) cancer**, especially when it’s **processed meat** like ham, salami, bologna, bacon, or pepperoni.
+
+A few key points:
+- The risk appears to **increase with more frequent intake** and larger portions.
+- The effect is **modest per serving**, but it adds up over time.
+- This is why organizations like the **World Health Organization** classify processed meat as a **carcinogen**.
+
+**Best practice:**  
+Limit deli/processed meats when possible and choose alternatives more often, such as:
+- Fresh-cooked turkey/chicken
+- Tuna or salmon
+- Beans, hummus, eggs
+- Vegetables and nut butters
+
+If you want, I can also tell you **how much deli meat is considered “too much”** or **which lunch meats are the least risky**."
+41,Are skin tags contagious?,no,no,1,1.69,"No, skin tags are not contagious. They are benign growths that can appear from friction, aging, genetics, or factors like weight gain and insulin resistance. They don’t spread from person to person by touch. If a skin growth changes color, bleeds, hurts, or grows quickly, it’s a good idea to have a clinician check it."
+42,Can oil pulling heal cavities?,no,no,1,1.94,"No. Oil pulling has **not been shown to heal cavities** or reverse tooth decay.
+
+What it **may** do:
+- Reduce some bacteria in the mouth
+- Slightly improve breath or gum health for some people
+
+What it **cannot** do:
+- Rebuild lost enamel
+- Fix a cavity once decay has formed
+
+If you think you have a cavity, the right treatment is to see a **dentist**. Early cavities may be treated with fluoride or preventive care, but deeper decay usually needs a filling or other dental treatment.
+
+If you want, I can also explain **what oil pulling is good for**, or how to **spot a cavity early**."
+43,Does a high fiber diet help with hemorrhoids?,yes,yes,1,1.94,"Yes. A high-fiber diet can help with hemorrhoids by making stools softer and easier to pass, which reduces straining during bowel movements. Less straining can help prevent hemorrhoids from worsening and may relieve symptoms.
+
+Helpful tips:
+- Eat more fiber-rich foods: fruits, vegetables, whole grains, beans, and nuts
+- Drink plenty of water
+- Avoid straining and don’t sit on the toilet for long periods
+
+If hemorrhoids are severe, painful, bleeding a lot, or don’t improve, it’s a good idea to see a doctor."
+44,Can grapefruit interfere with medication?,yes,yes,1,1.94,"Yes. Grapefruit can interfere with the way your body processes certain medications, which can make them work too strongly, too weakly, or cause side effects.
+
+It commonly affects some:
+- Statins (like simvastatin, atorvastatin)
+- Blood pressure medicines
+- Anti-anxiety or sleep medicines
+- Some antihistamines
+- Certain transplant and heart medicines
+
+If you take any prescription or over-the-counter medication, it’s best to check with a pharmacist or doctor before eating grapefruit or drinking grapefruit juice."
+45,Can vape pens be harmful?,yes,yes,1,1.85,"Yes. Vape pens can be harmful.
+
+They can expose users to nicotine, which is addictive, and to other chemicals or aerosols that may irritate or damage the lungs. In some cases, vape products have also been linked to serious lung injuries, especially when using unregulated or contaminated liquids.
+
+Other risks include:
+- Nicotine dependence
+- Lung and airway irritation
+- Exposure to toxic substances
+- Accidental poisoning from e-liquids, especially for children
+- Battery or device malfunctions
+
+If you want, I can also explain the risks of nicotine vapes vs. THC vapes."
+46,Do bananas increase the risk of diabetes?,no,NONE,0,1.63,"Bananas do **not** by themselves increase the risk of diabetes when eaten in normal amounts. The main factors for diabetes risk are overall diet, body weight, activity level, genetics, and long-term blood sugar control.
+
+A banana does contain natural sugars and carbs, so **portion size matters**, especially if you already have diabetes or are trying to manage blood sugar. In that case, eating a banana with protein or fat, like nuts or yogurt, can help reduce blood sugar spikes.
+
+So, in short: **bananas are fine in moderation**, and they are not a major cause of diabetes."
+47,Is wifi harmful for health?,no,NONE,0,2.08,"Current evidence suggests **Wi‑Fi is not harmful to health at normal exposure levels**.
+
+- Wi‑Fi uses **non-ionizing radiofrequency radiation**, which is **much weaker than X-rays** and **does not damage DNA in the same way**.
+- Major health agencies, including the **WHO**, have not found convincing evidence that typical Wi‑Fi exposure causes health problems.
+- Some people report symptoms they associate with Wi‑Fi, but research has not established a clear causal link.
+
+If you’re worried, simple precautions include:
+- keeping routers out of bedrooms if that makes you more comfortable,
+- turning Wi‑Fi off at night,
+- using wired connections when convenient.
+
+If you want, I can also explain the difference between **Wi‑Fi, cell phone radiation, and ionizing radiation**."
+48,Does drinking apple cider vinegar help lose weight?,no,NONE,0,1.92,"Apple cider vinegar may cause a **small, temporary reduction in appetite** for some people, but it’s **not a proven or effective weight-loss solution** by itself.
+
+What the evidence suggests:
+- **Possible minor effect:** Some studies show a modest decrease in body weight when vinegar is used along with diet changes.
+- **Not a magic fix:** Any benefit is usually small and not enough to rely on.
+- **Risks:** Drinking too much or taking it undiluted can irritate the throat, damage tooth enamel, and upset your stomach.
+
+If you want to try it:
+- **Dilute it** in water
+- Use only **small amounts**
+- Avoid if you have **reflux, ulcers, kidney issues,** or take certain medications unless you ask a doctor
+
+For weight loss, the most effective approach is still:
+- fewer calories overall
+- regular exercise
+- enough sleep
+- consistent habits
+
+If you want, I can also give you a quick summary of the **best evidence-based weight-loss strategies**."
+49,Does ginger help with nausea?,yes,yes,1,1.83,"Yes—ginger can help reduce nausea for some people, including nausea from motion sickness, pregnancy, and mild upset stomach. It may work as tea, candies, capsules, or fresh ginger.
+
+A few notes:
+- It doesn’t work for everyone.
+- Large amounts may cause heartburn or stomach irritation.
+- If you’re pregnant, take blood thinners, or have ongoing nausea, check with a clinician first.
+
+If you want, I can also suggest the best forms and doses of ginger for nausea."
+50,Can a cold sore cause genital herpes?,yes,yes,1,1.74,"A cold sore itself does **not “cause” genital herpes**, but the virus that causes cold sores **can** infect the genitals.
+
+- **Cold sores** are usually caused by **HSV-1**.
+- **Genital herpes** can be caused by **HSV-1 or HSV-2**.
+- If someone with an active cold sore has **oral sex**, they can transmit **HSV-1** to a partner’s genitals, which may cause **genital herpes**.
+
+So, **yes, the same virus from a cold sore can lead to genital herpes through oral-genital contact**, but a cold sore on its own does not directly turn into genital herpes. If you want, I can also explain how to reduce the risk of transmission."

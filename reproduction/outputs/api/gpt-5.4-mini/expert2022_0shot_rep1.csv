@@ -1,0 +1,130 @@
+n,question,ground_truth,prediction,correct,seconds,response
+1,Do tea bags help to clot blood in pulled teeth?,yes,yes,1,2.03,"**Yes.**  
+
+A moist **black tea bag** can help with bleeding after a tooth extraction or a pulled tooth because the **tannins** in tea may promote clotting and the pressure from biting on it helps control bleeding. This is a common home measure for minor post-extraction bleeding.  
+
+If bleeding is heavy, persistent, or you have a bleeding disorder or take blood thinners, you should contact a dentist or doctor promptly."
+2,Can crystals heal?,no,no,1,1.7,"No. There is no good scientific evidence from high-quality medical research showing that crystals can heal diseases or meaningfully treat medical conditions. If you’re considering crystals for health, they should not replace evidence-based medical care."
+3,Can collagen supplements cure osteoarthritis?,no,no,1,1.48,"A: **No.**
+
+Collagen supplements may help **some people with osteoarthritis symptoms** a little, such as pain or function, but they **do not cure osteoarthritis**. Osteoarthritis is a chronic degenerative joint condition, and no supplement has been shown to reverse it completely."
+4,Can cell phones cause cancer?,no,no,1,1.91,"A: **No** — based on current evidence, ordinary cell phone use has **not been shown to cause cancer**.
+
+A few important nuances:
+- Cell phones emit **non-ionizing radiofrequency energy**, which is not the same as ionizing radiation (like X-rays) that can directly damage DNA.
+- Large studies and reviews to date have **not found a consistent increased risk of cancer** from typical cell phone use.
+- Because cell phone use is so widespread and some studies have had mixed findings, research continues, but the overall consensus is **no proven causal link**.
+
+If you want, I can also summarize the latest evidence from major reviews (e.g., WHO/IARC, NCI, systematic reviews)."
+5,Can you use WD-40 for arthritis?,no,no,1,1.61,"No. WD-40 is not a treatment for arthritis and should not be applied as a remedy. It can irritate skin and may be harmful if used on the body. If you’re asking about joint pain, safer and evidence-based options include pain relievers, exercise/physical therapy, and seeing a clinician for the right diagnosis and treatment."
+6,Can mosquito bites make you sick?,yes,yes,1,1.73,"Yes. Mosquito bites can make you sick because mosquitoes can transmit infections such as malaria, dengue, Zika, chikungunya, West Nile virus, and others, depending on where you are in the world. They can also cause local allergic or skin reactions."
+7,Can cancer be inherited?,yes,yes,1,1.54,"Yes. Cancer can sometimes be inherited through genetic mutations passed from parent to child, although most cancers are not directly inherited."
+8,Are vaccines linked to autism?,no,no,1,1.48,No. High-quality research has not shown vaccines to cause autism.
+9,Can baking soda help to cure cancer?,no,no,1,2.3,"No. Baking soda (sodium bicarbonate) has **not been proven to cure cancer**. While it may be studied in limited research settings for effects on tumor acidity, there is **no reliable clinical evidence** that it can treat or cure cancer in humans. Using it as a cancer cure can also be harmful if it delays effective treatment or causes side effects like electrolyte imbalances."
+10,Are squats bad for knees?,no,no,1,1.78,"A: **No.**
+
+Squats are generally **not bad for knees** when performed with proper technique and appropriate loading. In many people, they can actually help improve **knee strength, function, and resilience**.
+
+That said, squats **can aggravate knee pain** if:
+- form is poor,
+- the load is too heavy too soon,
+- there is an existing knee injury or condition,
+- or the person has pain with deep knee flexion.
+
+If you want, I can also give a **PubMed-based evidence summary** on squats and knee health."
+11,Do ACE inhibitors typically cause erectile dysfunction?,no,no,1,2.01,"A: **No.**
+
+ACE inhibitors are **not typically associated with erectile dysfunction**. In fact, compared with some other antihypertensive drugs, they are generally considered **neutral** with respect to sexual function. Erectile dysfunction is more commonly linked to other blood pressure medications, such as **thiazide diuretics** and some **beta-blockers**."
+12,Is morphine addictive?,yes,yes,1,1.63,"Yes. Morphine can be addictive, especially with repeated use, misuse, or in people with a history of substance use disorder. It can also cause physical dependence and tolerance even when taken as prescribed."
+13,Can fruit juice increase the risk of diabetes?,yes,yes,1,1.77,"**Yes.** Regular intake of fruit juice can increase the risk of diabetes, especially when consumed in larger amounts. Fruit juice often contains a high concentration of natural sugars and less fiber than whole fruit, which can lead to faster blood sugar spikes and greater overall sugar intake. Whole fruits are generally preferred over juice for diabetes risk reduction."
+14,Do magnetic wrist straps help with arthritis?,no,no,1,1.79,"A: **No.**
+
+Current high-quality evidence does **not** support magnetic wrist straps as an effective treatment for arthritis pain, stiffness, or function. Any perceived benefit is most likely due to placebo effects rather than a true therapeutic effect."
+15,Are sit ups bad for you?,yes,no,0,1.86,"A: **No**.
+
+Sit-ups are not inherently “bad” for everyone, but they **can be problematic for some people**—especially those with **low back pain, poor core control, or certain spine issues**—because repeated spinal flexion may aggravate symptoms. For many healthy people, they can be done safely in moderation, though exercises like **planks, dead bugs, and curl-ups** are often preferred for core training with less spinal stress."
+16,Can a speech problem be caused by right handed person being forced to left hand?,yes,yes,1,1.58,"Yes. Forced switching from the dominant right hand to the left can, in some cases, be associated with speech problems such as stuttering or other speech/language difficulties, especially if it occurred during childhood when hand preference and language pathways were still developing."
+17,Are there health benefits to drinking your own urine?,no,no,1,1.31,"No. Drinking your own urine has **no proven health benefits** and can be **harmful**, especially if you’re dehydrated, sick, or have kidney problems. Urine contains waste products the body is trying to remove, and it can also carry germs or contaminants.
+
+If you want, I can also summarize the evidence and common myths around urine drinking."
+18,Is pink salt good for you?,no,no,1,1.55,"**No.**
+
+Pink salt is essentially **sodium chloride**, just like regular table salt. It may contain tiny amounts of trace minerals, but not enough to make it meaningfully “healthier.” From a medical standpoint, **too much salt can raise blood pressure and increase cardiovascular risk**, and “pink” salt should not be considered a health food."
+19,Can massage get rid of cellulite?,no,no,1,1.53,"A: **No.**
+
+Massage may temporarily improve the appearance of cellulite by reducing fluid buildup and smoothing the skin, but it does **not get rid of cellulite** or provide a lasting cure."
+20,Can fish oil improve your cholesterol?,no,yes,0,1.75,"Yes — but with an important caveat.
+
+Fish oil, especially omega-3 supplements, can **lower triglycerides**, which is one part of the lipid profile. However, it **does not reliably improve overall cholesterol** in the sense many people mean it, and it can sometimes **raise LDL (“bad”) cholesterol** slightly. It may also have little effect on HDL.
+
+So if the question is broadly “Can fish oil improve your cholesterol?”, the best concise answer is:
+
+**Yes, but mainly triglycerides, not necessarily LDL cholesterol.**"
+21,Can you become addicted to weed?,yes,yes,1,1.43,"**Yes.**  
+
+Cannabis (“weed”) can be addictive. Some people develop **cannabis use disorder**, which can include:
+- strong cravings
+- difficulty cutting down or stopping
+- using more than intended
+- continued use despite problems
+- withdrawal symptoms when stopping, such as irritability, sleep trouble, or decreased appetite
+
+Risk is higher with **frequent use**, **high-potency products**, and starting at a **younger age**."
+22,Can vegan diets be healthy?,yes,yes,1,1.33,"Yes. Vegan diets can be healthy when well planned, and they can support good health across all life stages for many people. Key nutrients to pay attention to include vitamin B12, iron, calcium, vitamin D, iodine, zinc, omega-3 fats, and adequate protein."
+23,Is hydroquinone banned in Europe?,yes,no,0,1.93,"**No.** Hydroquinone is **not broadly banned in Europe**, but its use is **heavily restricted**. In the EU, hydroquinone is generally **not allowed in cosmetic skin-lightening products** (with limited exceptions such as certain professional nail products or hair dye uses under specific regulations)."
+24,Do men get UTI infections?,yes,yes,1,1.39,"Yes. Men can get urinary tract infections (UTIs), although they are less common than in women. In men, UTIs are more often associated with factors like urinary obstruction, prostate enlargement, catheter use, or other underlying conditions."
+25,Are carrots good for your eyes?,yes,yes,1,1.65,"Yes. Carrots can be good for your eyes because they contain beta-carotene, which the body converts to vitamin A, a nutrient important for normal vision and eye health. They won’t necessarily improve vision beyond normal if you already get enough vitamin A, but they do support healthy eyes as part of a balanced diet."
+26,Is methanol poisonous?,yes,yes,1,1.35,"Yes. Methanol is poisonous and can cause severe toxicity, including metabolic acidosis, blindness, coma, and death, even in small amounts."
+27,Can an MRI harm my baby?,no,no,1,1.55,"**No.**  
+In general, an **MRI does not harm a baby** when it is medically needed, especially **without contrast**. MRI uses **magnetic fields and radio waves**, not ionizing radiation like X-rays or CT scans.
+
+That said:
+- **MRI with gadolinium contrast** is usually **avoided during pregnancy** unless clearly necessary.
+- If you’re pregnant, it’s best to discuss the situation with your obstetrician and the ordering doctor so they can confirm it’s appropriate.
+
+If you want, I can also explain **MRI safety by trimester** or the difference between **MRI and CT during pregnancy**."
+28,Can exercise lower cholesterol?,yes,yes,1,1.52,"Yes. Regular exercise can help lower LDL cholesterol and triglycerides and raise HDL cholesterol, though the effect is often modest and works best along with diet and other lifestyle changes."
+29,Can chewing gum help lose weight?,no,no,1,1.55,"A: **No**.
+
+Chewing gum is **not supported by high-quality evidence as an effective way to lose weight**. Some studies suggest it may slightly reduce snacking or cravings in certain situations, but the effect is small and not reliable enough to count as a weight-loss strategy."
+30,Can sunglasses help prevent cataracts?,yes,yes,1,1.56,"Yes. Sunglasses can help reduce ultraviolet (UV) light exposure to the eyes, and UV exposure is a risk factor for cataract development. Wearing UV-blocking sunglasses may help lower that risk, though they are not a guarantee."
+31,Did AIDS come from chimps?,yes,yes,1,1.75,"Yes. The strongest evidence indicates that HIV-1, the virus that causes AIDS, arose from a simian immunodeficiency virus (SIV) in chimpanzees, with a related origin for HIV-2 from SIV in sooty mangabeys."
+32,Is too much water bad for you?,yes,yes,1,1.45,"Yes. Drinking too much water can be harmful. It can dilute your blood sodium levels and cause a dangerous condition called hyponatremia, which can lead to symptoms like nausea, confusion, seizures, and in severe cases can be life-threatening."
+33,Can HIV be transmitted through sweat?,no,no,1,1.58,"No. HIV is not transmitted through sweat. It spreads through specific body fluids such as blood, semen, vaginal/rectal fluids, and breast milk, not through casual contact like sweat."
+34,Do Himalayan salt lamps have health benefits?,no,no,1,1.52,"A: **No.**
+
+There is **no good scientific evidence** that Himalayan salt lamps provide meaningful health benefits. Claims about improving air quality, mood, sleep, or respiratory symptoms are not supported by high-quality clinical research."
+35,Can a woman get pregnant while breastfeeding?,yes,yes,1,1.66,"Yes. A woman can still get pregnant while breastfeeding. Breastfeeding may reduce fertility, especially if it is exclusive and the baby is very young, but it does not reliably prevent ovulation or pregnancy."
+36,Can statins cause permanent cognitive impairment?,no,no,1,1.94,"A: **No.**
+
+Current evidence does **not** support statins as a cause of **permanent** cognitive impairment. Some people have reported temporary memory or thinking problems while taking statins, but these effects appear **rare, usually mild, and generally reversible** after stopping the medication or switching agents. Large studies and reviews have not shown a consistent link to lasting cognitive decline."
+37,Does Vitamin C prevent colds?,no,no,1,1.59,"No. Vitamin C does not reliably prevent colds in the general population, though it may slightly reduce cold duration or severity in some cases."
+38,Can coffee help you lose weight?,yes,yes,1,1.79,"**Yes.** Coffee can modestly help with weight loss, mainly because **caffeine can slightly increase metabolism and reduce appetite in some people**. That said, the effect is usually **small and temporary**, and **adding sugar, cream, or high-calorie syrups can offset any benefit**."
+39,Does drinking lemon water help with belly fat?,no,no,1,1.94,"No. Lemon water does not specifically reduce belly fat.
+
+It may help some people drink more water and replace sugary drinks, which can support weight loss overall if it leads to fewer calories consumed. But there’s no good evidence that lemon water targets abdominal fat or causes meaningful fat loss on its own. To reduce belly fat, the main drivers are a sustained calorie deficit, regular physical activity, adequate sleep, and overall healthy eating habits."
+40,Does deli meat increase your risk of colon cancer?,yes,yes,1,1.84,"**Yes.**
+
+Processed meats, including deli meats like ham, salami, bologna, and other cured/luncheon meats, are associated with an increased risk of colorectal (colon) cancer. Major health organizations and large epidemiologic studies have found that higher intake of processed meat is linked to higher colon cancer risk.
+
+A practical takeaway: limiting processed/deli meats is generally recommended as part of colon cancer risk reduction."
+41,Are skin tags contagious?,no,no,1,1.54,"No. Skin tags are not contagious. They’re common benign growths, usually related to friction, genetics, age, weight, or insulin resistance—not an infection."
+42,Can oil pulling heal cavities?,no,no,1,1.78,"A: **No.**
+
+Oil pulling may have some limited effects on oral hygiene, such as reducing plaque or bacteria in some studies, but there is **no good evidence that it can heal or reverse cavities**. Cavities are tooth decay that usually require standard dental treatment, such as fluoride, fillings, or other restorative care."
+43,Does a high fiber diet help with hemorrhoids?,yes,yes,1,1.63,"**Yes.**
+
+A high-fiber diet can help with hemorrhoids by softening stools and reducing straining during bowel movements, which can lessen symptoms and help prevent flare-ups. It’s also commonly recommended along with good hydration and avoiding prolonged straining."
+44,Can grapefruit interfere with medication?,yes,yes,1,1.4,"Yes. Grapefruit can interfere with the metabolism of several medications, sometimes increasing drug levels and raising the risk of side effects or toxicity."
+45,Can vape pens be harmful?,yes,yes,1,1.65,"Yes. Vape pens can be harmful.
+
+They may expose users to nicotine, which is addictive and can affect brain development in adolescents, as well as other chemicals and ultrafine particles that may irritate or damage the lungs and cardiovascular system. Risks can vary by the device, liquid, and how it’s used, but “safer than smoking” does not mean harmless."
+46,Do bananas increase the risk of diabetes?,no,no,1,1.72,"No. Bananas do not generally increase the risk of diabetes when eaten as part of a normal, balanced diet. In fact, whole fruits are typically associated with a lower risk of type 2 diabetes overall, though portion size and ripeness can affect blood sugar response."
+47,Is wifi harmful for health?,no,no,1,1.84,"A: **no**
+
+Current evidence does **not** show that Wi‑Fi exposure is harmful to health at the levels typically encountered in homes, schools, and workplaces. Wi‑Fi uses non-ionizing radiofrequency radiation, and major reviews by public health agencies have not found consistent evidence of adverse health effects from ordinary exposure."
+48,Does drinking apple cider vinegar help lose weight?,no,no,1,1.87,"A: **No.**
+
+Apple cider vinegar has **no strong high-quality evidence** showing it meaningfully helps with weight loss. Some small studies suggest a **very modest, short-term effect**, but the results are inconsistent and not enough to recommend it as an effective weight-loss treatment. It can also cause side effects like **tooth enamel erosion, throat irritation, and stomach upset** if taken undiluted or in large amounts."
+49,Does ginger help with nausea?,yes,yes,1,1.64,"Yes. Ginger has evidence of helping reduce nausea, especially for pregnancy-related nausea and postoperative nausea, though the effect can vary by cause and dose."
+50,Can a cold sore cause genital herpes?,yes,no,0,1.51,"No. A cold sore is usually caused by HSV-1, and genital herpes is also caused by herpes simplex virus, but a cold sore itself does not “cause” genital herpes. However, HSV-1 from a cold sore can be spread to the genitals through oral sex, which can result in genital herpes."

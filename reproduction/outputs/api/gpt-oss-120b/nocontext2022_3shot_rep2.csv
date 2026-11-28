@@ -1,0 +1,53 @@
+n,question,ground_truth,prediction,correct,seconds,response
+1,Do tea bags help to clot blood in pulled teeth?,yes,yes,1,1.51,Yes.
+2,Can crystals heal?,no,no,1,0.86,No.
+3,Can collagen supplements cure osteoarthritis?,no,no,1,0.58,No.
+4,Can cell phones cause cancer?,no,no,1,1.23,No.
+5,Can you use WD-40 for arthritis?,no,no,1,1.05,No.
+6,Can mosquito bites make you sick?,yes,yes,1,0.59,Yes.
+7,Can cancer be inherited?,yes,yes,1,0.78,Yes.
+8,Are vaccines linked to autism?,no,no,1,0.7,No.
+9,Can baking soda help to cure cancer?,no,no,1,0.43,No.
+10,Are squats bad for knees?,no,no,1,0.94,No.
+11,Do ACE inhibitors typically cause erectile dysfunction?,no,no,1,0.47,No.
+12,Is morphine addictive?,yes,yes,1,0.89,Yes.
+13,Can fruit juice increase the risk of diabetes?,yes,yes,1,0.61,Yes.
+14,Do magnetic wrist straps help with arthritis?,no,no,1,0.45,No.
+15,Are sit ups bad for you?,yes,no,0,1.17,No.
+16,Can a speech problem be caused by right handed person being forced to left hand?,yes,no,0,1.52,"**A: No.**  
+
+Forcing a right‑handed individual to use the left hand (often called “forced handedness”) can cause discomfort, coordination difficulties, and even emotional stress, but it is not a recognized cause of speech problems. Speech disorders are usually linked to neurological, auditory, structural, or developmental factors rather than the hand a person uses for writing or other tasks. While a forced change in hand use might contribute indirectly to anxiety or reduced confidence, it does not directly lead to speech impairment."
+17,Are there health benefits to drinking your own urine?,no,no,1,0.51,No.
+18,Is pink salt good for you?,no,no,1,1.25,No.
+19,Can massage get rid of cellulite?,no,no,1,0.88,No.
+20,Can fish oil improve your cholesterol?,no,yes,0,0.65,Yes.
+21,Can you become addicted to weed?,yes,yes,1,0.71,Yes.
+22,Can vegan diets be healthy?,yes,yes,1,0.86,Yes.
+23,Is hydroquinone banned in Europe?,yes,yes,1,1.04,Yes.
+24,Do men get UTI infections?,yes,yes,1,0.83,Yes.
+25,Are carrots good for your eyes?,yes,yes,1,1.01,Yes.
+26,Is methanol poisonous?,yes,yes,1,0.71,Yes.
+27,Can an MRI harm my baby?,no,no,1,1.11,"No. (MRI, especially without contrast, is generally considered safe for a developing baby.)"
+28,Can exercise lower cholesterol?,yes,yes,1,0.59,Yes.
+29,Can chewing gum help lose weight?,no,yes,0,1.01,Yes.
+30,Can sunglasses help prevent cataracts?,yes,yes,1,0.65,A: Yes.
+31,Did AIDS come from chimps?,yes,yes,1,0.83,Yes.
+32,Is too much water bad for you?,yes,yes,1,1.02,Yes.
+33,Can HIV be transmitted through sweat?,no,no,1,0.59,Q: Can HIV be transmitted through sweat? A: No.
+34,Do Himalayan salt lamps have health benefits?,no,no,1,0.57,No.
+35,Can a woman get pregnant while breastfeeding?,yes,yes,1,0.74,"Yes. While breastfeeding can sometimes delay the return of ovulation (a phenomenon known as lactational amenorrhea), it is not a reliable form of contraception. Many women can become pregnant even while they are still nursing. If pregnancy is not desired, an additional contraceptive method should be used."
+36,Can statins cause permanent cognitive impairment?,no,no,1,0.8,No.
+37,Does Vitamin C prevent colds?,no,no,1,0.77,No.
+38,Can coffee help you lose weight?,yes,yes,1,0.98,Yes.
+39,Does drinking lemon water help with belly fat?,no,no,1,0.93,No.
+40,Does deli meat increase your risk of colon cancer?,yes,yes,1,0.93,Yes.
+41,Are skin tags contagious?,no,no,1,0.82,No.
+42,Can oil pulling heal cavities?,no,no,1,0.73,A: No.
+43,Does a high fiber diet help with hemorrhoids?,yes,yes,1,0.63,Yes.
+44,Can grapefruit interfere with medication?,yes,yes,1,0.47,Yes.
+45,Can vape pens be harmful?,yes,yes,1,0.49,Yes.
+46,Do bananas increase the risk of diabetes?,no,no,1,0.68,Q: Do bananas increase the risk of diabetes? A: No.
+47,Is wifi harmful for health?,no,no,1,0.59,No.
+48,Does drinking apple cider vinegar help lose weight?,no,no,1,0.58,No.
+49,Does ginger help with nausea?,yes,yes,1,0.56,Yes.
+50,Can a cold sore cause genital herpes?,yes,yes,1,1.73,Yes.

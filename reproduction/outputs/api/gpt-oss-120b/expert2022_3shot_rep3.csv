@@ -1,0 +1,215 @@
+n,question,ground_truth,prediction,correct,seconds,response
+1,Do tea bags help to clot blood in pulled teeth?,yes,no,0,3.9,No.
+2,Can crystals heal?,no,no,1,3.05,"**Answer: No – there is no reliable scientific evidence that crystals can heal medical conditions.**  
+
+Current medical research, including systematic reviews of complementary‑and‑alternative therapies, has not demonstrated that any type of crystal (e.g., quartz, amethyst, jade, etc.) has a measurable physiological effect on disease processes such as inflammation, infection, or tissue repair. Studies that have examined “crystal healing” typically suffer from very small sample sizes, lack of proper control groups, or are limited to anecdotal reports. In the absence of well‑designed randomized controlled trials showing a benefit, the claim that crystals can cure or substantially improve health conditions is not supported by the biomedical literature.
+
+That said, some people report feeling relaxed or experiencing a subjective sense of well‑being when using crystals. This effect is likely attributable to **placebo mechanisms** (expectation, attention, ritual) rather than a direct therapeutic action of the crystal itself. While a harmless placebo effect can be psychologically beneficial, it should **never replace evidence‑based medical treatment** for any condition.
+
+**Bottom line for patients and clinicians**
+
+- **Do not rely on crystals as a primary therapy** for any health problem.  
+- Use them only, if at all, as a complementary practice that does not interfere with proven treatments.  
+- Whenever a medical condition is present, follow guidelines and treatments that are backed by peer‑reviewed research and approved by regulatory bodies (e.g., medications, physical therapy, surgery, lifestyle interventions).  
+
+If you or someone you care for is considering crystal therapy, discuss it with a qualified health professional to ensure that it does not delay or substitute appropriate, evidence‑based care."
+3,Can collagen supplements cure osteoarthritis?,no,no,1,1.17,No.
+4,Can cell phones cause cancer?,no,no,1,1.45,A: No.
+5,Can you use WD-40 for arthritis?,no,no,1,1.88,No.
+6,Can mosquito bites make you sick?,yes,yes,1,3.08,A: Yes.
+7,Can cancer be inherited?,yes,yes,1,1.14,A: Yes.
+8,Are vaccines linked to autism?,no,no,1,1.11,"**Answer: No.** Robust, peer‑reviewed research—including large epidemiologic studies and systematic reviews—has found no credible evidence that vaccines cause autism. The original study that suggested a link has been retracted due to serious methodological flaws and undisclosed conflicts of interest, and subsequent research has consistently refuted any causal association."
+9,Can baking soda help to cure cancer?,no,no,1,1.95,"**Answer: No.**  
+
+Current scientific evidence and clinical guidelines do not support the use of baking soda (sodium bicarbonate) as a cure for cancer. While some early‑stage laboratory studies have explored how altering tumor acidity might affect cancer cells, there is no robust clinical data demonstrating that ingesting or applying baking soda can cure, treat, or substantially improve outcomes for patients with cancer. Standard cancer care relies on evidence‑based therapies such as surgery, radiation, chemotherapy, immunotherapy, and targeted agents, all of which have undergone rigorous testing in clinical trials. Using baking soda in place of these proven treatments would be ineffective and could delay appropriate care."
+10,Are squats bad for knees?,no,no,1,4.71,"**A: No.**  
+
+When performed with proper technique and appropriate load, squats generally strengthen the quadriceps, hamstrings, glutes, and supporting stabilizers, which can actually protect the knee joint and improve joint function. However, poor form (excessive forward knee translation, valgus collapse), excessive weight, or pre‑existing knee pathology can increase stress on the patellofemoral and tibio‑femoral joints and may lead to discomfort or injury. Therefore, squats are not intrinsically bad for the knees; they are beneficial when done correctly and graded appropriately for the individual’s condition."
+11,Do ACE inhibitors typically cause erectile dysfunction?,no,no,1,1.44,A: No.
+12,Is morphine addictive?,yes,yes,1,2.97,Yes. Morphine is a potent opioid analgesic with a high potential for physical dependence and addiction when used repeatedly or inappropriately.
+13,Can fruit juice increase the risk of diabetes?,yes,yes,1,1.4,Yes.
+14,Do magnetic wrist straps help with arthritis?,no,no,1,0.59,No.
+15,Are sit ups bad for you?,yes,no,0,0.9,A: No.
+16,Can a speech problem be caused by right handed person being forced to left hand?,yes,no,0,4.38,No.
+17,Are there health benefits to drinking your own urine?,no,no,1,5.71,"**Answer: No – there are no scientifically proven health benefits to drinking your own urine, and it can actually be harmful.**
+
+### Why the evidence does not support urine drinking
+
+| Claim | What the research shows |
+|------|--------------------------|
+| **Urine contains useful nutrients that can boost health** | Urine is a filtrate of blood that contains waste products (urea, creatinine, excess salts, and metabolites the body is trying to eliminate). The concentrations of vitamins, minerals, or hormones are very low and are already being excreted because the body does not need them in that form. |
+| **Re‑absorbing urine helps the immune system** | No controlled clinical trials have demonstrated an immune benefit. In fact, urine can harbor bacteria from the urinary tract or skin, posing an infection risk. |
+| **Urine therapy can treat or prevent disease** | Historical “urine therapy” practices are anecdotal and not supported by modern peer‑reviewed studies. Systematic reviews of the limited literature have found *no* credible evidence of therapeutic effect for any condition. |
+| **Drinking urine is safe in emergencies** | In extreme survival situations (e.g., no water for a very short period), re‑drinking a very small amount of freshly collected urine might buy a few minutes, but it is **not** a recommended hydration strategy. Repeated consumption quickly leads to dehydration, electrolyte imbalance, and kidney stress. |
+
+### Potential risks
+
+1. **Dehydration & electrolyte imbalance** – Urine is hyper‑osmolar relative to plasma; ingesting it can increase salt load and draw water out of cells.
+2. **Kidney strain** – The kidneys must work harder to re‑filter the same waste products the second time.
+3. **Infection** – Urine can contain bacteria (especially if a urinary tract infection is present) and may introduce pathogens to the gastrointestinal tract.
+4. **Chemical contaminants** – Medications, metabolites, and environmental toxins (e.g., heavy metals) are excreted in urine and can be re‑absorbed.
+
+### Consensus from reputable medical bodies
+
+- **World Health Organization (WHO)** and **Centers for Disease Control and Prevention (CDC)** give no guidance endorsing urine ingestion; they advise against it.
+- **American College of Emergency Physicians** lists urine drinking as a *misconception* in emergency medicine resources.
+- **Systematic reviews** in journals such as *JAMA* and *The BMJ* have concluded that the practice lacks efficacy and may be hazardous.
+
+### Practical take‑away
+
+- **Do not adopt urine drinking as a health or wellness practice.** If you are seeking hydration, nutrition, or treatment for a condition, evidence‑based options (water, balanced diet, prescribed medications, approved therapies) are far safer and more effective.
+- **If you have a specific medical concern** (e.g., chronic dehydration, a gastrointestinal issue, or a curiosity about alternative therapies), discuss it with a qualified healthcare provider rather than trial‑and‑error self‑experiments.
+
+**Bottom line:** Current high‑quality medical literature does not support any health benefit from drinking your own urine, and the practice can pose real health risks."
+18,Is pink salt good for you?,no,no,1,3.59,A: No.
+19,Can massage get rid of cellulite?,no,no,1,0.97,A: No.
+20,Can fish oil improve your cholesterol?,no,yes,0,4.72,"**Answer: Yes – but mainly for triglycerides rather than LDL‑cholesterol.**
+
+**What the evidence shows**
+
+| Lipid parameter | Typical effect of EPA/DHA (fish‑oil) supplementation |
+|-----------------|--------------------------------------------------------|
+| **Triglycerides** | ↓ 15‑30 % (strong, dose‑dependent effect) |
+| **HDL‑cholesterol** | ↑ 5‑10 % in many studies (modest) |
+| **LDL‑cholesterol** | Neutral in most trials; high‑dose EPA/DHA can sometimes ↑ LDL‑C or ↑ large buoyant LDL (considered less atherogenic) |
+| **Total cholesterol** | Generally unchanged or modestly increased because of the LDL rise |
+
+**Why it matters**
+
+- **Triglyceride‑rich lipoproteins** are an independent risk factor for atherosclerotic cardiovascular disease (ASCVD). Reducing them is a recognized therapeutic goal, especially when TG > 150 mg/dL despite statin therapy.
+- The modest HDL rise is a bonus, but HDL‑raising drugs have not consistently shown ASCVD benefit, so the clinical importance is limited.
+- An increase in LDL‑C can be a concern, particularly in patients whose LDL is already at target. The rise is usually in the larger, less‑atherogenic LDL particles, but clinicians often monitor LDL when prescribing high‑dose fish oil (≥ 2 g EPA+DHA per day).
+
+**Practical recommendations**
+
+1. **Indication** – Consider omega‑3 supplementation (or prescription EPA/DHA formulations) for patients with:
+   - Fasting triglycerides ≥ 200 mg/dL (especially ≥ 500 mg/dL) who are already on statins or unable to achieve TG targets with diet/exercise alone.
+   - Mixed dyslipidemia where modest TG and HDL improvements are desired.
+
+2. **Dose** – Prescription‑grade EPA/DHA (e.g., icosapent ethyl 2 g twice daily) has the most robust data; over‑the‑counter preparations are variable but 1–4 g total EPA+DHA daily is typical.
+
+3. **Monitoring** – Check lipid panel 4–8 weeks after starting:
+   - Verify triglyceride reduction.
+   - Watch for any rise in LDL‑C; if LDL rises substantially, consider dose adjustment, switching to a EPA‑only product (which tends to raise LDL less), or adding/intensifying statin therapy.
+
+4. **Safety** – Generally well‑tolerated. Watch for:
+   - Gastrointestinal upset.
+   - Increased bleeding time at very high doses (> 4 g/day) – advise caution in patients on anticoagulants or undergoing surgery.
+
+**Bottom line**
+
+Fish oil does improve the lipid profile, chiefly by **lowering triglycerides** and modestly raising HDL‑cholesterol. Its effect on LDL‑cholesterol is usually neutral but can be slightly upward, so clinicians should individualize therapy and monitor labs. Hence, the answer to the question “Can fish oil improve your cholesterol?” is **Yes**, with the nuance that the primary benefit is triglyceride reduction rather than a dramatic LDL‑cholesterol lowering."
+21,Can you become addicted to weed?,yes,yes,1,2.57,A: Yes.
+22,Can vegan diets be healthy?,yes,yes,1,4.54,"**Answer: Yes.**  
+
+### Why a well‑planned vegan diet can be healthy  
+
+| Aspect | Evidence from recent high‑quality research (PubMed) |
+|-------|------------------------------------------------------|
+| **Nutrient adequacy** | The Academy of Nutrition and Dietetics states that appropriately planned vegan diets meet the nutritional needs of individuals across all life‑stage categories, including pregnancy, lactation, childhood, and sport performance. <sup>1</sup> |
+| **Cardiovascular health** | Large cohort studies (e.g., Adventist Health Study‑2) show vegans have lower LDL‑cholesterol, blood pressure, and reduced incidence of coronary heart disease compared with omnivores. <sup>2,3</sup> |
+| **Metabolic outcomes** | Randomized controlled trials demonstrate that vegan diets improve insulin sensitivity, promote modest weight loss, and lower HbA₁c in people with type 2 diabetes. <sup>4</sup> |
+| **Cancer risk** | Meta‑analyses report a modest reduction in overall cancer incidence, particularly colorectal cancer, among those adhering to plant‑based diets. <sup>5</sup> |
+| **Kidney health** | Plant‑based protein intake is associated with slower progression of chronic kidney disease and lower albuminuria. <sup>6</sup> |
+| **Gut microbiome** | Higher fiber intake from legumes, whole grains, fruits, and vegetables fosters a beneficial microbiota composition linked to reduced inflammation. <sup>7</sup> |
+
+### Key nutrients that require attention
+
+| Nutrient | Typical concern | Practical strategies |
+|----------|-----------------|-----------------------|
+| Vitamin B12 | Not reliably present in plants | Daily fortified foods (e.g., nutritional yeast, fortified plant milks) **or** a reliable B12 supplement (25–100 µg/day). |
+| Iron (non‑heme) | Lower bioavailability | Pair iron‑rich foods (legumes, tofu, seeds) with vitamin C sources; consider periodic monitoring of ferritin. |
+| Calcium | Variable in fortified products | Use calcium‑fortified plant milks, tofu set with calcium sulfate, leafy greens (kale, bok choy). |
+| Vitamin D | Sun exposure may be limited | Fortified foods or a vitamin D3 supplement (especially in higher latitudes). |
+| Omega‑3 (EPA/DHA) | Limited ALA conversion | Include ALA sources (flaxseed, chia, walnuts) **or** algae‑derived EPA/DHA supplements. |
+| Zinc & Iodine | Phytate inhibition & lack of sea‑food | Soak/ferment legumes and grains; use iodized salt or seaweed (watch for excess iodine). |
+
+### Practical recommendations for clinicians and patients
+
+1. **Comprehensive dietary assessment** – Use a validated food‑frequency questionnaire or 24‑hour recall to identify gaps.  
+2. **Education on fortified foods** – Emphasize the importance of fortified plant milks, cereals, and B12 supplements.  
+3. **Regular laboratory monitoring** – Check serum B12, ferritin, 25‑OH vitamin D, calcium, and lipid profile at baseline and 6–12 month intervals.  
+4. **Individualized supplementation** – Tailor doses based on lab results, life stage (e.g., pregnancy), and personal preferences.  
+5. **Encourage whole‑food variety** – Aim for a diverse intake of legumes, whole grains, nuts, seeds, fruits, and vegetables to maximize micronutrient density and fiber.
+
+### Bottom line
+
+When intentionally planned and supported with appropriate supplementation and monitoring, vegan diets are **healthy and nutritionally adequate** for most individuals, and they confer additional protective effects against several chronic diseases."
+23,Is hydroquinone banned in Europe?,yes,yes,1,0.88,Yes.
+24,Do men get UTI infections?,yes,yes,1,3.27,"**Answer: Yes.**  
+
+Men can and do develop urinary tract infections (UTIs), although they are far less common in males than in females. When they occur, they are often associated with specific risk factors such as urinary obstruction (e.g., enlarged prostate, urethral stricture), recent catheterization, urinary stones, or underlying diabetes. The clinical presentation and treatment principles are similar to those in women, but evaluation may also focus on identifying and addressing the male‑specific predisposing factors."
+25,Are carrots good for your eyes?,yes,yes,1,1.17,Yes.
+26,Is methanol poisonous?,yes,yes,1,1.76,"**Answer: Yes.**  
+
+Methanol (CH₃OH) is a toxic alcohol. After ingestion, inhalation, or dermal absorption, it is metabolized by alcohol dehydrogenase to formaldehyde and then to formic acid, which can cause metabolic acidosis, visual disturbances (including blindness), central nervous system depression, and potentially death. Prompt medical treatment—typically with fomepizole or ethanol to inhibit alcohol‑dehydrogenase, plus supportive care and hemodialysis in severe cases—is essential. This toxicity is well documented in the peer‑reviewed literature and clinical toxicology guidelines."
+27,Can an MRI harm my baby?,no,no,1,4.51,"**A: No.**  
+
+Current evidence and guidelines indicate that diagnostic magnetic resonance imaging (MRI) without contrast agents does not pose known risks to the developing fetus. MRI does not use ionizing radiation, and when performed with appropriate safety settings (e.g., normal specific absorption rate limits, avoiding high‑field strengths when not needed), it is considered safe throughout pregnancy. Gadolinium‑based contrast agents should be used only when absolutely necessary, as they cross the placenta and have limited safety data."
+28,Can exercise lower cholesterol?,yes,yes,1,1.64,"**A: Yes.**  
+
+Regular aerobic and resistance exercise has been shown in numerous high‑quality studies to reduce low‑density lipoprotein (LDL) cholesterol and triglycerides while modestly increasing high‑density lipoprotein (HDL) cholesterol. Mechanisms include enhanced LDL receptor activity, increased cholesterol clearance, and improvements in body composition and insulin sensitivity. The effect is dose‑dependent: most guidelines recommend at least 150 minutes/week of moderate‑intensity aerobic activity (or 75 minutes/week of vigorous activity) combined with muscle‑strengthening activities on 2 or more days per week for optimal lipid‑lowering benefits."
+29,Can chewing gum help lose weight?,no,no,1,5.86,"**Answer: No.**  
+
+**Why the evidence points to a negligible effect**
+
+| Aspect | What the research says |
+|--------|------------------------|
+| **Energy expenditure** | Chewing gum increases caloric burn by roughly 10–15 kcal per hour of continuous chewing (small‐scale metabolic studies).  Even if someone chews for several hours a day, the extra calories expended are modest. |
+| **Appetite & food intake** | Some short‑term trials show a slight reduction in hunger or a modest decrease in snack intake after chewing gum, but results are inconsistent and the magnitude of reduction is usually < 50 kcal per day. |
+| **Weight‑loss studies** | Randomized controlled trials that added gum‑chewing to diet/exercise programs have not demonstrated clinically meaningful weight loss compared with control groups. Any difference in weight change is typically ≤ 0.5 kg over 12–24 weeks, which is within measurement error. |
+| **Meta‑analyses & reviews** | Systematic reviews conclude that gum‑chewing may have a **small, adjunctive** effect on energy balance, but it is insufficient to serve as a primary weight‑loss strategy. The consensus is that it can be considered a *minor* supportive behavior rather than a therapeutic intervention. |
+| **Safety & side effects** | Generally safe, though over‑chewing can cause jaw fatigue, temporomandibular joint discomfort, or dental issues (e.g., sugar‑containing gum). |
+
+### Bottom line
+- **Chewing gum alone does not produce meaningful weight loss.**  
+- It can be used as a **tiny adjunct**—for example, to occupy the mouth when trying to avoid snacks—but it should be combined with proven strategies such as a calorie‑controlled diet, regular physical activity, and behavioral counseling for any substantive, sustained weight reduction."
+30,Can sunglasses help prevent cataracts?,yes,yes,1,1.59,Yes.
+31,Did AIDS come from chimps?,yes,yes,1,5.12,"**Answer: Yes.**
+
+**Explanation**
+
+- **Origin of HIV‑1:** The overwhelming consensus in virology and evolutionary biology is that the pandemic strain of HIV‑1 (the virus that causes AIDS) is a zoonotic descendant of *Simian Immunodeficiency Virus* (SIV) that circulates in **chimpanzees** (*Pan troglodytes*). Molecular‑phylogenetic studies show that SIV‑cpz (the chimpanzee‑specific SIV) is the direct precursor of HIV‑1 group M, the strain responsible for the global AIDS epidemic. (Sharp & Hahn, *Science* 2011; Worobey et al., *PNAS* 2016.)
+
+- **Mechanism of transmission:** The crossover likely occurred when humans hunted, butchered, or otherwise came into contact with chimpanzee blood or bodily fluids. Once the virus adapted to human cells, it spread through human‑to‑human transmission (primarily sexual contact and needle sharing).
+
+- **Other primate sources:** While the majority of HIV‑1 infections stem from the chimpanzee‑derived lineage, HIV‑2 (which is less widespread) originated from SIV found in **sooty mangabey** monkeys (*Cercocebus atys*). Both events illustrate that simian immunodeficiency viruses can jump to humans and cause disease.
+
+- **Key evidence supporting the chimpanzee link**
+  1. **Genetic similarity:** HIV‑1 shares >95 % nucleotide identity with SIV‑cpz isolates.
+  2. **Geographic correlation:** The earliest known HIV‑1 cases and the prevalence of SIV‑cpz overlap in southeastern Cameroon, a region where humans and chimpanzees have long interacted.
+  3. **Historical samples:** Retrospective analyses of stored blood specimens have identified HIV‑1–like viruses in humans dating back to the early 1900s, matching the timeline for a chimpanzee‑derived spillover.
+
+**Bottom line:** Current high‑quality research (genomics, phylogenetics, epidemiology) strongly supports that the HIV‑1 virus that causes AIDS originated from a simian virus in chimpanzees. Therefore, the correct answer to the question “Did AIDS come from chimps?” is **yes**."
+32,Is too much water bad for you?,yes,yes,1,2.73,Yes.
+33,Can HIV be transmitted through sweat?,no,no,1,0.93,No.
+34,Do Himalayan salt lamps have health benefits?,no,no,1,1.71,A: No.
+35,Can a woman get pregnant while breastfeeding?,yes,yes,1,1.65,Yes.
+36,Can statins cause permanent cognitive impairment?,no,no,1,1.65,A: No.
+37,Does Vitamin C prevent colds?,no,no,1,1.23,No.
+38,Can coffee help you lose weight?,yes,yes,1,1.9,Yes.
+39,Does drinking lemon water help with belly fat?,no,no,1,2.38,No.
+40,Does deli meat increase your risk of colon cancer?,yes,yes,1,2.71,Yes.
+41,Are skin tags contagious?,no,no,1,2.23,"**Answer: No.**  
+
+Skin tags (acrochordons) are harmless, benign growths of skin that result from friction or minor skin irritation. They are **not caused by an infectious agent**, so they cannot be transmitted from person to person.  
+
+*Key points*  
+
+- **Benign:** Skin tags are composed of normal skin cells, collagen, and blood vessels. They do not become cancerous.  
+- **Non‑contagious:** There is no virus, bacteria, fungus, or other pathogen involved, so they cannot spread through contact, sharing objects, or airborne routes.  
+- **Common:** They are especially frequent in areas where skin rubs together (neck, axillae, groin, under the breasts).  
+- **Management:** If a skin tag is bothersome (e.g., irritated by clothing), it can be safely removed by a clinician using cryotherapy, cauterization, excision, or ligation.  
+
+*Take‑away:* Seeing a skin tag on yourself or someone else does not imply any infection risk, and you do not need to avoid contact with the person who has them. If you have concerns about a particular growth (e.g., rapid change, pain, bleeding), consult a healthcare professional for evaluation."
+42,Can oil pulling heal cavities?,no,no,1,1.18,A: No.
+43,Does a high fiber diet help with hemorrhoids?,yes,yes,1,1.3,"**Answer: Yes.**  
+
+A diet high in fiber increases stool bulk and softens stool consistency, which reduces straining during bowel movements—a key factor in both the prevention and treatment of hemorrhoids. Clinical guidelines and systematic reviews consistently recommend increasing dietary fiber (e.g., whole grains, fruits, vegetables, legumes) as a first‑line, evidence‑based measure to alleviate hemorrhoidal symptoms and promote healing."
+44,Can grapefruit interfere with medication?,yes,yes,1,1.08,Yes.
+45,Can vape pens be harmful?,yes,yes,1,1.0,A: Yes.
+46,Do bananas increase the risk of diabetes?,no,no,1,1.99,"No.  Current epidemiologic evidence does not show that moderate banana consumption raises the risk of developing type 2 diabetes; in fact, the fiber, potassium, and nutrients in bananas may be neutral or modestly protective when consumed as part of a balanced diet."
+47,Is wifi harmful for health?,no,no,1,1.59,A: No.
+48,Does drinking apple cider vinegar help lose weight?,no,no,1,1.69,No.
+49,Does ginger help with nausea?,yes,yes,1,1.09,A: Yes.
+50,Can a cold sore cause genital herpes?,yes,yes,1,3.03,"A: Yes. (HSV‑1, the virus that causes cold sores, can be transmitted to the genital area and result in genital herpes.)"

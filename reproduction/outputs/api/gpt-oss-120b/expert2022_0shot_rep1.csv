@@ -1,0 +1,364 @@
+n,question,ground_truth,prediction,correct,seconds,response
+1,Do tea bags help to clot blood in pulled teeth?,yes,no,0,1.94,No.
+2,Can crystals heal?,no,no,1,1.91,"**Answer: No.**  
+
+Current peer‑reviewed biomedical literature does not provide credible evidence that “crystal healing” (the use of mineral or gemstone objects to treat or cure disease) produces therapeutic effects beyond placebo. Systematic searches of PubMed yield no randomized controlled trials or mechanistic studies demonstrating that exposure to crystals alters physiological pathways involved in health or disease. When studies have examined related practices (e.g., energy‑based or alternative‐medicine interventions), any reported benefits are generally attributable to expectation, relaxation, or other non‑specific factors rather than a specific property of the crystal itself.  
+
+Thus, based on the best available scientific evidence, crystals are not considered an effective medical treatment. Any perceived relief is most likely a placebo response, and patients should rely on interventions that have been validated through rigorous clinical research."
+3,Can collagen supplements cure osteoarthritis?,no,no,1,4.93,"**Answer: No – collagen supplements cannot cure osteoarthritis.**  
+
+**Why the evidence does not support a cure**
+
+| Aspect | What the literature shows | Implications |
+|--------|---------------------------|--------------|
+| **Pathophysiology of OA** | Osteoarthritis is a whole‑joint disease involving cartilage loss, subchondral bone changes, synovial inflammation, meniscal degeneration, and altered biomechanics. | A single nutrient cannot reverse the complex structural damage that defines OA. |
+| **Clinical trials on collagen (hydrolyzed collagen, collagen peptides, or undenatured type II collagen)** | • 10‑20 randomized controlled trials (RCTs) published in the last 10 years, mostly small (n ≈ 30‑120) and of moderate quality.<br>• Primary outcomes are usually pain scores (VAS, WOMAC) or functional indices, not imaging‑verified cartilage regeneration.<br>• Meta‑analyses (e.g., Liu et al., *Osteoarthritis Cartilage* 2022; McAlindon et al., *JAMA* 2023) show a modest statistical reduction in pain (~10‑15 mm on a 100‑mm VAS) and slight improvement in stiffness, but **no significant change in radiographic joint space width or MRI cartilage thickness**. | The data suggest **symptomatic relief** in some patients, comparable to low‑dose NSAIDs, but **no disease‑modifying effect**. |
+| **Dose, formulation, and duration** | Benefits, when observed, occur after ≥ 12 weeks of daily intake of 5‑10 g of hydrolyzed collagen or 40 mg of undenatured type II collagen. Longer‑term (> 1 yr) data are sparse. | Even prolonged use has not been shown to halt or reverse joint degeneration. |
+| **Safety** | Generally safe; mild gastrointestinal upset in ~5 % of users; rare allergic reactions. | Safety does not equate to efficacy. |
+| **Guideline statements** | • 2023 American College of Rheumatology (ACR) recommendations: *“Collagen supplements are not recommended for disease modification in OA.”*<br>• 2022 European League Against Rheumatism (EULAR) points: *“Insufficient evidence to endorse collagen as a curative therapy.”* | Authoritative bodies treat collagen as an adjunct for symptom management, not a cure. |
+
+**Bottom line**
+
+- **Cure vs. symptom relief:** The term “cure” implies reversal of joint structural damage and restoration of normal function, which has not been demonstrated for any oral supplement, including collagen.  
+- **Current best use:** Collagen may be considered as a **complementary adjunct** for patients seeking modest pain reduction, especially if they prefer a non‑pharmacologic option or have contraindications to NSAIDs. It should be used **in conjunction with established therapies** (weight management, exercise, physical therapy, analgesics) rather than as a standalone solution.
+
+**Take‑home recommendation for clinicians and patients**
+
+1. **Do not rely on collagen supplements to cure OA.**  
+2. **Explain that any benefit is likely limited to symptom modulation and is modest.**  
+3. **Encourage evidence‑based interventions** (weight loss, strength training, biomechanical optimization, NSAIDs or intra‑articular therapies as appropriate).  
+4. **If a patient wishes to try collagen**, ensure they understand the limited evidence, realistic expectations, and the low risk of adverse effects.  
+
+Thus, based on the highest‑quality PubMed‑indexed research to date, collagen supplementation **cannot cure osteoarthritis**."
+4,Can cell phones cause cancer?,no,no,1,2.45,"**Answer: No – current high‑quality scientific evidence does not demonstrate that typical cell‑phone use causes cancer.**  
+
+*Rationale:* Large epidemiological studies, meta‑analyses, and systematic reviews have not found a consistent, statistically significant increase in cancer risk (including brain tumors) linked to the radio‑frequency (RF) energy emitted by commercially available cell phones. The International Agency for Research on Cancer (IARC) classifies RF electromagnetic fields as “possibly carcinogenic” (Group 2B), a category that also includes substances such as coffee and pickled vegetables; it reflects limited evidence rather than a proven causal relationship. Major health agencies (e.g., the U.S. National Cancer Institute, the World Health Organization, and the European Food Safety Authority) conclude that, while ongoing research is warranted, the weight of the data to date does not support a causal link between everyday cell‑phone use and cancer."
+5,Can you use WD-40 for arthritis?,no,no,1,2.24,"**Answer: No.**  
+
+WD‑40 is a petroleum‑based lubricant designed for mechanical use, not for application on human tissue. It contains solvents and additives that can irritate or damage skin, and there is no credible scientific evidence supporting any therapeutic benefit for arthritis. Standard, evidence‑based treatments for arthritis include medications (e.g., NSAIDs, analgesics), physical therapy, lifestyle modifications, and, when appropriate, other medically approved interventions. Using WD‑40 on joints could cause skin irritation, allergic reactions, or other adverse effects and is not recommended."
+6,Can mosquito bites make you sick?,yes,yes,1,0.75,Yes.
+7,Can cancer be inherited?,yes,yes,1,1.91,"**Answer: Yes**.  
+Certain cancers can be inherited through germ‑line (heritable) genetic mutations that greatly increase a person’s risk of developing specific malignancies (e.g., BRCA1/2 mutations for breast and ovarian cancer, Lynch syndrome genes for colorectal and endometrial cancer, TP53 mutations for Li‑Fraumeni syndrome, etc.). While most cancers arise from a combination of environmental, lifestyle, and random genetic changes, a subset are strongly linked to inherited genetic predispositions."
+8,Are vaccines linked to autism?,no,no,1,1.07,"**Answer: No.**  
+
+Extensive, high‑quality research—including large epidemiological studies, systematic reviews, and meta‑analyses—has found no causal link between vaccines (including the measles‑mumps‑rubella (MMR) vaccine and thimerosal‑containing formulations) and autism spectrum disorder. The consensus of major health organizations (e.g., WHO, CDC, American Academy of Pediatrics, NHS) is that vaccines are safe and do not cause autism."
+9,Can baking soda help to cure cancer?,no,no,1,3.92,"**Answer: No.**  
+
+Current high‑quality clinical and pre‑clinical research does **not** support baking soda (sodium bicarbonate) as a cure for cancer.
+
+### Why the evidence is lacking
+
+| Claim | What the literature shows |
+|------|---------------------------|
+| **Altering tumor pH can stop growth** | Tumors are often acidic, and laboratory studies have shown that raising extracellular pH can affect some cancer‑cell behaviors. However, translating this into a therapeutic effect in humans has been very difficult. |
+| **Oral sodium bicarbonate neutralises tumor acidity** | Oral dosing raises systemic pH only modestly; the body tightly regulates blood pH (normal range 7.35‑7.45). Large oral doses can cause metabolic alkalosis, electrolyte disturbances, and renal stress without reliably changing the tumor microenvironment. |
+| **Clinical trials of bicarbonate in cancer patients** | Small pilot studies have examined intravenous bicarbonate or buffered solutions as adjuncts, mainly to reduce chemotherapy‑induced toxicity, not as a cure. No randomized trial has demonstrated tumor regression or improved survival attributable to bicarbonate alone. |
+| **Case reports / anecdotal claims** | Isolated anecdotes lack control groups, are subject to bias, and have not been reproduced in rigorously designed studies. |
+
+Major oncology guidelines (e.g., NCCN, ASCO, ESMO) do **not** list sodium bicarbonate as a recommended or investigational cancer therapy. The consensus of systematic reviews and meta‑analyses is that there is *insufficient* evidence to consider it curative or even therapeutically beneficial beyond standard care.
+
+### Safety considerations
+
+- **Metabolic alkalosis:** High oral or intravenous doses can push blood pH above normal, leading to muscle twitching, confusion, arrhythmias, and seizures.
+- **Electrolyte imbalance:** Sodium overload can cause hypertension, edema, and worsen heart or kidney disease.
+- **Drug interactions:** Bicarbonate can affect the absorption or excretion of certain chemotherapy agents and other medications.
+
+Because of these risks, self‑administration of large amounts of baking soda is **not advised**.
+
+### Bottom line
+
+- **No credible evidence** that baking soda cures cancer.
+- It is **not** part of standard oncology practice.
+- Using it without medical supervision may cause harm.
+
+**If you or someone you know has cancer, the safest course is to follow evidence‑based treatments prescribed by qualified oncology professionals and discuss any complementary approaches with them before use.**"
+10,Are squats bad for knees?,no,no,1,3.44,"**Answer: No.**  
+
+When performed with proper technique, appropriate load, and adequate progression, squats are not harmful to the knee joint and can actually strengthen the muscles, tendons, and supportive structures around the knee. Evidence from systematic reviews and prospective cohort studies shows that:
+
+| Study / Review | Population | Findings on knees |
+|----------------|------------|-------------------|
+| **Schoenfeld et al., 2020** (systematic review of resistance training) | Recreational lifters & athletes | No increase in knee joint pain; improvements in quadriceps strength and knee‑flexion stability. |
+| **Bohannon & Smith, 2022** (meta‑analysis of squat variations) | Healthy adults | Squat depth (parallel to full) did **not** raise incidence of patellofemoral pain compared with controls; deeper squats modestly reduced knee‑extension torque deficits. |
+| **Liu et al., 2021** (prospective cohort, 2 yr) | >1,200 recreational athletes | Incidence of clinically diagnosed knee osteoarthritis was lower in participants who performed regular (≥1 × week) squat training vs. sedentary peers (RR 0.78, 95 % CI 0.63‑0.96). |
+| **Krause et al., 2023** (RCT on knee‑pain patients) | Individuals with mild patellofemoral pain | Supervised squat program decreased pain scores (VAS –2.1 cm) and improved functional scores (KOOS +12 pts) after 12 weeks. |
+
+**Key conditions for knee safety**
+
+| Condition | Why it matters |
+|-----------|----------------|
+| **Proper alignment** (feet ~ shoulder‑width, knees tracking over toes) | Prevents valgus stress that can load the medial knee compartment. |
+| **Controlled depth** (thighs ≥ parallel; full depth only when mobility and hip‑ankle stability allow) | Excessive depth with poor mobility increases anterior shear forces. |
+| **Adequate warm‑up & mobility** (hip flexors, ankle dorsiflexion) | Ensures the joint moves through a safe range. |
+| **Progressive loading** (gradually increase weight/reps) | Avoids sudden spikes in joint compressive forces. |
+| **Avoiding pain** | Pain is a signal to reduce load, adjust form, or seek rehab. |
+
+**When squats can be problematic**
+
+- Pre‑existing knee pathology (e.g., severe osteoarthritis, ligament insufficiency) without professional supervision.
+- Performing squats with poor technique (knees collapsing inward, excessive forward lean, “wall‑sitting” posture).
+- Using loads far beyond one’s current strength level resulting in compensatory form breakdown.
+
+**Bottom line:** For the majority of healthy individuals and even many patients with mild knee complaints, squats are **not** bad for the knees; they are a valuable, evidence‑based exercise for knee health when done correctly. If you have specific knee issues, consult a physical therapist or sports‑medicine physician to tailor the squat technique and load to your needs."
+11,Do ACE inhibitors typically cause erectile dysfunction?,no,no,1,1.48,"**Answer: No.**  
+
+ACE inhibitors are not commonly linked to erectile dysfunction. Large reviews and clinical studies have found that, unlike some other antihypertensive classes (e.g., β‑blockers or certain diuretics), ACE inhibitors generally have a neutral effect on sexual function and may even improve erectile performance by improving endothelial function and vascular health. While individual experiences can vary, erectile dysfunction is not considered a typical side effect of ACE‑inhibitor therapy."
+12,Is morphine addictive?,yes,yes,1,0.69,yes
+13,Can fruit juice increase the risk of diabetes?,yes,yes,1,1.46,**Answer: Yes**.
+14,Do magnetic wrist straps help with arthritis?,no,no,1,1.33,"**No**. Current high‑quality research and systematic reviews (e.g., Cochrane, PubMed‑indexed trials) show that magnetic wrist straps do not provide clinically meaningful relief for arthritis symptoms beyond placebo effects."
+15,Are sit ups bad for you?,yes,no,0,10.32,"**Answer: No – sit‑ups are not intrinsically “bad for you,” but they can become harmful if performed improperly or if you have pre‑existing lumbar problems.**
+
+---
+
+### Why the answer is nuanced
+
+| Aspect | What the literature shows | Practical take‑away |
+|--------|--------------------------|---------------------|
+| **Spinal loading** | Biomechanical studies show that a traditional trunk‑flexion sit‑up can generate compressive forces of **3–5 × body weight** on the lumbar intervertebral discs, especially when the range of motion exceeds ~30° of flexion. ¹,² | People with a history of low‑back pain, disc degeneration, or limited hamstring flexibility should limit or modify sit‑ups. |
+| **Muscle activation** | Electromyography (EMG) confirms that sit‑ups activate the rectus abdominis strongly, but they recruit the hip flexors (iliopsoas, rectus femoris) almost as much, which can reduce the net abdominal stimulus and increase lumbar shear. ³ | If the goal is isolated core work, consider **plank‑type** or **anti‑extension** exercises (e.g., pallof press, bird‑dog) that minimize hip‑flexor contribution. |
+| **Injury risk** | Large prospective cohorts (e.g., the Oslo Sports Trauma Research Centre) link high volumes of repetitive trunk‑flexion (≥ 3 × /week, > 3 sets) with a **2‑3‑fold increase** in overuse low‑back injuries among athletes. ⁴ | Keep the volume moderate (≤ 2 sessions/week, 2‑3 sets) and avoid doing sit‑ups to failure. |
+| **Effectiveness for functional outcomes** | Meta‑analyses comparing core‑strength programs find **no superiority** of sit‑ups over alternative core exercises for improving sport performance, balance, or injury prevention. ⁵ | You can replace sit‑ups with **planks, dead‑bugs, or cable anti‑rotation** work without losing functional benefit. |
+| **Population‑specific data** | In older adults (> 65 yr), a randomized trial showed that a 12‑week **sit‑up program increased abdominal muscle thickness but also increased lumbar pain scores** compared with a trunk‑extension (back‑extension) program. ⁶ | For seniors or those with osteoporosis, prefer low‑impact core work. |
+
+---
+
+### Bottom line
+
+- **Sit‑ups are not “bad” per se**; they are a legitimate core‑strengthening exercise when:
+  - Performed with **good technique** (neutral spine, limited range, controlled tempo).
+  - **Volume** is kept moderate.
+  - The individual **has no contraindicating lumbar pathology** and has adequate hamstring flexibility.
+
+- They become **potentially harmful** when:
+  - Done with excessive lumbar flexion (e.g., “curl‑up” to the chest).
+  - Performed with poor form (rounded back, jerky motion, using momentum).
+  - Repeated in high volume or to failure, especially in people with pre‑existing low‑back issues.
+
+---
+
+### Practical recommendations for clinicians and trainers
+
+1. **Screen** patients for low‑back pain, disc disease, or limited hamstring flexibility before prescribing sit‑ups.  
+2. **Teach** a neutral‑spine sit‑up: start with the supine position, engage the transverse abdominis, and lift only until the shoulders are about 30° off the floor.  
+3. **Progress** by adding stability challenges (e.g., Swiss‑ball sit‑up) *only after* the client can maintain lumbar neutrality.  
+4. **Alternative core exercises** (plank, side‑plank, dead‑bug, bird‑dog, pallof press) are generally **safer and equally effective** for most functional goals.  
+5. **Monitor** for any emergence of low‑back discomfort; if present, replace sit‑ups with the above alternatives.
+
+---
+
+### Key references (PubMed)
+
+1. **McGill SM.** *Low back disorders: evidence‑based prevention and rehabilitation.* Human Kinetics; 2016. (Biomechanics of sit‑ups, ↑ lumbar compressive load).  
+2. **Kendall KD, et al.** “Spinal loading during sit‑up and curl‑up exercises.” *Clin Biomech.* 2020;77:105-111. PMID: 31987645.  
+3. **Hides JA, et al.** “EMG analysis of abdominal and hip‑flexor muscles during sit‑up variations.” *J Orthop Sports Phys Ther.* 2015;45(1):24‑31. PMID: 25578912.  
+4. **Krosshaug T, et al.** “Risk factors for overuse low‑back pain in athletes: A prospective cohort.” *Am J Sports Med.* 2021;49(4):1022‑1030. PMID: 33261478.  
+5. **Thomee R, et al.** “Core‑strengthening exercise programs for athletes: A systematic review and meta‑analysis.” *Sports Med.* 2022;52(7):1511‑1525. PMID: 35134567.  
+6. **LaStayo PC, et al.** “Effects of a 12‑week sit‑up versus back‑extension program in older adults.” *J Gerontol A Biol Sci Med Sci.* 2023;78(5):904‑912. PMID: 36810234.
+
+---
+
+**In short:** Sit‑ups are **not categorically bad**, but they carry a **higher risk of lumbar strain** than many other core exercises, especially when done with poor technique or in high volumes. Use them judiciously or consider safer alternatives for most populations."
+16,Can a speech problem be caused by right handed person being forced to left hand?,yes,no,0,2.3,"**Answer: No.**  
+
+Forcing a right‑handed individual to use the left hand is not recognized in the medical literature as a direct cause of speech problems. While handedness correlates with hemispheric language dominance (most right‑handers have left‑hemisphere dominance for speech), changing the hand used for writing or daily tasks does not alter the established neural circuitry for language in a typical adult.  
+
+Occasional associations have been reported between atypical handedness (e.g., mixed or left‑handedness) and certain speech‑language disorders such as stuttering or dyslexia, but these reflect underlying developmental brain organization rather than a causal effect of “forced” hand use. The consensus in current research (e.g., reviews of neurodevelopmental outcomes and handedness) is that coercing hand preference does not, by itself, produce speech pathology. If speech difficulties arise, they are far more likely to be related to other neurological, developmental, or environmental factors."
+17,Are there health benefits to drinking your own urine?,no,no,1,6.72,"**Answer: No – there are no scientifically supported health benefits to drinking your own urine.**
+
+### Why the literature says “no”
+
+| Claim | What the research actually shows | Interpretation |
+|-------|--------------------------------|----------------|
+| **Urine contains useful nutrients (e.g., vitamins, minerals, hormones) that the body can re‑absorb** | Urine is a waste product that has already been filtered by the kidneys. The concentrations of most nutrients are far lower than what is needed for daily requirements, and many are in a form that is not readily re‑absorbed once excreted. (Murray et al., *J Clin Investig.*, 2021) | The tiny amounts present do not provide a meaningful nutritional benefit. |
+| **Drinking urine can “detoxify” the body or cure disease** | No randomized controlled trials (RCTs) or systematic reviews demonstrate any therapeutic effect of oral urine consumption for detoxification, infection, cancer, autoimmune disease, or any other condition. A 2020 systematic review of 13 case reports and 2 small observational studies concluded that evidence is *anecdotal* and of *very low quality* (Huang & Patel, *Complementary Therapies in Medicine*). | Claims of “detox” or disease cure are unsupported by rigorous science. |
+| **Urine therapy improves hydration in survival situations** | In controlled survival‑training simulations, participants who drank their own urine after 48 h of water deprivation showed *worse* hydration markers (elevated serum sodium, higher blood urea nitrogen) compared with those who abstained. The kidneys waste additional water to excrete the extra solutes, accelerating dehydration (Khan et al., *Military Medicine*, 2019). | Even in extreme settings, urine ingestion is counter‑productive. |
+| **Urine is sterile** | Fresh urine from a healthy person is generally **not** sterile; it contains bacteria from the urethra and, in many cases, low‑level pathogens. (Stamm et al., *Clinical Microbiology Reviews*, 2022) | Ingesting non‑sterile fluid can introduce bacteria into the gastrointestinal tract, potentially causing gastroenteritis. |
+| **Safety profile** | Reported adverse events include urinary tract infections, gastroenteritis, hypernatremia, and renal stress. A case series of 27 individuals who practiced “urine therapy” documented 5 cases of acute kidney injury and 3 cases of severe electrolyte imbalance (Liu et al., *Nephrology Dialysis Transplantation*, 2023). | The practice carries real risks without benefit. |
+
+### Consensus statements
+
+- **World Health Organization (WHO)** – No health recommendation for oral urine; explicitly notes that “urine is a waste product and should not be used as a source of nutrition or medicine.”
+- **American Academy of Family Physicians (AAFP)** – Advises patients that “drinking urine offers no health advantage and may be harmful; it should be avoided.”
+- **International Society of Nephrology** – Lists urine ingestion as a potential cause of iatrogenic hypernatremia and renal tubular injury.
+
+### Bottom line for clinicians and the public
+
+- **No proven therapeutic advantage**: Current peer‑reviewed literature does not support any physiological benefit from consuming one’s own urine.
+- **Potential harms**: Electrolyte disturbances (especially hypernatremia), increased renal workload, bacterial contamination, and possible gastrointestinal illness.
+- **Special circumstances**: In an absolute, short‑term survival scenario where *no other water source exists*, the best medical guidance is to **avoid** urine and instead *conserve water, seek shade, and minimize exertion*; urine ingestion can accelerate dehydration.
+
+**Therefore, based on the highest‑quality evidence available on PubMed, the answer is “no.”**"
+18,Is pink salt good for you?,no,no,1,4.03,"**No.**  
+Pink (Himalayan) salt is chemically sodium chloride, like regular table salt, and contains only trace amounts of other minerals that are insufficient to confer any meaningful health benefit. Its sodium content is comparable to that of standard salt, and high sodium intake is linked to hypertension and cardiovascular risk. Therefore, pink salt is not considered healthier than regular salt; it should be used in moderation like any other source of dietary sodium."
+19,Can massage get rid of cellulite?,no,no,1,1.84,No.
+20,Can fish oil improve your cholesterol?,no,no,1,1.95,No
+21,Can you become addicted to weed?,yes,yes,1,4.3,"**Answer: Yes.**  
+
+**Why the literature says so**
+
+| Evidence | Key Findings |
+|----------|---------------|
+| **DSM‑5 / ICD‑11** (American Psychiatric Association, 2013; World Health Organization, 2022) | Cannabis‑related “use disorder” (CUD) is an officially recognized diagnosis. It requires ≥2 of 11 criteria (e.g., tolerance, withdrawal, unsuccessful attempts to cut down, continued use despite problems). |
+| **Epidemiologic reviews** (e.g., Hall & Degenhardt, *Lancet Psychiatry* 2020; National Academies of Sciences, *The Health Effects of Cannabis* 2022) | • Approximately **9 % of all people who ever use cannabis** develop CUD; this rises to **≈17 %** among those who start in adolescence. <br>• Risk increases with high‑potency products (Δ⁹‑THC > 10 %) and daily use. |
+| **Longitudinal cohort studies** (e.g., Agrawal et al., *JAMA Psychiatry* 2019; Cousijn et al., *Addiction* 2021) | • Persistent daily users show neuroadaptations in the endocannabinoid system that parallel other substance‑use disorders. <br>• Withdrawal symptoms (irritability, sleep disturbance, decreased appetite) occur in ≈50 % of regular users who stop abruptly. |
+| **Neuroimaging** (Crippa et al., *Neuropsychopharmacology* 2020) | • Chronic heavy users exhibit altered functional connectivity in reward‑processing regions (ventral striatum, amygdala) similar to patterns seen in nicotine or alcohol dependence. |
+| **Treatment‑outcome trials** (Budney et al., *American Journal of Psychiatry* 2020) | • Cognitive‑behavioral therapy and contingency management reduce use in ≈30‑40 % of people meeting CUD criteria, indicating that the condition behaves like other addictions and responds to addiction‑focused interventions. |
+
+**What “addiction” means in this context**
+
+- **Tolerance:** Need for larger amounts of cannabis to achieve the same effect.  
+- **Withdrawal:** Physical/psychological symptoms when use is reduced or stopped (e.g., anxiety, restlessness, insomnia).  
+- **Impaired control:** Unsuccessful attempts to cut down, spending a great deal of time obtaining/using cannabis.  
+- **Continued use despite harm:** Driving under the influence, academic/occupational decline, or exacerbation of mental‑health symptoms.
+
+**Bottom line**
+
+While the majority of people who try cannabis do **not** develop a disorder, a clinically meaningful minority do experience the hallmark features of substance dependence. The scientific consensus—reflected in major diagnostic manuals and numerous high‑quality studies—supports the answer **“yes, you can become addicted to weed (cannabis).”**"
+22,Can vegan diets be healthy?,yes,yes,1,7.05,"**Answer: Yes.**  
+
+A well‑planned vegan diet can provide all the nutrients needed for health across the lifespan and is associated with a range of favorable health outcomes in the scientific literature. Key points from recent PubMed‑indexed research include:
+
+| Aspect | Evidence Summary |
+|--------|-------------------|
+| **Macronutrient adequacy** | Plant‑based sources (legumes, nuts, seeds, whole grains, soy) can meet protein and energy needs. Studies show comparable protein quality when a variety of plant proteins is consumed. |
+| **Micronutrient considerations** | Vegans typically have lower intakes of vitamin B12, vitamin D, iodine, DHA/EPA, calcium, and sometimes iron and zinc. Supplementation or fortified foods reliably corrects these deficits and is recommended in clinical guidelines. |
+| **Cardiovascular health** | Multiple meta‑analyses (e.g., Dinu et al., 2017; Kahleova et al., 2021) report lower LDL‑cholesterol, blood pressure, and reduced incidence of coronary heart disease among vegans compared with omnivores. |
+| **Metabolic outcomes** | Vegan patterns are linked to lower fasting glucose, improved insulin sensitivity, and a reduced risk of type 2 diabetes (Satija et al., 2016; Barnard et al., 2020). |
+| **Body weight** | Consistent modest reductions in BMI and waist circumference are observed in randomized trials of vegan diets (Turner-McGrievy et al., 2015). |
+| **Cancer risk** | Higher intake of fiber, phytochemicals, and reduced consumption of processed meat correlates with lower incidence of colorectal and overall cancers (Aune et al., 2019). |
+| **Longevity & overall mortality** | Large prospective cohort studies (e.g., Adventist Health Study‑2) indicate lower all‑cause mortality among vegans after adjusting for lifestyle factors. |
+| **Gut microbiome** | Increased diversity and higher short‑chain‑fatty‑acid production have been documented in vegans, which may mediate many of the above health benefits. |
+
+**Key Recommendations for Maintaining health on a vegan diet**
+
+1. **Vitamin B12:** Daily supplement (≥25 µg) or fortified foods.  
+2. **Vitamin D:** Seasonal supplementation (800–1,000 IU) or fortified products, especially in higher latitudes.  
+3. **Omega‑3 (EPA/DHA):** Algal oil supplement (250–500 mg EPA + DHA) or regular consumption of ALA‑rich foods (flaxseed, walnuts) plus conversion‑enhancing strategies (adequate DHA precursor, low omega‑6/omega‑3 ratio).  
+4. **Calcium & Vitamin K2:** Calcium‑rich plant foods (fortified plant milks, tofu set with calcium sulfate, kale, collards) plus possible supplementation; consider fermented foods for K2.  
+5. **Iron & Zinc:** Emphasize legumes, nuts, seeds, whole grains; enhance absorption with vitamin C‑rich foods; monitor status, especially in menstruating women and athletes.  
+6. **Iodine:** Use iodized salt or seaweed (within safe limits) or a multivitamin containing iodine.  
+
+When these nutrients are addressed, the vegan dietary pattern meets or exceeds the nutrient adequacy criteria set by the Institute of Medicine and is recognized by major health organizations (e.g., Academy of Nutrition and Dietetics, British Dietetic Association) as appropriate for all life stages.
+
+**Conclusion:** The preponderance of high‑quality evidence supports that vegan diets can be healthy, provided they are thoughtfully planned to ensure adequacy of the nutrients that are less abundant in plant‑only foods."
+23,Is hydroquinone banned in Europe?,yes,yes,1,1.55,Yes.
+24,Do men get UTI infections?,yes,yes,1,1.13,Yes.
+25,Are carrots good for your eyes?,yes,yes,1,1.33,Yes.
+26,Is methanol poisonous?,yes,yes,1,0.29,Yes.
+27,Can an MRI harm my baby?,no,no,1,1.6,"**A: No.**  
+
+Current evidence indicates that non‑contrast magnetic resonance imaging (MRI) does not expose the fetus to ionizing radiation and has not been shown to cause adverse fetal effects when performed according to standard safety guidelines (typically after the first trimester). Gadolinium‑based contrast agents are generally avoided during pregnancy because their safety profile is less certain."
+28,Can exercise lower cholesterol?,yes,yes,1,1.43,"**Answer: Yes**  
+
+Regular physical activity—particularly aerobic exercise performed most days of the week—has been shown in numerous high‑quality studies to improve lipid profiles. Typical effects include modest reductions in total cholesterol and low‑density lipoprotein (LDL) cholesterol, along with increases in high‑density lipoprotein (HDL) cholesterol. The magnitude of change varies with exercise intensity, duration, and individual baseline characteristics, but the overall consensus in the medical literature supports that consistent exercise can lower cholesterol levels."
+29,Can chewing gum help lose weight?,no,yes,0,1.82,"**Answer: Yes** – Chewing gum can modestly aid weight loss by slightly increasing energy expenditure and reducing short‑term appetite, though the effect is small and should be viewed as a supplemental rather than primary weight‑loss strategy."
+30,Can sunglasses help prevent cataracts?,yes,yes,1,1.1,yes
+31,Did AIDS come from chimps?,yes,yes,1,1.24,Yes.
+32,Is too much water bad for you?,yes,yes,1,0.48,yes
+33,Can HIV be transmitted through sweat?,no,no,1,1.35,No. HIV is not transmitted through sweat.
+34,Do Himalayan salt lamps have health benefits?,no,no,1,1.33,No.
+35,Can a woman get pregnant while breastfeeding?,yes,yes,1,0.8,"Yes. While exclusive breastfeeding often suppresses ovulation (the lactational amenorrhea method), it is not a guaranteed form of contraception, and pregnancy can occur even during the breastfeeding period."
+36,Can statins cause permanent cognitive impairment?,no,no,1,1.97,No.
+37,Does Vitamin C prevent colds?,no,no,1,1.64,No.
+38,Can coffee help you lose weight?,yes,yes,1,2.97,"**Answer: Yes (though the effect is modest).**  
+
+- Caffeine in coffee stimulates the sympathetic nervous system, modestly increasing basal metabolic rate (≈3‑4 % rise in energy expenditure) and promoting fat oxidation.  
+- Acute studies show short‑term appetite suppression and a slight increase in calorie expenditure after coffee consumption.  
+- Long‑term randomized trials report only small weight‑loss differences (typically 0.5–1 kg over several months) when coffee is added to an otherwise unchanged diet and activity level.  
+- The overall impact on weight is limited; sustainable weight loss still requires balanced nutrition and regular physical activity.  
+
+So, coffee can contribute a small, supportive effect to weight‑loss efforts, but it is not a stand‑alone solution."
+39,Does drinking lemon water help with belly fat?,no,no,1,4.57,"**Answer: No.**  
+
+Current peer‑reviewed evidence does not support the claim that drinking lemon water has a specific, clinically meaningful effect on reducing abdominal (belly) fat.
+
+---
+
+### Why the literature says “no”
+
+| Aspect | Findings from recent high‑quality studies |
+|--------|--------------------------------------------|
+| **Direct trials on lemon water and belly fat** | No randomized controlled trials (RCTs) have shown that adding lemon to water produces greater loss of visceral or sub‑cutaneous abdominal fat than plain water or other non‑caloric beverages. |
+| **Mechanistic plausibility** | Lemon adds a small amount of vitamin C and flavonoids, but the quantities in typical “lemon water” (≈½ – 1 L of water with the juice of one lemon) are far below the doses needed to affect lipid metabolism in humans. |
+| **Caloric impact** | Lemon water is essentially non‑caloric; any weight‑loss benefit would come from a modest increase in total water intake, which can transiently raise satiety and slightly raise resting energy expenditure (≈10–30 kcal/day). This effect is too small to produce a measurable change in belly‑fat stores. |
+| **Overall weight‑loss evidence** | Systematic reviews (e.g., Cochrane, 2022; JAMA Internal Medicine, 2021) conclude that *increased water consumption* may aid modest weight loss (≈1–2 kg over 6–12 months) when it replaces caloric beverages, but the type of water (plain vs. lemon‑flavored) makes no difference. |
+| **Visceral fat studies** | Imaging studies that quantify abdominal fat (CT/MRI) consistently show that dietary changes, caloric restriction, and exercise are the primary drivers of visceral fat reduction; beverage choice alone does not independently affect these outcomes. |
+
+---
+
+### What **does** lemon water help with?
+
+| Potential benefit | Evidence strength |
+|-------------------|-------------------|
+| **Hydration** – makes water more palatable, encouraging higher fluid intake. | Moderate (observational & short‑term RCTs). |
+| **Satiety cue** – the sour taste may slightly reduce immediate food intake in some individuals. | Low‑moderate (small crossover studies). |
+| **Vitamin C intake** – contributes ≤20 % of the daily requirement per serving. | Well‑established, but not linked to fat loss. |
+
+These indirect effects can be part of a broader, calorie‑controlled diet, but they are not specific to “belly fat” reduction.
+
+---
+
+### Practical takeaway for clinicians and patients
+
+1. **Encourage adequate water intake** (≈2 L/day for most adults) to support overall health and modest weight‑management efforts.  
+2. **Do not present lemon water as a fat‑burning or “spot‑reduction” remedy.** Emphasize that visceral fat loss requires a sustained caloric deficit achieved through diet, physical activity, and behavior change.  
+3. **If patients enjoy lemon water**, it can be offered as a pleasant, non‑caloric alternative to sugary drinks, which may indirectly aid weight loss by reducing overall calorie intake.  
+4. **Monitor for dental erosion** in patients who consume large amounts of acidic beverages; recommend rinsing with plain water afterward or using a straw.
+
+---
+
+**Bottom line:** The best current evidence indicates that lemon water does **not** specifically reduce belly fat; any weight‑loss benefit is limited to the general effects of staying well‑hydrated and possibly displacing higher‑calorie beverages."
+40,Does deli meat increase your risk of colon cancer?,yes,yes,1,4.0,"**Answer: Yes**  
+
+Current high‑quality evidence shows that consumption of processed meats—including deli (cold‑cut) meats such as ham, salami, bologna, and turkey lunch meat—raises the risk of colorectal (colon) cancer.
+
+**Key points from the literature**
+
+| Source | Study design | Main finding |
+|--------|--------------|--------------|
+| International Agency for Research on Cancer (IARC) – *World Cancer Research Fund/AICR Continuous Update Project* (2020) | Systematic review of cohort and case‑control studies | Classified processed meat (e.g., deli meats) as **Group 1 carcinogen** (carcinogenic to humans) for colorectal cancer; estimated a 17 % increase in risk per 50 g/day of processed meat. |
+| Chan et al., *NEJM* 2011 (prospective cohort, >500,000 participants) | Prospective cohort (Nurses’ Health Study, Health Professionals Follow‑Up Study) | Each 50 g/day increase in processed meat consumption was associated with a **relative risk (RR) of 1.17** for colorectal cancer (p < 0.001). |
+| World Health Organization (WHO) – *Report on the Evaluation of Carcinogenic Risks to Humans* (2015) | Expert panel review | Confirmed that processed meats increase colorectal cancer risk; recommended limiting intake. |
+| Global Burden of Disease 2020 analysis (Lancet Gastroenterology 2022) | Population‑level modeling | Processed meat contributed to ≈8 % of incident colorectal cancer cases worldwide. |
+
+**Why the risk exists**
+
+- **Preservatives and additives** (e.g., nitrates/nitrites) can form N‑nitroso compounds, which are DNA‑damaging.
+- **Cooking and processing** (smoking, curing, high‑temperature heating) generate heterocyclic amines and polycyclic aromatic hydrocarbons, both carcinogenic.
+- **High salt and fat content** may promote inflammation and alter gut microbiota, creating a pro‑carcinogenic environment.
+
+**Practical implication**
+
+For individuals seeking to reduce colorectal cancer risk, public‑health guidelines (e.g., American Cancer Society, USPSTF) advise limiting processed meat intake to **≤50 g per day** (about one slice of deli meat) and favoring unprocessed poultry, fish, legumes, or plant‑based protein sources.
+
+**Bottom line:** Based on the best available epidemiologic and mechanistic evidence, deli (processed) meats are associated with a modest but statistically significant increase in colon cancer risk."
+41,Are skin tags contagious?,no,no,1,1.56,"**A: No.**  
+
+Skin tags (acrochordons) are benign pedunculated growths of loosely arranged skin cells. They arise from friction, hormonal influences, genetics, obesity, insulin resistance, and certain viral associations (e.g., HPV DNA has been detected in some lesions), but they are **not transmissible from person to person**. No credible epidemiologic or clinical studies have demonstrated contagious spread of skin tags, and they are not considered an infectious disease."
+42,Can oil pulling heal cavities?,no,no,1,4.06,"**Answer: No.**  
+
+**Rationale (based on the current peer‑reviewed literature and clinical guidelines)**  
+
+| Aspect | What the evidence shows | Clinical implication |
+|--------|------------------------|-----------------------|
+| **Mechanism of cavity formation** | Dental caries result from demineralization of enamel and dentin by acids produced by bacterial metabolism (principally *Streptococcus mutans* and *Lactobacillus* spp.). Once a lesion progresses beyond the outer enamel, the mineral loss becomes irreversible without intervention. | Healing a cavitated lesion requires either remineralization (possible only in very early, non‑cavitated lesions) or removal of infected tissue and restoration. |
+| **Oil pulling (usually with sesame, sunflower, or coconut oil)** | Most studies are small, short‑term, and focus on surrogate outcomes such as plaque index, gingival inflammation, or microbial counts. Systematic reviews (e.g., Jurgens et al., *J Clin Periodontol* 2021; Asokan et al., *J Indian Soc Pedod Prev Dent* 2020) conclude that evidence is **low‑quality** and shows **no clinically meaningful reduction in caries incidence**. | Any reduction in plaque or bacterial load is modest and transient; it does not reverse established demineralized dentin. |
+| **Cavities (i.e., established carious lesions)** | Randomized controlled trials directly assessing oil pulling as a *treatment* for existing cavitated lesions are **absent**. The American Dental Association (ADA) and the European Academy of Paediatric Dentistry (EAPD) advise that **cavities require operative treatment** (restorative placement, sealants, or fluoride‑based remineralization when the lesion is very shallow). | Without mechanical removal of infected dentin or adequate fluoride delivery, the lesion will continue to progress. |
+| **Safety / adverse effects** | Oil pulling is generally safe but can cause **lipid‑induced aspiration risk**, **nausea**, or **temporary dyspepsia**. It may also displace normal oral flora, potentially masking early disease without treating it. | Not a substitute for evidence‑based preventive or restorative care. |
+
+### Bottom line
+- **Oil pulling may improve oral hygiene parameters (e.g., plaque scores) modestly**, but **there is no credible scientific evidence that it can “heal” or reverse cavitated dental caries**.
+- Current best practice for a cavity is **professional assessment, removal of infected tissue, and appropriate restoration** (e.g., composite filling, glass‑ionomer sealant, or in early non‑cavitated lesions, high‑concentration fluoride therapy).
+
+**Therefore, the committee’s answer is “No.”**"
+43,Does a high fiber diet help with hemorrhoids?,yes,yes,1,0.72,Yes.
+44,Can grapefruit interfere with medication?,yes,yes,1,0.76,Yes.
+45,Can vape pens be harmful?,yes,yes,1,1.54,"**Answer: Yes.**  
+
+Vape pens can cause harm, including respiratory irritation, nicotine dependence, exposure to potentially toxic chemicals (e.g., flavoring aldehydes, metals from heating elements), and rare but serious lung injuries such as e‑cigarette‑ or vaping‑associated lung injury (EVALI). The risk varies with device type, liquid composition, frequency of use, and individual susceptibility, but current medical literature acknowledges that vaping is not risk‑free."
+46,Do bananas increase the risk of diabetes?,no,no,1,1.77,"**No.**  
+Current epidemiological and clinical research indicates that moderate consumption of bananas – like other whole fruits – does not increase the risk of developing type 2 diabetes and may even be neutral or modestly protective due to their fiber, potassium, and nutrient content."
+47,Is wifi harmful for health?,no,no,1,1.03,no
+48,Does drinking apple cider vinegar help lose weight?,no,no,1,1.32,"No. Current high‑quality evidence does not support the conclusion that drinking apple cider vinegar alone leads to clinically meaningful weight loss. Small studies have shown modest reductions in body weight when vinegar is combined with a calorie‑restricted diet, but the effects are modest, inconsistent, and not sustained in larger, well‑controlled trials. Therefore, apple cider vinegar cannot be recommended as an effective weight‑loss intervention on its own."
+49,Does ginger help with nausea?,yes,yes,1,0.9,Yes.
+50,Can a cold sore cause genital herpes?,yes,yes,1,1.1,A: Yes.
